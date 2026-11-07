@@ -6,13 +6,13 @@ Linux, Windows and macOS and needs no OfflineVault app. The folder it writes wor
 
 ## Install
 
-Python 3.10 or newer and [pipx](https://pipx.pypa.io). From a checkout of this repository:
+Python 3.10 or newer and [pipx](https://pipx.pypa.io). Straight from GitHub:
 
 ```
-pipx install ./ovsync
+pipx install "git+https://github.com/nc/offlinevault.git#subdirectory=ovsync"
 ```
 
-`pip install ./ovsync` also works inside a virtual environment. The only dependencies are `requests` and
+`pip install "git+https://github.com/nc/offlinevault.git#subdirectory=ovsync"` also works inside a virtual environment. The only dependencies are `requests` and
 `cryptography`.
 
 ## Commands
