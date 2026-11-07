@@ -1,0 +1,30 @@
+{
+ "commit": "820b948",
+ "created": "2026-11-07T11:35:25+00:00",
+ "passed": true,
+ "failures": [],
+ "retrieval": {
+  "goldArticles": 85,
+  "fieldguideQuestions": 101,
+  "goldCovered": 431,
+  "goldFacts": 480,
+  "fullCoverage": {
+   "first-aid-childbirth-cord": "5/5",
+   "shelter-chemical-release-room": "5/5",
+   "hazards-hazmat-shelter-in-place": "5/5"
+  }
+ },
+ "app": {
+  "runId": "gate-820b948-qwen3-4b-q4_k_m",
+  "models": [
+   "qwen3-4b-q4_k_m"
+  ],
+  "questions": 92,
+  "outcomes": {
+   "partial": 29,
+   "wrong": 11,
+   "refused-correctly": 10,
+   "supported": 42
+  }
+ }
+}

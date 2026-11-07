@@ -1,0 +1,29 @@
+title: "Finding direction without a compass"
+summary: A stick and two pebbles, a watch, the moon, the Pole Star or the Southern Cross each give a rough direction; combine them and check often.
+keywords: [shadow stick, find north, watch method, Polaris, North Star, Big Dipper, Southern Cross, improvised compass, natural navigation]
+procedure: |
+  ### Sun and shadow (anywhere outside the polar regions)
+  1. **Shadow-tip method**: push a straight metre-long stick into level, clear ground. Mark the tip of its shadow with a pebble. Wait 10 to 15 minutes and mark the new tip. The line between the marks runs east-west and the **first mark is always west**. Stand with the first mark on your left and the second on your right and you face north. This works everywhere on earth.
+  2. For a more accurate line, mark the morning shadow, scribe an arc through it around the stick with a string, and mark where the afternoon shadow touches the arc again; the line between the two marks is a true east-west line.
+  3. **Watch method** (an analogue watch, or a clock face drawn on paper set to the time): in the northern hemisphere point the hour hand at the sun; halfway between the hour hand and 12 is south. On daylight saving time use 1 instead of 12. In the southern hemisphere point 12 at the sun; halfway between 12 and the hour hand is north. It is least accurate near the equator; check it with a shadow stick.
+  4. The sun is roughly east before noon, roughly west after, and due south at local noon in the northern hemisphere (due north in the southern).
+  ### Night
+  1. **Northern sky**: find the Big Dipper (the Plough). The two stars at the outer edge of its bowl point to **Polaris**, about five times the distance between them along that line. Cassiopeia's W sits opposite the Dipper with Polaris between them. Polaris is within a degree of true north; drop a line from it to the horizon and pick a landmark to walk toward.
+  2. **Southern sky**: the Southern Cross's long axis, extended about five times its length toward the pointed end, lands on a dark spot that is roughly due south. Drop to the horizon and choose a landmark.
+  3. **Moon**: if it rose before sunset, its bright side faces west; if it rose after midnight, the bright side faces east.
+  4. Steer by a star near the horizon for no more than about half an hour before re-checking; stars move.
+  ### Improvised compass
+  - Stroke a needle or razor blade repeatedly in one direction with a magnet, or through silk or hair, then float it on a chip of wood or a leaf in still water, or hang it from a thread; it settles on a north-south line. With a battery of at least 2 volts and insulated wire, coil the wire, touch its ends to the terminals and pass the needle in and out of the coil to magnetise it faster. You still have to work out which end is north from the sun.
+  ### Clues in the land, not proofs
+  - Moss grows all round trees and is a poor guide. In the northern hemisphere, south-facing slopes are sunnier and drier and lose their snow first; north-facing slopes keep snow patches into summer. Growth rings are wider on the side toward the equator. A prevailing wind can help where you know it.
+  > These methods give a general direction, not a bearing. Use the terrain you know, check often, and above 60 degrees latitude stay put; the shadow methods fail there and search teams find stationary people.
+sources:
+  - kind: pdf
+    document: army-fm-21-76-survival
+    pages: "194-199"
+    heading: "Field-expedient direction finding (FM 21-76, chapter 18)"
+  - kind: pdf
+    document: fm-3-25-26-map-reading-land-navigation
+    pages: "101-103"
+    heading: "Field-expedient methods (FM 3-25.26, chapter 9)"
+related: [map-and-compass, pace-count-and-dead-reckoning, signalling-for-rescue, finding-water]

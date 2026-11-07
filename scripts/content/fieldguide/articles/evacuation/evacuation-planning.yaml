@@ -1,0 +1,25 @@
+title: "Evacuation planning and routes"
+summary: Decide the destinations, the routes and the trigger before you need them, keep the tank above half, and leave early.
+keywords: [evacuation plan, evacuation route, mandatory evacuation, meeting place, leave early, half a tank]
+procedure: |
+  1. Local officials declare mandatory evacuations and sometimes advise voluntary ones; follow them. Decide now what would make you leave earlier on your own: a wildfire notice, a surge forecast, water rising towards the house.
+  2. Pick destinations in several directions: one in the neighbourhood, one in a nearby town, and one further away in case the whole area empties. Make sure everyone, including anyone with limited mobility, knows where they are and how they would get there. Friends or family beat public shelters, which may not take pets.
+  3. Learn the official routes and at least one alternative, and the backup ways out if the car is not available. If you have no car, arrange rides with neighbours, family or the local authority before the season. One car per household eases the traffic for everyone.
+  4. Never let the tank fall below half, and fill it when an evacuation looks likely. Keep the go-bag, the vehicle kit and cash where you can grab them.
+  5. **Leave early**, before weather or gridlock traps you. Stay on the recommended routes; shortcuts may be blocked. Watch for washed-out roads and bridges and downed power lines, and never drive into flooded areas.
+  6. If there is time before you go: tell your out-of-area contact where you are heading, lock doors and windows, unplug small appliances but leave fridges and freezers running unless flooding threatens, shut off water, gas and electricity if you are told to, leave a note saying when you left and where you went, dress in sturdy shoes and long sleeves, and check whether neighbours need a ride.
+  7. Keep the radio or phone on for instructions on the way, and take the pets.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "19-20"
+    heading: "Make an evacuation and shelter plan (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Emergency evacuation
+    sections: [Planning, Sequence]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Hurricane evacuation
+    sections: [Evacuation]
+related: [go-bag, vehicle-kit, family-communication-plan, sheltering-with-pets, hurricane]

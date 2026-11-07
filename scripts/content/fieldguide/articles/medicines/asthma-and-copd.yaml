@@ -1,0 +1,30 @@
+title: "Asthma and COPD when help is far away"
+summary: A reliever inhaler through a spacer, sitting upright, away from the trigger, and a clear line for when the attack is winning; the same rules keep a COPD flare from becoming a crisis.
+keywords: [asthma attack, inhaler, salbutamol, albuterol, spacer, COPD, emphysema, chronic bronchitis, wheezing, shortness of breath, peak flow]
+procedure: |
+  ### Asthma
+  1. **Recognise an attack:** wheeze, cough, chest tightness and breathlessness, worse at night, in the early morning, with exercise, cold air, smoke or a chest infection. Attacks can build slowly or arrive in minutes. **Danger signs:** cannot finish a sentence, lips or nails going blue, exhaustion, confusion, or a chest that goes **quiet**; a wheeze that stops because too little air is moving is worse, not better.
+  2. **Reliever first.** Sit the person upright, stay calm with them, and give the blue reliever inhaler (salbutamol/albuterol): 2 to 4 puffs through a **spacer**, one puff at a time with slow breaths, repeated every 1 to 2 hours in a bad attack until they are clearer. A spacer gets far more drug into the lungs than a bare inhaler; a child under five needs a spacer with a mask. No spacer: a clean plastic bottle with a hole cut for the inhaler mouthpiece works. Remove them from the trigger (smoke, dust, animal, cold) while you do this.
+  3. **Not improving within 20 minutes of repeated reliever, or any danger sign: this is an emergency.** Get help; keep giving reliever puffs on the way. A short course of oral steroid tablets, if the person has their own prescribed supply and action plan, is what clinicians add for attacks that need repeated reliever; take it as the plan says. Nobody should ever have a reliever and no plan.
+  4. **Between attacks** the preventer (inhaled steroid, often combined with a long-acting reliever) is what stops attacks happening, and it must be taken daily even when well; it takes one to two weeks to work and running out of it is how a crisis starts. Keep at least a month's spare preventer and two reliever inhalers, check the dose counters, and rinse the mouth after steroid inhalers.
+  5. **Triggers to control when you cannot get care:** tobacco and wood smoke (never let anyone smoke in the shelter), dust and mould after floods, cold air (scarf over the mouth), aspirin and anti-inflammatory painkillers in people who react to them, viral colds (hand washing, flu vaccine). Strong coffee has a mild bronchodilator effect, useful only as a stopgap.
+  ### COPD
+  6. COPD (emphysema and chronic bronchitis, almost always from smoking) means **constant** breathlessness, a chronic cough, often with sputum, and flare-ups lasting days to two weeks. Seventy percent of flare-ups follow a cold; smoke from fires or stoves triggers the rest. In a flare: more breathlessness, more or changed sputum (green or yellow suggests bacteria), more cough or wheeze.
+  7. **In a flare:** sit forward with hands on knees (the "tripod" position) and breathe out through pursed lips; both ease the work of breathing. Use the short-acting reliever inhaler (salbutamol or ipratropium) up to every 3 to 4 hours, keep taking the long-acting inhalers, and if the person has a "rescue pack" of steroid tablets and antibiotics with written instructions, start it as instructed. Keep drinking; stay out of smoke; a well-fitting particulate mask (not a dust mask) for wildfire smoke.
+  8. **Get help** for blue lips, confusion or unusual drowsiness, a fever with sputum that stays coloured, breathlessness at rest that does not ease, or swelling of the ankles. Someone on home oxygen must not run out; plan the cylinder supply and never smoke or have a flame near it.
+  9. The single treatment that beats every inhaler for COPD is **stopping smoking**, and flu and pneumonia vaccines prevent the infections that cause flares.
+  > Inhalers survive outages well; the risk is running out. Keep a written action plan taped inside the kit, and keep the SOF handbook pages below for the detail a clinician would use.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Asthma
+    sections: [Signs and symptoms, Management]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Chronic obstructive pulmonary disease
+    sections: [Signs and symptoms, Management]
+  - kind: pdf
+    document: sof-medical-handbook-2001
+    pages: "194-197"
+    heading: "Respiratory: asthma and chronic obstructive pulmonary disease (SOF Medical Handbook, chapter 4)"
+related: [anaphylaxis-and-auto-injector, carbon-monoxide, stockpiling-prescriptions, cpr-and-choking]

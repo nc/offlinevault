@@ -1,0 +1,23 @@
+title: "Latrines and human waste when the sewers stop"
+summary: Keep waste away from water and food, keep flies out of it, and cover it; a cat hole for a night, a trench for a few days, a deep pit with a fly-proof seat for weeks.
+keywords: [latrine, pit latrine, cat hole, straddle trench, outhouse, human waste, sewage, sanitation, flies, groundwater]
+procedure: |
+  1. **Why it comes first.** Exposed human waste breeds flies within days and spreads dysentery, typhoid, cholera and hepatitis to food and water. Nobody soils the ground; everyone uses the latrine, or digs a cat hole and covers it.
+  2. **Siting.** At least **30 metres (100 ft) from any well, stream or stored water** and on ground that drains away from it; about 90 metres (100 yd) from where food is prepared; close enough to be used at night. Never dig a pit down into the water table: keep the bottom at least 2 metres above groundwater, which may rule out pits in wet or rocky ground (see step 6). Put a handwashing station outside, always filled. Mark a path or hang a light for night use.
+  3. **Cat hole** (one person, one use): dig about 30 cm (1 ft) deep, use it, put the toilet paper in, then fill it back in with the soil and pack it down.
+  4. **Straddle trench** (a group for one to three days): 30 cm wide, 75 cm deep, 1.2 m long (1 by 2-1/2 by 4 ft) serves two people at a time; allow trench for about 8 percent of the group at once (16 ft for 100 people), trenches 60 cm apart. Leave the dug earth in a pile with a shovel so each person covers their deposit and paper at once. Boards along the edges give footing.
+  5. **Deep pit latrine** (weeks or longer): a pit 60 cm wide and 2.3 m long (2 by 7-1/2 ft) under a bench or box with holes and **fly-proof, self-closing lids**. Dig about 30 cm (1 ft) of depth for each week of expected use plus 30 cm for the final cover, but not deeper than 1.8 m (6 ft) because walls cave in; shore loose soil with boards. Seal every crack in the box, pack earth around its base so flies cannot get in, fit a metal strip inside the front as a urine deflector, and keep the drop holes no wider than 25 cm so a child cannot fall through. A screened vent pipe from the pit to 1.8 m above the roof carries smell away and traps flies against the screen at its top, especially if the inside is kept dark.
+  6. **When you cannot dig:** high water table or rock means a **mound latrine** (build up a packed earth mound and dig the pit into it, leaving 30 cm between the pit floor and the water or rock); a **burn-out latrine** (a half drum under a seat, contents burned daily with 1 part petrol to 5 parts diesel, only where open burning is allowed, with a second drum in use while one burns, ash buried); or a **bucket toilet with bag liners** in towns, marshes and flooded areas (see Bucket and composting toilets).
+  7. **Keep it clean.** Lids closed, seats scrubbed with soap and water daily, a scoop of soil, ash or sawdust over each deposit to cut smell and flies. Lime in the pit does nothing useful. Urine is better directed to a separate soakage pit (a hole 1.2 m square and deep, filled with rubble and covered) than into the latrine pit, which it fills and makes wetter and smellier.
+  8. **Closing a pit.** When the contents are within 30 cm of the surface, or you are leaving, remove the seat, spray the contents with insecticide if you have it, fill in 8 cm (3 inch) layers packing each one, mound 30 cm of earth on top so hatching fly pupae cannot escape, and mark the spot with the date. Never climb into a used pit; the sludge is dangerous for years.
+  > Everything about this topic is distances and lids: far from water, close enough to use, covered so flies never reach it. FM 21-10 chapter 6 below has the drawings for every design named here.
+sources:
+  - kind: pdf
+    document: army-fm-21-10-field-hygiene
+    pages: "38-44"
+    heading: "Waste disposal: human wastes, rules for latrines, latrine facilities and urine soakage pits (FM 21-10, chapter 6)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Pit latrine
+    sections: [Design considerations, Types, Maintenance]
+related: [bucket-and-composting-toilets, handwashing-with-scarce-water, garbage-flies-and-rodents, boil-bleach-filter]

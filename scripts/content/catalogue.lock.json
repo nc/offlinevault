@@ -1,0 +1,1228 @@
+{
+  "format": "offlinevault-lock/1",
+  "specVersion": "2026.10",
+  "entries": {
+    "docs-field-medicine-water": {
+      "artefact": {
+        "id": "docs-field-medicine-water",
+        "path": "packs/docs-field-medicine-water.tar.gz",
+        "size": 205976,
+        "sha256": "5eb33cc240e42dbda85f13fa3fdbdc44ed79195d01ee4a7d7c18689b8afe5813",
+        "uploadedAt": "2026-10-19T11:28:29Z"
+      },
+      "history": [],
+      "inputs": {
+        "epa-emergency-disinfection-drinking-water": {
+          "url": "https://www.epa.gov/sites/default/files/2015-11/documents/epa816f15003.pdf",
+          "size": 216998,
+          "sha256": "b53ca253ed4591ddc91f02fc326f3526fd04df184b0cd5099dd39baaeece6921"
+        }
+      }
+    },
+    "docs-us-gov-preparedness": {
+      "artefact": {
+        "id": "docs-us-gov-preparedness",
+        "path": "packs/docs-us-gov-preparedness.tar.gz",
+        "size": 71970404,
+        "sha256": "9b9294206498219a4c623a2a2253acb486beb462049dfb643823cf3601067a5c",
+        "uploadedAt": "2026-10-19T11:28:30Z"
+      },
+      "history": [],
+      "inputs": {
+        "fema-are-you-ready": {
+          "url": "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+          "size": 4233522,
+          "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+        },
+        "ready-supply-kit-checklist": {
+          "url": "https://www.ready.gov/sites/default/files/2024-05/ready_supply-kit-checklist.pdf",
+          "size": 242977,
+          "sha256": "008baa92f414aaf695d77e2255d91e5fb43504cd809271aefd59b13d7c2493fe"
+        },
+        "cdc-make-water-safe-during-emergency": {
+          "url": "https://www.cdc.gov/water-emergency/media/pdfs/make-water-safe-during-emergency-p.pdf",
+          "size": 730926,
+          "sha256": "c39b55b4d8f3dd40ecd2b13175f7661b52dfc6e73e4a24ef189de64fb9d513b1"
+        },
+        "cdc-use-safe-water-one-pager": {
+          "url": "https://www.cdc.gov/water-emergency/media/pdfs/334749-B_UseSafeWater-OnePager-508.pdf",
+          "size": 141092,
+          "sha256": "f7bda1f9e7827ee74278d408001e9cdf4529924fa70144e0696ee0fd4ee39bad"
+        },
+        "nws-weather-safety-guide": {
+          "url": "https://www.weather.gov/media/owlie/ttl6-10.pdf",
+          "size": 14573890,
+          "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+        },
+        "army-fm-21-76-survival": {
+          "url": "https://archive.org/download/Fm21-76SurvivalManual/FM21-76_SurvivalManual.pdf",
+          "size": 3023620,
+          "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+        },
+        "army-atp-3-50-21-survival-2018": {
+          "url": "https://archive.org/download/survival-atp-3-50-21/Survival%20%28ATP%203-50-21%29.pdf",
+          "size": 23749774,
+          "sha256": "817746b13262e9e26e8ac7d25bf879790df369c2aa0a2600f69158ec4090461c"
+        },
+        "army-fm-4-25-11-first-aid": {
+          "url": "https://archive.org/download/FM4-25.11/FM4-25.11.pdf",
+          "size": 2455031,
+          "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+        },
+        "army-fm-21-10-field-hygiene": {
+          "url": "https://archive.org/download/FM21-10_201212/FM21-10_201212.pdf",
+          "size": 8334865,
+          "sha256": "522a4d09d45f84baeccafdc4dd6322748a72cdafd8e9590d9d6d4f831b8cdd31"
+        },
+        "usda-complete-guide-home-canning-2015": {
+          "url": "https://archive.org/download/usda-guide-home-canning/USDA-Complete-Guide-to-Home-Canning-2015-revision.pdf",
+          "size": 17320124,
+          "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+        }
+      }
+    },
+    "docs-us-military-manuals": {
+      "artefact": {
+        "id": "docs-us-military-manuals-2026-10",
+        "path": "packs/docs-us-military-manuals_2026-10.tar.gz",
+        "size": 198980550,
+        "sha256": "e6984cf0c3585116ab569c0fb0bd869fd3298d2b05d9010ae2742919cf86c1f4",
+        "uploadedAt": "2026-10-19T20:00:33Z"
+      },
+      "history": [
+        "docs-us-military-manuals"
+      ],
+      "inputs": {
+        "fm-3-05-70-survival-2002": {
+          "url": "https://archive.org/download/fm-3-05.70-survival-2002/FM%203-05.70%20Survival%20%202002.pdf",
+          "size": 21019230,
+          "sha256": "76905fc16b14b2a57eb646adb6f3c238dcfb161d66ff1103a2a7b702e20e0f32"
+        },
+        "fm-21-76-1-survival-evasion-recovery": {
+          "url": "https://archive.org/download/Fm21-76-1/Fm21-76-1.pdf",
+          "size": 11484359,
+          "sha256": "0c5075666199fa7cbe8ded1e0a6c1832d2b16ae0249230570d1c540b011687ab"
+        },
+        "navedtra-14295-hospital-corpsman": {
+          "url": "https://archive.org/download/Hospital_Corpsman_NAVEDTRA_14295/Hospital_Corpsman_NAVEDTRA_14295.pdf",
+          "size": 12293286,
+          "sha256": "1985609b2b16bbeca4831ff0a19415e330cfc7d30ab297150e3c2c788acdd3f6"
+        },
+        "usphs-ships-medicine-chest-2003": {
+          "url": "https://archive.org/download/gov.law.usphs.ships.2003/usphs.ships.2003.pdf",
+          "size": 4164123,
+          "sha256": "261edcaaa2fb1ae830665b19e4b0122e1ff16a7cec704d0e1dead3f0f815290d"
+        },
+        "sof-medical-handbook-2001": {
+          "url": "https://archive.org/download/SOFMH2001/SOFMH2001.pdf",
+          "size": 39435808,
+          "sha256": "8af797930c9884a0824fa481a4a4721eb6cb056ae48b051130dab9169a6fd1f7"
+        },
+        "chem-bio-casualties-handbook-2016": {
+          "url": "https://archive.org/download/Chembio5thEd2016FullBook/chembio%205th%20ed%20%202016%20full%20book.pdf",
+          "size": 3278630,
+          "sha256": "310a8301f02dc4a2e641c576d627499820e4d396615b5378668a6ccc41be2ff0"
+        },
+        "pediatric-surgery-hostile-environments": {
+          "url": "https://archive.org/download/PedsFullBook/PedsFullBook.pdf",
+          "size": 3718158,
+          "sha256": "7bf010532424aab9f0c3a72066c3d58a68f0c6411497333d18b5bacebbf2af14"
+        },
+        "fm-4-02-17-preventive-medicine-2000": {
+          "url": "https://archive.org/download/fm-4-02.17-preventative-medicine-services-2000/FM%204-02.17%20Preventative%20Medicine%20Services%20%202000.pdf",
+          "size": 2603693,
+          "sha256": "bdcdf40713810091ac438aefa05bfaf2241ee1f2024553676736324ac5e41cba"
+        },
+        "fm-3-25-26-map-reading-land-navigation": {
+          "url": "https://archive.org/download/FM3-25x26/FM3-25x26.pdf",
+          "size": 8167056,
+          "sha256": "bf92a942048931c59f2b48b366acd9b5f8f40120b0866d702dec799a4e8be24c"
+        },
+        "fm-3-97-61-military-mountaineering": {
+          "url": "https://archive.org/download/military-mountaineering-fm-3-97.61-tc-90-6-1/Military%20Mountaineering%20-%20FM%203-97.61%20%28TC%2090-6-1%29.pdf",
+          "size": 58753105,
+          "sha256": "ace1564b24a68d91d804dd89d993f726c642cfd87af7c11a78e2f880cc5fc766"
+        },
+        "fm-5-125-rigging-2001": {
+          "url": "https://archive.org/download/RiggingTechniquesProceduresAndApplicationsFM51252001/Rigging%20Techniques%2C%20Procedures%2C%20And%20Applications%20%28FM%205-125%29%282001%29.pdf",
+          "size": 3816989,
+          "sha256": "f9111df4d3769217c2cc927984ea0e4a93de8ec84313000b3b3afc297f345f97"
+        },
+        "fm-31-70-basic-cold-weather": {
+          "url": "https://archive.org/download/milmanual-fm-31-70-basic-cold-weather-survival-manual/fm_31-70_basic_cold_weather_survival_manual.pdf",
+          "size": 18302035,
+          "sha256": "8b765d44e6e853b5aa2480aaee8f090a08ce39b4ef8560919d578a912bf0a905"
+        },
+        "atp-4-02-11-casualty-response-2026": {
+          "url": "https://archive.org/download/army-techniques-publication-for-casualty-response-tactical-combat-casualty-care-/Army%20Techniques%20Publication%20for%20Casualty%20Response%2C%20Tactical%20Combat%20Casualty%20Care%20and%20First%20Aid%20-%20ATP%204-02.11%20%28March%202026%29.pdf",
+          "size": 12665561,
+          "sha256": "a4a0650f5bb14c1c7163b9b1e9f08bcc012fb3fe49ea4432f0ccaffb9af86542"
+        },
+        "fema-453-shelters-safe-rooms-2006": {
+          "url": "https://archive.org/download/fema-453-design-guidance-for-shelters-and-safe-rooms-2006/FEMA%20453%20Design%20Guidance%20For%20Shelters%20And%20Safe%20Rooms%20%202006.pdf",
+          "size": 11742994,
+          "sha256": "05b77d0d2e651bbd76e7c87b8ffed23d35a404b1740bc764f5fe370cabb876a7"
+        },
+        "nuclear-war-survival-skills-1987": {
+          "url": "https://archive.org/download/NuclearWarSurvivalSkills_201405/nwss.pdf",
+          "size": 19834771,
+          "sha256": "7af59ed47e0aa70bf8efb710b91ac629e9a24d6015a5458466f53bf8c2d13509"
+        }
+      }
+    },
+    "map-world-full": {
+      "source": {
+        "url": "https://build.protomaps.com/20261020.pmtiles",
+        "size": 139013292063,
+        "sha256": null,
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:28Z",
+        "shaSource": null
+      },
+      "artefact": {
+        "id": "map-world-full-2026-10",
+        "path": "maps/world-full_2026-10.pmtiles",
+        "size": 139013292063,
+        "sha256": "d52eeb2b38099d0dcaa8c8712106d45339066f78be22a3a168267f3bbf797528",
+        "uploadedAt": "2026-10-20T13:18:10Z"
+      },
+      "history": [],
+      "inputs": {
+        "build": "20261020",
+        "maxzoom": 15,
+        "bbox": null,
+        "source": "https://build.protomaps.com/20261020.pmtiles"
+      }
+    },
+    "map-world-low": {
+      "source": {
+        "url": "https://build.protomaps.com/20261020.pmtiles",
+        "size": 139013292063,
+        "sha256": null,
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:28Z",
+        "shaSource": null
+      },
+      "artefact": {
+        "id": "map-world-low-2026-10",
+        "path": "maps/world-low_2026-10.pmtiles",
+        "size": 189309327,
+        "sha256": "be7894dd6a46ed46ef7bb8b1b2d562f725de66491e0146c6bb801be19c2aeeab",
+        "uploadedAt": "2026-10-20T13:17:39Z"
+      },
+      "history": [
+        "map-world-low-20261019"
+      ],
+      "inputs": {
+        "build": "20261020",
+        "maxzoom": 7,
+        "bbox": null,
+        "source": "https://build.protomaps.com/20261020.pmtiles"
+      }
+    },
+    "model-muse-glimmer-30b-q4_k_m": {
+      "source": {
+        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF/resolve/main/Muse-Glimmer-30B-KQuant-17GB-Q4_K_M.gguf",
+        "size": 16756683904,
+        "sha256": "4cc57c0f51040a226e5a72cc47b7613f7772950e460a665f7083de89f183f60e",
+        "edition": null,
+        "resolvedAt": "2026-10-31T17:02:28Z",
+        "shaSource": "hf"
+      },
+      "artefact": {
+        "id": "model-muse-glimmer-30b-q4_k_m",
+        "path": "models/Muse-Glimmer-30B-KQuant-17GB-Q4_K_M.gguf",
+        "size": 16756683904,
+        "sha256": "4cc57c0f51040a226e5a72cc47b7613f7772950e460a665f7083de89f183f60e",
+        "uploadedAt": "2026-10-19T16:44:00Z"
+      },
+      "history": []
+    },
+    "model-muse-glimmer-dflash": {
+      "source": {
+        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF/resolve/main/dflash-Muse-Glimmer-30B-Q4_K_M.gguf",
+        "size": 1631208128,
+        "sha256": "b2e808bf656086fe86bd0d0bd990f01d33e377537a07c02d45371517c8b264ef",
+        "edition": null,
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "hf"
+      },
+      "artefact": {
+        "id": "model-muse-glimmer-dflash",
+        "path": "models/dflash-Muse-Glimmer-30B-Q4_K_M.gguf",
+        "size": 1631208128,
+        "sha256": "b2e808bf656086fe86bd0d0bd990f01d33e377537a07c02d45371517c8b264ef",
+        "uploadedAt": "2026-10-19T15:07:51Z"
+      },
+      "history": []
+    },
+    "model-qwen3-4b-q4_k_m": {
+      "source": {
+        "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/resolve/main/Qwen3-4B-Instruct-2507-Q4_K_M.gguf",
+        "size": 2497281120,
+        "sha256": "3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597",
+        "edition": null,
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "hf"
+      },
+      "artefact": {
+        "id": "model-qwen3-4b-q4_k_m",
+        "path": "models/Qwen3-4B-Instruct-2507-Q4_K_M.gguf",
+        "size": 2497281120,
+        "sha256": "3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597",
+        "uploadedAt": "2026-10-19T11:35:42Z"
+      },
+      "history": []
+    },
+    "model-qwen3-8b-q4_k_m": {
+      "source": {
+        "url": "https://huggingface.co/Qwen/Qwen3-8B-GGUF/resolve/main/Qwen3-8B-Q4_K_M.gguf",
+        "size": 5027783488,
+        "sha256": "d98cdcbd03e17ce47681435b5150e34c1417f50b5c0019dd560e4882c5745785",
+        "edition": null,
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "hf"
+      },
+      "artefact": {
+        "id": "model-qwen3-8b-q4_k_m",
+        "path": "models/Qwen3-8B-Q4_K_M.gguf",
+        "size": 5027783488,
+        "sha256": "d98cdcbd03e17ce47681435b5150e34c1417f50b5c0019dd560e4882c5745785",
+        "uploadedAt": "2026-10-19T12:53:26Z"
+      },
+      "history": []
+    },
+    "zim-appropedia": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/other/appropedia_en_all_maxi_2026-02.zim",
+        "size": 581641351,
+        "sha256": "dcf200ba723c27397e1c9a2e4891ff91fa13993df1fa285315190d8525a53469",
+        "edition": "2026-02",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-appropedia-2026-02",
+        "path": "zim/appropedia_en_all_maxi_2026-02.zim",
+        "size": 581641351,
+        "sha256": "dcf200ba723c27397e1c9a2e4891ff91fa13993df1fa285315190d8525a53469",
+        "uploadedAt": "2026-10-19T11:29:17Z"
+      },
+      "history": []
+    },
+    "zim-based-cooking": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/zimit/based.cooking_en_all_2026-08.zim",
+        "size": 15774733,
+        "sha256": "52ca9fedc61da2fc846f71b1f74cf7fb8e96193fe9f671bb4632bcaf1181ce72",
+        "edition": "2026-08",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-based-cooking-2026-08",
+        "path": "zim/based.cooking_en_all_2026-08.zim",
+        "size": 15774733,
+        "sha256": "52ca9fedc61da2fc846f71b1f74cf7fb8e96193fe9f671bb4632bcaf1181ce72",
+        "uploadedAt": "2026-10-19T12:15:19Z"
+      },
+      "history": []
+    },
+    "zim-cdc-emergency": {
+      "artefact": {
+        "id": "zim-cdc-emergency-2026-10",
+        "path": "zim/cdc-emergency_en_2026-10.zim",
+        "size": 221875489,
+        "sha256": "78565083e082b8d796388505ff5f8d040fbd8cf0bb003d6c670f94272868e957",
+        "uploadedAt": "2026-10-20T13:12:23Z"
+      },
+      "history": [],
+      "inputs": {
+        "seeds": [
+          "https://www.cdc.gov/water-emergency/",
+          "https://www.cdc.gov/food-safety/",
+          "https://www.cdc.gov/disasters/"
+        ],
+        "scope": "https://www.cdc.gov/",
+        "month": "2026-10",
+        "image": "ghcr.io/openzim/zimit"
+      }
+    },
+    "zim-es-ready-gov": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/zimit/ready.gov_es_all_2026-10.zim",
+        "size": 2065999386,
+        "sha256": "8be8b8a490035d4adbbb981a04325bea268ddd156a2ff7c61f49e35852665165",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-es-ready-gov-2026-10",
+        "path": "zim/ready.gov_es_all_2026-10.zim",
+        "size": 2065999386,
+        "sha256": "8be8b8a490035d4adbbb981a04325bea268ddd156a2ff7c61f49e35852665165",
+        "uploadedAt": "2026-10-19T15:08:52Z"
+      },
+      "history": []
+    },
+    "zim-es-wikipedia": {
+      "source": {
+        "url": "https://www.mirrorservice.org/sites/download.kiwix.org/zim/wikipedia/wikipedia_es_all_nopic_2026-10.zim",
+        "size": 13298215428,
+        "sha256": "5601ff9adc204f14e0abbd291287c7b98fc028f4d2d12e9b0181948df6f903c9",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:28Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-es-wikipedia-2026-10",
+        "path": "zim/wikipedia_es_all_nopic_2026-10.zim",
+        "size": 13298215428,
+        "sha256": "5601ff9adc204f14e0abbd291287c7b98fc028f4d2d12e9b0181948df6f903c9",
+        "uploadedAt": "2026-10-19T15:40:21Z"
+      },
+      "history": []
+    },
+    "zim-factbook": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/other/theworldfactbook_en_all_2026-02.zim",
+        "size": 407350139,
+        "sha256": "61d559d4e4e62f667697f38223f38e1e6a58a881c824733f71e924233d7ce76f",
+        "edition": "2026-02",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-factbook-2026-02",
+        "path": "zim/theworldfactbook_en_all_2026-02.zim",
+        "size": 407350139,
+        "sha256": "61d559d4e4e62f667697f38223f38e1e6a58a881c824733f71e924233d7ce76f",
+        "uploadedAt": "2026-10-19T12:18:22Z"
+      },
+      "history": []
+    },
+    "zim-fieldguide": {
+      "artefact": {
+        "id": "zim-fieldguide-2026-11",
+        "path": "zim/fieldguide_en_2026-11.zim",
+        "size": 220375640,
+        "sha256": "ec06a0a20131ebd2a440b44f0e5003ff0335e3d5cf82ddad8f6677052e5523ff",
+        "uploadedAt": "2026-11-07T12:31:52Z"
+      },
+      "history": [
+        "zim-fieldguide-2026-10b",
+        "zim-fieldguide-2026-10"
+      ],
+      "inputs": {
+        "month": "2026-11",
+        "articles": "cc2a45a731b84cb03e72ed35f0b6db8f9dba8e4036f285730996ffc38481bc20",
+        "articlesLock": "0c7cca40421fdc4628227b82aade08bb6d30f6255f8b2e876a5897bca605a614"
+      }
+    },
+    "zim-fsis-food-safety": {
+      "artefact": {
+        "id": "zim-fsis-food-safety-2026-10",
+        "path": "zim/fsis-food-safety_en_2026-10.zim",
+        "size": 3981580,
+        "sha256": "5eac8cecf1be780fc46e7afa5dbf0255037733ddca0bd6452290753b7a53a627",
+        "uploadedAt": "2026-10-20T21:11:52Z"
+      },
+      "history": [],
+      "inputs": {
+        "seeds": [
+          "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics"
+        ],
+        "scope": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics",
+        "month": "2026-10",
+        "image": "ghcr.io/openzim/zimit"
+      }
+    },
+    "zim-gutenberg-agriculture": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_lcc-s_2026-03.zim",
+        "size": 4532683039,
+        "sha256": "3012dfb7936d5bc8a5c3bdd0c9f864cd81e9514c28c40afc548415fd95272fcc",
+        "edition": "2026-03",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-gutenberg-agriculture-2026-03",
+        "path": "zim/gutenberg_en_lcc-s_2026-03.zim",
+        "size": 4532683039,
+        "sha256": "3012dfb7936d5bc8a5c3bdd0c9f864cd81e9514c28c40afc548415fd95272fcc",
+        "uploadedAt": "2026-10-19T12:51:14Z"
+      },
+      "history": []
+    },
+    "zim-gutenberg-geography": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_lcc-g_2026-03.zim",
+        "size": 8095142801,
+        "sha256": "ea42bd5625b6acab5a24ba1b835212e1eb820b7a3fef7339cea556a000f07a0b",
+        "edition": "2026-03",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-gutenberg-geography-2026-03",
+        "path": "zim/gutenberg_en_lcc-g_2026-03.zim",
+        "size": 8095142801,
+        "sha256": "ea42bd5625b6acab5a24ba1b835212e1eb820b7a3fef7339cea556a000f07a0b",
+        "uploadedAt": "2026-10-19T15:11:49Z"
+      },
+      "history": []
+    },
+    "zim-gutenberg-lit-american": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_lcc-ps_2026-03.zim",
+        "size": 16022294302,
+        "sha256": "a82d1fa3add5a126645cada4da34e4321c22284fd0fd61707841bcf2eec90124",
+        "edition": "2026-03",
+        "resolvedAt": "2026-10-31T17:02:28Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-gutenberg-lit-american-2026-03",
+        "path": "zim/gutenberg_en_lcc-ps_2026-03.zim",
+        "size": 16022294302,
+        "sha256": "a82d1fa3add5a126645cada4da34e4321c22284fd0fd61707841bcf2eec90124",
+        "uploadedAt": "2026-10-19T15:56:35Z"
+      },
+      "history": []
+    },
+    "zim-gutenberg-lit-english": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_lcc-pr_2026-03.zim",
+        "size": 16152121320,
+        "sha256": "439daa227e59e52c9f3b9b3d81a49c518583c799bd0bf15780e93e101a0a429d",
+        "edition": "2026-03",
+        "resolvedAt": "2026-10-31T17:02:28Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-gutenberg-lit-english-2026-03",
+        "path": "zim/gutenberg_en_lcc-pr_2026-03.zim",
+        "size": 16152121320,
+        "sha256": "439daa227e59e52c9f3b9b3d81a49c518583c799bd0bf15780e93e101a0a429d",
+        "uploadedAt": "2026-10-19T16:19:12Z"
+      },
+      "history": []
+    },
+    "zim-gutenberg-medicine": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_lcc-r_2026-03.zim",
+        "size": 2019297662,
+        "sha256": "10c4d100157628b15613cc2db47b42ca6bc16c316da97ec1280ac98c8410a400",
+        "edition": "2026-03",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-gutenberg-medicine-2026-03",
+        "path": "zim/gutenberg_en_lcc-r_2026-03.zim",
+        "size": 2019297662,
+        "sha256": "10c4d100157628b15613cc2db47b42ca6bc16c316da97ec1280ac98c8410a400",
+        "uploadedAt": "2026-10-19T12:34:39Z"
+      },
+      "history": []
+    },
+    "zim-gutenberg-military": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_lcc-u_2026-03.zim",
+        "size": 1288016430,
+        "sha256": "c3ce508358e9465b5864f8dc986de987c40801b4f4369014702b4424bdc865d2",
+        "edition": "2026-03",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-gutenberg-military-2026-03",
+        "path": "zim/gutenberg_en_lcc-u_2026-03.zim",
+        "size": 1288016430,
+        "sha256": "c3ce508358e9465b5864f8dc986de987c40801b4f4369014702b4424bdc865d2",
+        "uploadedAt": "2026-10-19T12:31:40Z"
+      },
+      "history": []
+    },
+    "zim-gutenberg-technology": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_lcc-t_2026-03.zim",
+        "size": 13154803470,
+        "sha256": "362c9f07d79363802fe2b2e5e97c1b8e717d730bbcfaff478938652dbf12a2fd",
+        "edition": "2026-03",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-gutenberg-technology-2026-03",
+        "path": "zim/gutenberg_en_lcc-t_2026-03.zim",
+        "size": 13154803470,
+        "sha256": "362c9f07d79363802fe2b2e5e97c1b8e717d730bbcfaff478938652dbf12a2fd",
+        "uploadedAt": "2026-10-19T15:14:22Z"
+      },
+      "history": []
+    },
+    "zim-ifixit": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/ifixit/ifixit_en_all_2025-12.zim",
+        "size": 3570695757,
+        "sha256": "9bb5f3408707fd0300c6ef47a425c3217187f144cd9154a928183816aa72eead",
+        "edition": "2025-12",
+        "resolvedAt": "2026-10-31T17:38:33Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-ifixit-2025-12",
+        "path": "zim/ifixit_en_all_2025-12.zim",
+        "size": 3570695757,
+        "sha256": "9bb5f3408707fd0300c6ef47a425c3217187f144cd9154a928183816aa72eead",
+        "uploadedAt": null,
+        "externalURL": "https://download.kiwix.org/zim/ifixit/ifixit_en_all_2025-12.zim"
+      },
+      "history": []
+    },
+    "zim-mdwiki": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/other/mdwiki_en_all_maxi_2025-11.zim",
+        "size": 2302838768,
+        "sha256": "ee51df7860dbcab8c628aad32cf9972726ab708d784cdaf3e217d596920edf80",
+        "edition": "2025-11",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-mdwiki-2025-11",
+        "path": "zim/mdwiki_en_all_maxi_2025-11.zim",
+        "size": 2302838768,
+        "sha256": "ee51df7860dbcab8c628aad32cf9972726ab708d784cdaf3e217d596920edf80",
+        "uploadedAt": "2026-10-19T11:35:01Z"
+      },
+      "history": []
+    },
+    "zim-medlineplus": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/zimit/medlineplus.gov_en_all_2025-01.zim",
+        "size": 1944841111,
+        "sha256": "3ce8933e8b249cf685f5f108e8f10d9a7e3becb2ee4e91f3aedb5b0cf4d2e596",
+        "edition": "2025-01",
+        "resolvedAt": "2026-10-31T17:38:33Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-medlineplus-2025-01",
+        "path": "zim/medlineplus.gov_en_all_2025-01.zim",
+        "size": 1944841111,
+        "sha256": "3ce8933e8b249cf685f5f108e8f10d9a7e3becb2ee4e91f3aedb5b0cf4d2e596",
+        "uploadedAt": null,
+        "externalURL": "https://download.kiwix.org/zim/zimit/medlineplus.gov_en_all_2025-01.zim"
+      },
+      "history": []
+    },
+    "zim-military-medicine": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/zimit/irp.fas.org_en_military-medicine_2026-05.zim",
+        "size": 75874415,
+        "sha256": "51861e46ed9de76ae6a014bbe81ada999bc9a1bbe968e9217a8d53261561396e",
+        "edition": "2026-05",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-military-medicine-2026-05",
+        "path": "zim/irp.fas.org_en_military-medicine_2026-05.zim",
+        "size": 75874415,
+        "sha256": "51861e46ed9de76ae6a014bbe81ada999bc9a1bbe968e9217a8d53261561396e",
+        "uploadedAt": "2026-10-19T11:28:50Z"
+      },
+      "history": []
+    },
+    "zim-milne": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/zimit/milneopentextbooks.org_en_all_2026-08.zim",
+        "size": 422803876,
+        "sha256": "bec4e9bff82eac6e0faf6286c402003a781b53c824feb9898ce4bb21fb6129f7",
+        "edition": "2026-08",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-milne-2026-08",
+        "path": "zim/milneopentextbooks.org_en_all_2026-08.zim",
+        "size": 422803876,
+        "sha256": "bec4e9bff82eac6e0faf6286c402003a781b53c824feb9898ce4bb21fb6129f7",
+        "uploadedAt": "2026-10-19T12:18:22Z"
+      },
+      "history": []
+    },
+    "zim-nhs-medicines": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/zimit/nhs.uk_en_medicines_2026-09b.zim",
+        "size": 15322705,
+        "sha256": "349f7bc833aa1cfedd1cdd10fbb9ae575aac63b22e17639bfaee6568b6668b62",
+        "edition": "2026-09b",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-nhs-medicines-2026-09b",
+        "path": "zim/nhs.uk_en_medicines_2026-09b.zim",
+        "size": 15322705,
+        "sha256": "349f7bc833aa1cfedd1cdd10fbb9ae575aac63b22e17639bfaee6568b6668b62",
+        "uploadedAt": "2026-10-19T11:28:40Z"
+      },
+      "history": []
+    },
+    "zim-osm-wiki": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/other/openstreetmap-wiki_en_all_nopic_2026-10.zim",
+        "size": 534241061,
+        "sha256": "050823b112351f6ec19a12eb1962313ae44873e873de937b606efa0ac7d77c0f",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-osm-wiki-2026-10",
+        "path": "zim/openstreetmap-wiki_en_all_nopic_2026-10.zim",
+        "size": 534241061,
+        "sha256": "050823b112351f6ec19a12eb1962313ae44873e873de937b606efa0ac7d77c0f",
+        "uploadedAt": "2026-10-19T12:19:51Z"
+      },
+      "history": []
+    },
+    "zim-publicdomainrecipes": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/zimit/publicdomainrecipes.com_en_all_2026-08.zim",
+        "size": 16971822,
+        "sha256": "023c9e302b65030a3c6f38defd7249507053363eae014b7aa2e08a81442c4a84",
+        "edition": "2026-08",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-publicdomainrecipes-2026-08",
+        "path": "zim/publicdomainrecipes.com_en_all_2026-08.zim",
+        "size": 16971822,
+        "sha256": "023c9e302b65030a3c6f38defd7249507053363eae014b7aa2e08a81442c4a84",
+        "uploadedAt": "2026-10-19T12:15:23Z"
+      },
+      "history": []
+    },
+    "zim-ready-gov": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/zimit/ready.gov_en_all_2026-10.zim",
+        "size": 2063895408,
+        "sha256": "c88ce03db2a6dd855c1075d87abb6dceac678718e0dd3fa7912009469b9ca225",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-ready-gov-2026-10",
+        "path": "zim/ready.gov_en_all_2026-10.zim",
+        "size": 2063895408,
+        "sha256": "c88ce03db2a6dd855c1075d87abb6dceac678718e0dd3fa7912009469b9ca225",
+        "uploadedAt": "2026-10-19T11:30:38Z"
+      },
+      "history": []
+    },
+    "zim-se-bicycles": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/bicycles.stackexchange.com_en_all_2026-10.zim",
+        "size": 499254876,
+        "sha256": "151c3966c4db62245e6b070d1e61a68501d205655bc3f9a56fe74ab59f0bd1d8",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-bicycles-2026-10",
+        "path": "zim/bicycles.stackexchange.com_en_all_2026-10.zim",
+        "size": 499254876,
+        "sha256": "151c3966c4db62245e6b070d1e61a68501d205655bc3f9a56fe74ab59f0bd1d8",
+        "uploadedAt": "2026-10-19T12:19:50Z"
+      },
+      "history": []
+    },
+    "zim-se-cooking": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/cooking.stackexchange.com_en_all_2026-10.zim",
+        "size": 238098128,
+        "sha256": "b5dc3a79b681be1afea32dd65e837c604e7dd7072f51622414a7a1d61fc52541",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-cooking-2026-10",
+        "path": "zim/cooking.stackexchange.com_en_all_2026-10.zim",
+        "size": 238098128,
+        "sha256": "b5dc3a79b681be1afea32dd65e837c604e7dd7072f51622414a7a1d61fc52541",
+        "uploadedAt": "2026-10-20T21:19:18Z"
+      },
+      "history": [
+        "zim-se-cooking-2026-07"
+      ]
+    },
+    "zim-se-crafts": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/crafts.stackexchange.com_en_all_2026-10.zim",
+        "size": 58532200,
+        "sha256": "048e7ef82c92b08eab684b5436127b7dd2ff0fd945da7034ff36457253b4fb35",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-crafts-2026-10",
+        "path": "zim/crafts.stackexchange.com_en_all_2026-10.zim",
+        "size": 58532200,
+        "sha256": "048e7ef82c92b08eab684b5436127b7dd2ff0fd945da7034ff36457253b4fb35",
+        "uploadedAt": "2026-10-20T21:12:45Z"
+      },
+      "history": [
+        "zim-se-crafts-2026-07"
+      ]
+    },
+    "zim-se-diy": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/diy.stackexchange.com_en_all_2026-10.zim",
+        "size": 2086024326,
+        "sha256": "df795a094698282164ddee422814f88bf84841a2413c89ac23401efd71f22731",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-diy-2026-10",
+        "path": "zim/diy.stackexchange.com_en_all_2026-10.zim",
+        "size": 2086024326,
+        "sha256": "df795a094698282164ddee422814f88bf84841a2413c89ac23401efd71f22731",
+        "uploadedAt": "2026-10-20T21:21:34Z"
+      },
+      "history": [
+        "zim-se-diy-2026-08"
+      ]
+    },
+    "zim-se-electronics": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/electronics.stackexchange.com_en_all_2026-10.zim",
+        "size": 4261397539,
+        "sha256": "b28e58b24ed55c602265729b34b0c6cc4e12228e6fe2f55df5b5e9eae169b266",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-electronics-2026-10",
+        "path": "zim/electronics.stackexchange.com_en_all_2026-10.zim",
+        "size": 4261397539,
+        "sha256": "b28e58b24ed55c602265729b34b0c6cc4e12228e6fe2f55df5b5e9eae169b266",
+        "uploadedAt": "2026-10-20T21:26:29Z"
+      },
+      "history": [
+        "zim-se-electronics-2026-08"
+      ]
+    },
+    "zim-se-fitness": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/fitness.stackexchange.com_en_all_2026-10.zim",
+        "size": 79806095,
+        "sha256": "4cfe15d9db7e034628648cdbf1068b135ac200df811a919404b0a3dd43b62279",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-fitness-2026-10",
+        "path": "zim/fitness.stackexchange.com_en_all_2026-10.zim",
+        "size": 79806095,
+        "sha256": "4cfe15d9db7e034628648cdbf1068b135ac200df811a919404b0a3dd43b62279",
+        "uploadedAt": "2026-10-20T21:14:41Z"
+      },
+      "history": [
+        "zim-se-fitness-2026-08"
+      ]
+    },
+    "zim-se-gardening": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/gardening.stackexchange.com_en_all_2026-10.zim",
+        "size": 933097375,
+        "sha256": "8079b77ba40d830c31cdfa0e3f43a100e9d9488d856b10ffb3aca4e829594e6e",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-gardening-2026-10",
+        "path": "zim/gardening.stackexchange.com_en_all_2026-10.zim",
+        "size": 933097375,
+        "sha256": "8079b77ba40d830c31cdfa0e3f43a100e9d9488d856b10ffb3aca4e829594e6e",
+        "uploadedAt": "2026-10-20T21:20:00Z"
+      },
+      "history": [
+        "zim-se-gardening-2026-08"
+      ]
+    },
+    "zim-se-ham": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/ham.stackexchange.com_en_all_2026-10.zim",
+        "size": 77108284,
+        "sha256": "cb8a0cd7ae0078279ace1cd2a05e60505aa2494c29e82dac1942bf4cd54fcf9c",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-ham-2026-10",
+        "path": "zim/ham.stackexchange.com_en_all_2026-10.zim",
+        "size": 77108284,
+        "sha256": "cb8a0cd7ae0078279ace1cd2a05e60505aa2494c29e82dac1942bf4cd54fcf9c",
+        "uploadedAt": "2026-10-20T21:14:25Z"
+      },
+      "history": [
+        "zim-se-ham-2026-08"
+      ]
+    },
+    "zim-se-lifehacks": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/lifehacks.stackexchange.com_en_all_2026-10.zim",
+        "size": 48985843,
+        "sha256": "c21597543fa086ede89e9759111fb5ab673adb3c8cd8563471e3402d2d64b191",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-lifehacks-2026-10",
+        "path": "zim/lifehacks.stackexchange.com_en_all_2026-10.zim",
+        "size": 48985843,
+        "sha256": "c21597543fa086ede89e9759111fb5ab673adb3c8cd8563471e3402d2d64b191",
+        "uploadedAt": "2026-10-20T21:12:38Z"
+      },
+      "history": [
+        "zim-se-lifehacks-2026-08"
+      ]
+    },
+    "zim-se-mechanics": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/mechanics.stackexchange.com_en_all_2026-10.zim",
+        "size": 341672133,
+        "sha256": "3b8790dcde480f466d0d55fae23941cdb1f06ff464a77168f27110f98d8eb923",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-mechanics-2026-10",
+        "path": "zim/mechanics.stackexchange.com_en_all_2026-10.zim",
+        "size": 341672133,
+        "sha256": "3b8790dcde480f466d0d55fae23941cdb1f06ff464a77168f27110f98d8eb923",
+        "uploadedAt": "2026-10-20T21:19:45Z"
+      },
+      "history": [
+        "zim-se-mechanics-2026-08"
+      ]
+    },
+    "zim-se-medicalsciences": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/medicalsciences.stackexchange.com_en_all_2026-02.zim",
+        "size": 60799834,
+        "sha256": "cdf4bfa36ba2142fe3ec0d19d7c08486a0d121f55b9c44f7f5adbfb748d6cbad",
+        "edition": "2026-02",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-medicalsciences-2026-02",
+        "path": "zim/medicalsciences.stackexchange.com_en_all_2026-02.zim",
+        "size": 60799834,
+        "sha256": "cdf4bfa36ba2142fe3ec0d19d7c08486a0d121f55b9c44f7f5adbfb748d6cbad",
+        "uploadedAt": "2026-10-19T12:16:09Z"
+      },
+      "history": []
+    },
+    "zim-se-outdoors": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/outdoors.stackexchange.com_en_all_2026-10.zim",
+        "size": 141820374,
+        "sha256": "73752057bd2253af6cf80c69caf0def158bcf378188f0fbc7ab8ed07bbbe9bc5",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-outdoors-2026-10",
+        "path": "zim/outdoors.stackexchange.com_en_all_2026-10.zim",
+        "size": 141820374,
+        "sha256": "73752057bd2253af6cf80c69caf0def158bcf378188f0fbc7ab8ed07bbbe9bc5",
+        "uploadedAt": "2026-10-20T21:18:57Z"
+      },
+      "history": [
+        "zim-se-outdoors-2026-08"
+      ]
+    },
+    "zim-se-parenting": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/parenting.stackexchange.com_en_all_2026-10.zim",
+        "size": 60080756,
+        "sha256": "19b887a0dc7623203e3d2de76e4110cfaa59d65b2c0aa614f485d939160209e4",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-parenting-2026-10",
+        "path": "zim/parenting.stackexchange.com_en_all_2026-10.zim",
+        "size": 60080756,
+        "sha256": "19b887a0dc7623203e3d2de76e4110cfaa59d65b2c0aa614f485d939160209e4",
+        "uploadedAt": "2026-10-20T21:14:16Z"
+      },
+      "history": [
+        "zim-se-parenting-2026-08"
+      ]
+    },
+    "zim-se-pets": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/pets.stackexchange.com_en_all_2026-10.zim",
+        "size": 86785885,
+        "sha256": "254999358d964a0cb851731456d56b4f7a5e4be11a3ea9c0e8e84f58604d69fe",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-pets-2026-10",
+        "path": "zim/pets.stackexchange.com_en_all_2026-10.zim",
+        "size": 86785885,
+        "sha256": "254999358d964a0cb851731456d56b4f7a5e4be11a3ea9c0e8e84f58604d69fe",
+        "uploadedAt": "2026-10-20T21:16:35Z"
+      },
+      "history": [
+        "zim-se-pets-2026-08"
+      ]
+    },
+    "zim-se-sustainable": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/sustainability.stackexchange.com_en_all_2026-10.zim",
+        "size": 27687333,
+        "sha256": "1516f252827b1409b7b55c1a44671e7e59b857bf2bb3732f3af62c996e40412f",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-sustainable-2026-10",
+        "path": "zim/sustainability.stackexchange.com_en_all_2026-10.zim",
+        "size": 27687333,
+        "sha256": "1516f252827b1409b7b55c1a44671e7e59b857bf2bb3732f3af62c996e40412f",
+        "uploadedAt": "2026-10-20T21:11:53Z"
+      },
+      "history": [
+        "zim-se-sustainable-2026-08"
+      ]
+    },
+    "zim-se-woodworking": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/stack_exchange/woodworking.stackexchange.com_en_all_2026-10.zim",
+        "size": 106657287,
+        "sha256": "2ba925d1028f9442c153569701868b5b7abc6dbb2551c620680a92be9272b062",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:25Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-se-woodworking-2026-10",
+        "path": "zim/woodworking.stackexchange.com_en_all_2026-10.zim",
+        "size": 106657287,
+        "sha256": "2ba925d1028f9442c153569701868b5b7abc6dbb2551c620680a92be9272b062",
+        "uploadedAt": "2026-10-20T21:17:07Z"
+      },
+      "history": [
+        "zim-se-woodworking-2026-08"
+      ]
+    },
+    "zim-wikem": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/other/wikem_en_all_maxi_2026-07.zim",
+        "size": 374632362,
+        "sha256": "7bbdd705544616df1ff37f8b4e0e5382e7b4d92532feecea42227af4169fbd7f",
+        "edition": "2026-07",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-wikem-2026-07",
+        "path": "zim/wikem_en_all_maxi_2026-07.zim",
+        "size": 374632362,
+        "sha256": "7bbdd705544616df1ff37f8b4e0e5382e7b4d92532feecea42227af4169fbd7f",
+        "uploadedAt": "2026-10-19T11:29:07Z"
+      },
+      "history": []
+    },
+    "zim-wikibooks": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/wikibooks/wikibooks_en_all_maxi_2026-04.zim",
+        "size": 6177865115,
+        "sha256": "c2ded9afe4647c2b05aceb9d30260100369cbba22f3d00e467a634546da3f610",
+        "edition": "2026-04",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-wikibooks-2026-04",
+        "path": "zim/wikibooks_en_all_maxi_2026-04.zim",
+        "size": 6177865115,
+        "sha256": "c2ded9afe4647c2b05aceb9d30260100369cbba22f3d00e467a634546da3f610",
+        "uploadedAt": "2026-10-19T13:09:11Z"
+      },
+      "history": []
+    },
+    "zim-wikipedia-maxi": {
+      "source": {
+        "url": "https://www.mirrorservice.org/sites/download.kiwix.org/zim/wikipedia/wikipedia_en_all_maxi_2026-08.zim",
+        "size": 127418087648,
+        "sha256": "34162d18b9f96f494eac48a73a309c72e0bc95d85f76be405d0f5de795854aa6",
+        "edition": "2026-08",
+        "resolvedAt": "2026-10-31T17:02:28Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-wikipedia-maxi-2026-08",
+        "path": "zim/wikipedia_en_all_maxi_2026-08.zim",
+        "size": 127418087648,
+        "sha256": "34162d18b9f96f494eac48a73a309c72e0bc95d85f76be405d0f5de795854aa6",
+        "uploadedAt": "2026-10-20T13:17:17Z"
+      },
+      "history": []
+    },
+    "zim-wikipedia-medicine": {
+      "source": {
+        "url": "https://www.mirrorservice.org/sites/download.kiwix.org/zim/wikipedia/wikipedia_en_medicine_maxi_2026-10.zim",
+        "size": 1864210320,
+        "sha256": "9a1570f2f346aa18694ee520e0483f19b7447f69e0970e2f727c53ccf0dcc7d6",
+        "edition": "2026-10",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-wikipedia-medicine-2026-10",
+        "path": "zim/wikipedia_en_medicine_maxi_2026-10.zim",
+        "size": 1864210320,
+        "sha256": "9a1570f2f346aa18694ee520e0483f19b7447f69e0970e2f727c53ccf0dcc7d6",
+        "uploadedAt": "2026-10-19T11:30:10Z"
+      },
+      "history": []
+    },
+    "zim-wikipedia-nopic": {
+      "source": {
+        "url": "https://www.mirrorservice.org/sites/download.kiwix.org/zim/wikipedia/wikipedia_en_all_nopic_2026-06.zim",
+        "size": 52690706555,
+        "sha256": "441a56d9e05b2d98f8ae9acb7986a513ed47904d73852c92dc6b7d50baa122e5",
+        "edition": "2026-06",
+        "resolvedAt": "2026-10-31T17:02:28Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-wikipedia-nopic-2026-06",
+        "path": "zim/wikipedia_en_all_nopic_2026-06.zim",
+        "size": 52690706555,
+        "sha256": "441a56d9e05b2d98f8ae9acb7986a513ed47904d73852c92dc6b7d50baa122e5",
+        "uploadedAt": "2026-10-19T13:27:16Z"
+      },
+      "history": []
+    },
+    "zim-wikipedia-simple": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/wikipedia/wikipedia_en-simple_all_maxi_2026-09.zim",
+        "size": 3121060947,
+        "sha256": "2fbdafb57fbf5a43e674b5996319d4a0aebf1b5e5b171566815675e4b3f461af",
+        "edition": "2026-09",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-wikipedia-simple-2026-09",
+        "path": "zim/wikipedia_en-simple_all_maxi_2026-09.zim",
+        "size": 3121060947,
+        "sha256": "2fbdafb57fbf5a43e674b5996319d4a0aebf1b5e5b171566815675e4b3f461af",
+        "uploadedAt": "2026-10-19T12:41:12Z"
+      },
+      "history": []
+    },
+    "zim-wikipedia-top": {
+      "source": {
+        "url": "https://www.mirrorservice.org/sites/download.kiwix.org/zim/wikipedia/wikipedia_en_top_maxi_2026-09.zim",
+        "size": 6991081681,
+        "sha256": "7c08d2a7557ef7e3da751bb429d081e1c7c8971e50fee4fef097021a03ea6b0a",
+        "edition": "2026-09",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-wikipedia-top-2026-09",
+        "path": "zim/wikipedia_en_top_maxi_2026-09.zim",
+        "size": 6991081681,
+        "sha256": "7c08d2a7557ef7e3da751bb429d081e1c7c8971e50fee4fef097021a03ea6b0a",
+        "uploadedAt": "2026-10-19T11:41:49Z"
+      },
+      "history": []
+    },
+    "zim-wikisource": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/wikisource/wikisource_en_all_nopic_2026-09.zim",
+        "size": 3905588830,
+        "sha256": "6180cd199142862fb0d276861ccc5b48a40f7bae427b8427b2b6a573796e2f98",
+        "edition": "2026-09",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-wikisource-2026-09",
+        "path": "zim/wikisource_en_all_nopic_2026-09.zim",
+        "size": 3905588830,
+        "sha256": "6180cd199142862fb0d276861ccc5b48a40f7bae427b8427b2b6a573796e2f98",
+        "uploadedAt": "2026-10-19T12:42:02Z"
+      },
+      "history": []
+    },
+    "zim-wikivoyage": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/wikivoyage/wikivoyage_en_all_maxi_2026-09.zim",
+        "size": 1071168673,
+        "sha256": "ebaf235b4f95aa7f8666e0a613578577569eb6c81562ebcf397a7ba52173c848",
+        "edition": "2026-09",
+        "resolvedAt": "2026-10-31T17:02:26Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-wikivoyage-2026-09",
+        "path": "zim/wikivoyage_en_all_maxi_2026-09.zim",
+        "size": 1071168673,
+        "sha256": "ebaf235b4f95aa7f8666e0a613578577569eb6c81562ebcf397a7ba52173c848",
+        "uploadedAt": "2026-10-19T12:31:00Z"
+      },
+      "history": []
+    },
+    "zim-wiktionary": {
+      "source": {
+        "url": "https://download.kiwix.org/zim/wiktionary/wiktionary_en_all_nopic_2026-08.zim",
+        "size": 9156425592,
+        "sha256": "5276f63a2e451518ec5b7c4452ca9a4f72fae48991da3fe7ebc47df74bae760a",
+        "edition": "2026-08",
+        "resolvedAt": "2026-10-31T17:02:27Z",
+        "shaSource": "meta4"
+      },
+      "artefact": {
+        "id": "zim-wiktionary-2026-08",
+        "path": "zim/wiktionary_en_all_nopic_2026-08.zim",
+        "size": 9156425592,
+        "sha256": "5276f63a2e451518ec5b7c4452ca9a4f72fae48991da3fe7ebc47df74bae760a",
+        "uploadedAt": "2026-10-19T13:09:41Z"
+      },
+      "history": []
+    }
+  }
+}

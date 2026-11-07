@@ -1,0 +1,47 @@
+title: "Bites and stings: snakes, insects, spiders and animals"
+summary: Keep a snakebite victim still and the limb low, never cut, suck, ice or tourniquet it, scrape out bee stingers, and watch every sting for an hour for anaphylaxis.
+keywords: [snakebite, snake bite, rattlesnake, bee sting, wasp sting, spider bite, black widow, brown recluse, scorpion, animal bite, dog bite, jellyfish]
+procedure: |
+  ### Snakebite
+  1. **Get away from the snake and do not try to catch or kill it.** A second bite, or a bitten helper, is the common result; a dead snake's head can still bite by reflex. Note its colour and markings or photograph it from a safe distance.
+  2. **Treat every bite as venomous.** Pit vipers (rattlesnakes, copperheads, cottonmouths, most vipers) cause burning pain with swelling and bruising starting within 5 to 10 minutes; if there is barely any swelling after 30 minutes, little or no venom was injected. Coral snakes, cobras, kraits and mambas cause little local pain, then 1 to 7 hours later drooping eyelids, blurred vision, slurred speech, drooling and trouble swallowing or breathing.
+  3. **Keep the person calm and still.** Muscle movement pumps venom around the body. Remove rings, watches and tight clothing from the bitten limb before it swells. **Splint the limb and keep it level with or below the heart; do not raise it.** Gently wash the bite with soap and water (do not rub). Give water if the hospital is hours away; no food, alcohol or tobacco.
+  4. **Do not** cut the bite, suck it by mouth, apply ice or electric shock, or put on a tourniquet. These make the injury worse and do not remove venom. FM 4-25.11 below still describes constricting bands; the later Navy and SOF manuals and current reviews say **no bands for pit viper bites and no tourniquet ever**. A firm elastic bandage over the whole limb plus a splint ("pressure immobilisation") is used only for neurotoxic snakes (Australian snakes, coral snakes, cobras, kraits, mambas, sea snakes), and must leave a pulse.
+  5. **Get to a hospital as fast as possible.** Antivenom is the only proven treatment and works best early. Watch breathing all the way and be ready to give rescue breaths. Every snakebite, even one that seems dry, needs medical assessment and a tetanus check, and a hospital observes bites for 24 hours. If no symptoms at all appear within 6 hours, it was probably a dry bite.
+  ### Bee, wasp and ant stings
+  6. **Scrape the stinger out at once** with a fingernail or card (it keeps pumping venom for about a minute; speed matters more than method). Wash with soap and water, apply ice or a cold compress, raise the limb, remove jewellery. Calamine, an antihistamine tablet or hydrocortisone cream ease the itch; meat tenderiser, ammonia and baking soda have little proven effect. Swelling bigger than 10 cm around a sting is a large local reaction, uncomfortable but not dangerous by itself.
+  7. **Watch for an hour for anaphylaxis:** hives spreading away from the sting, swelling of the face or throat, wheeze, faintness or collapse. Give adrenaline and call for help (see Anaphylaxis). Half of sting deaths happen in the first hour. Dozens of stings at once can poison even a non-allergic person; get medical help.
+  8. If attacked by a swarm, do not swat; run. Bees and wasps defend about 150 metres around a nest and fly slower than a person.
+  ### Spiders, scorpions, ticks
+  9. Most spider bites are minor. **Black widow** (shiny black, red hourglass underneath): a pinching bite, then cramps and belly or chest pain within 10 to 60 minutes. **Brown recluse** (violin mark): pain building over 2 to 8 hours, a blister, then a slowly enlarging sore over days. For either: keep still, wash, ice, raise the limb, remove jewellery, and get medical care; children and the frail can be badly affected. **Scorpion** stings are usually only painful; a few species are dangerous (one in the south-west US desert), so keep the person quiet and seek help, especially for a child. **Ticks**: remove with fine tweezers close to the skin, pulling steadily, and wash.
+  ### Animal and human bites
+  10. Wash thoroughly with soap, **flush well with water**, cover with a sterile dressing, immobilise a bitten limb and get medical care the same day. Bites carry tetanus, rabies and deep infection; human bites that break the skin always need treatment; do not close bite wounds with strips or stitches. If the animal can be identified or safely contained, tell the clinic.
+  ### In the water
+  11. **Jellyfish**: rinse with seawater, lift tentacles off with a towel or gloved hand, then apply vinegar (pour it on for at least 30 seconds); watch for breathing trouble. **Stingray, spiny fish, sea urchin**: soak in water as hot as can be borne, about 43 °C (110 °F), for 30 to 60 minutes to inactivate the venom, testing the heat with your own hand because the injured part cannot feel it.
+  > Prevention is most of this topic: boots and gaiters in snake country, a torch at night, never reaching blindly into logs or rock crevices, and no handling of snakes (40 percent of US bites happen that way). The Hospital Corpsman and SOF pages below give the full treatment lists.
+sources:
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "129-142"
+    heading: "First aid for bites and stings: snakes, animals, marine animals and insects (FM 4-25.11, chapter 6)"
+  - kind: pdf
+    document: navedtra-14295-hospital-corpsman
+    pages: "223-226"
+    heading: "Snakebites: identification, signs, treatment and the don'ts (Hospital Corpsman, chapter 5)"
+  - kind: pdf
+    document: sof-medical-handbook-2001
+    pages: "411-416"
+    heading: "Toxicology: venomous snake bite (SOF Medical Handbook, chapter 17)"
+  - kind: pdf
+    document: sof-medical-handbook-2001
+    pages: "232-236"
+    heading: "Hymenoptera stings, mites and spider bites (SOF Medical Handbook, chapter 4)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Snakebite
+    sections: [Signs and symptoms, Prevention, Treatment]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Arthropod bites and stings
+    sections: [Signs and symptoms, Management]
+related: [anaphylaxis-and-auto-injector, wounds-and-infection, shock, fractures-and-splinting]

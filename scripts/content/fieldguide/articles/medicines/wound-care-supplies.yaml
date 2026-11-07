@@ -1,0 +1,34 @@
+title: "Wound-care supplies: what to stock and how to use them"
+summary: Gauze, roller bandage, tape, saline and gloves do most of the work; know what each dressing type is for, how to apply a dressing cleanly, and what to add for a long emergency.
+keywords: [first aid kit, dressings, gauze, bandage, sterile dressing, hydrocolloid, saline, irrigation syringe, wound kit, medical supplies]
+procedure: |
+  ### The core kit
+  1. **Dressings** (sterile, go on the wound): adhesive plasters in several sizes, sterile gauze pads (5 by 5 cm and 10 by 10 cm), non-adherent pads for burns and grazes, petroleum gauze (also the dressing for a sucking chest wound), one or two large trauma dressings, a burn dressing, sterile eye pads. **Bandages** (hold dressings on, need not be sterile): gauze roller bandages, elastic (crepe) bandages for sprains and pressure, self-adhering elastic wrap, triangular bandages for slings and splints, hypoallergenic tape, safety pins.
+  2. **Cleaning:** saline (sterile pods or home-made and boiled), an **irrigation syringe** with a catheter tip, antiseptic wipes for the skin around a wound, soap. Dirty wounds must be flushed clean before any antiseptic can do anything.
+  3. **Tools and protection:** nitrile gloves (many pairs), trauma shears, fine tweezers, a torch, a thermometer, instant cold packs, a foil blanket, hand sanitiser, a lighter for sterilising tweezers, a pen and a card to write times and doses on.
+  4. **For a long emergency, add:** a box of butterfly closure strips, more gauze than seems reasonable (dressings are changed daily), hydrocolloid dressings for shallow wounds that must stay moist, alginate or hydrofibre pads for wet, oozing wounds, elastic tubular bandage, a tourniquet and haemostatic gauze if trained, a splint, oral rehydration salts, pain relief, an antihistamine, and any personal rescue medicines.
+  ### Using them
+  5. **A dressing does five jobs:** stops bleeding, keeps germs and knocks off the wound, soaks up fluid, eases pain and hides the wound from a frightened patient. A good one keeps the wound clean, slightly moist and breathing. Keep sterile dressings in their date-coded packaging until the moment of use.
+  6. **Apply a sterile dressing the field way:** open the packet, hold the dressing by its edges or tails, do not touch the white side, place it straight onto the wound, hold it with one hand and wrap the bandage tails in opposite directions so they cover the dressing and seal its edges, then tie a non-slip knot **over the edge, never over the wound**. Firm enough not to slip, loose enough that fingers or toes beyond it stay warm and pink. If it soaks through, add another on top; do not lift it to look. If bleeding continues, press firmly on the dressing for 5 to 10 minutes.
+  7. **Match the dressing to the wound.** Dry gauze absorbs and is fine on clean shallow wounds but sticks to a wet one and hurts to remove. Film dressings suit superficial wounds with little fluid and let you see through them. Hydrocolloids keep a moist environment for shallow or dry wounds and come off cleanly. Foam, alginate and hydrofibre handle heavy fluid. Hydrogel soothes burns and dry dead tissue. Nothing goes on a wound that has not been cleaned first.
+  8. **Improvise safely.** The cleanest cloth available (an ironed cotton sheet, a new T-shirt) folded thick works as a dressing; sanitary pads are excellent absorbent dressings; a scarf or torn strip is a bandage. Never use fluffy material (cotton wool) directly on a wound. Improvised dressings need a cleaner wound and more frequent changes.
+  9. **Closure strips** are for clean, fresh, shallow cuts only (see Wounds and infection); they seal infection into a dirty wound. A suture kit belongs with someone trained; the Ship's Medicine Chest reserves suturing for wounds nothing else will close.
+  10. **Keep the kit alive:** a dry, clearly marked box everyone can find, checked every few months for used, damaged or expired items, restocked after every use, and a smaller copy in the car and the go-bag.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: First aid kit
+    sections: [Storage, maintenance, and inspection, Contents]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Dressing (medicine)
+    sections: [Medical uses, Types]
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "39-41"
+    heading: "Clothing, entrance and exit wounds, the field dressing and manual pressure (FM 4-25.11, chapter 2)"
+  - kind: pdf
+    document: usphs-ships-medicine-chest-2003
+    pages: "65-66"
+    heading: "Methods of wound closure and equipment (Ship's Medicine Chest, chapter 1)"
+related: [wounds-and-infection, bleeding-control, burns, go-bag, stockpiling-prescriptions]

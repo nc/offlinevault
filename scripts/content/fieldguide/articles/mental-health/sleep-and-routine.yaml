@@ -1,0 +1,26 @@
+title: "Sleep and routine under stress"
+summary: Lack of sleep makes everyone slower, clumsier and more frightened; guard sleep like water, and rebuild a daily rhythm wherever you are.
+keywords: [sleep deprivation, sleep hygiene, routine, insomnia, sleep plan, nightmares, rest]
+procedure: |
+  1. After even one night without sleep, reaction time, judgment, memory and emotional control all fall, and lapses of attention cause accidents with vehicles, tools and fire. Treat sleep as a safety item.
+  2. Make a household sleep plan: who is awake and watching, who sleeps, for how long. Aim for 6 to 9 hours in 24 and never less than 4, catnap when you can but allow time to wake fully, catch up after going without, and get a good sleep before any long effort.
+  3. Make the sleeping place as quiet, dark and cool as the situation allows, away from traffic, noise and crowding, clean and dry.
+  4. Keep the same wake time every day, get daylight in the morning, and keep bright light and screens low in the hour before bed. Exercise or physical work helps sleep unless it is right before bed.
+  5. No caffeine, nicotine or alcohol near bedtime; alcohol sends you off and then fragments the night. A light snack is fine, a big meal or hunger both disturb sleep, and fewer drinks late means fewer wakings.
+  6. Do not lie awake worrying or planning in bed. If you cannot sleep, get up briefly and do something quiet, then try again.
+  7. Nightmares soon after a frightening event are normal and fade; they are not a reason to avoid sleep. Talk about them by day.
+  8. Routine does for the day what sleep does for the night: fixed meal times, washing, work, a check-in with family, and the same hours for children's meals and bedtime. It restores a sense of control and keeps people productive.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Sleep hygiene
+    sections: [Recommendations]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Sleep deprivation
+    sections: [Health effects]
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "175-180"
+    heading: "Rest, hygiene and preventive measures against stress reaction (FM 4-25.11, chapter 8)"
+related: [acute-stress, psychological-first-aid, keeping-children-calm]

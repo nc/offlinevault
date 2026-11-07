@@ -1,0 +1,21 @@
+title: "Gas leaks: smell it, leave, call from outside"
+summary: A rotten-egg smell or a hissing sound means everyone out without touching a switch, and only the utility turns the gas back on.
+keywords: [gas leak, natural gas, propane, rotten egg smell, gas shut-off valve, hissing sound]
+procedure: |
+  1. Natural gas has no smell of its own; suppliers add an odorant so a leak smells of rotten eggs. Learn now where the gas meter and the main shut-off valve are, and keep the wrench it needs beside it.
+  2. If you smell gas or hear hissing or blowing from a pipe or appliance: **do not switch anything on or off**, do not light anything, and do not use a phone indoors. Open a window if it is on your way, get everyone out, and leave the door open behind you.
+  3. Call the gas utility or emergency services from outside, well away from the building, and do not go back in until they say so.
+  4. Turn the gas off at the meter only if you can do it safely and you know how. Once it is off, leave it off. Only the utility or a professional should turn the supply back on and relight appliances.
+  5. After an earthquake, flood or fire, check for the smell of gas before you go inside. No smoking and no candles, oil or gas lanterns or flame torches for light until you are sure there is no leaking gas or other flammable material.
+  6. Bottled propane and butane are odorised the same way. Treat the smell the same way, and keep cylinders outdoors.
+  > A gas detector does not replace your nose, and carbon monoxide is a different hazard with a different alarm (see Carbon monoxide).
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Gas leak
+    sections: [Fire and explosion safety]
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "31"
+    heading: "Before you enter your home: natural gas and wiring (FEMA, Are You Ready?)"
+related: [carbon-monoxide, returning-home, earthquake]

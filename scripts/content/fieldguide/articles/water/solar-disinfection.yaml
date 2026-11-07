@@ -1,0 +1,16 @@
+title: "Solar disinfection (SODIS) in clear plastic bottles"
+summary: Six hours of strong sun in a clear PET bottle kills most pathogens when nothing else is available.
+keywords: [SODIS, sunlight, PET bottle, UV, disinfect]
+procedure: |
+  1. Use clear PET bottles of 2 litres or less with the labels removed. Glass and coloured or scratched plastic block the ultraviolet light.
+  2. Fill with the clearest water you can find. If you cannot read large print through the bottle, let it settle and filter it through cloth first.
+  3. Fill three quarters, shake for 20 seconds to oxygenate, then fill to the top and cap.
+  4. Lay the bottles on their side on a reflective surface (corrugated metal roof, foil) in full sun for **6 hours**. If it is more than half cloudy, leave them for **two full days**.
+  5. Drink straight from the bottle or pour into a clean cup. Do not pour treated water back into dirty containers.
+  > SODIS does not remove chemicals and does not work on cloudy water or in rain. Boiling or bleach is more reliable when either is available.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Solar water disinfection
+    sections: [Process for household application, Cautions]
+related: [boil-bleach-filter, finding-water]

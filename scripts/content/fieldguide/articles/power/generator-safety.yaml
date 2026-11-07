@@ -1,0 +1,31 @@
+title: "Running a portable generator without hurting anyone"
+summary: Outdoors, 6 metres from the house, never plugged into a wall socket; carbon monoxide and backfeed are the two ways a generator kills.
+keywords: [generator safety, portable generator, backfeed, transfer switch, inverter generator, generator carbon monoxide, extension cord]
+procedure: |
+  ### Placement
+  1. Run it **outdoors only**, at least 6 metres (20 ft) from any window, door or vent, exhaust pointed away from the house and from neighbours. A garage with the door open, a basement, a crawl space, a shed or a porch is not outdoors; opening windows does not make it safe. A 5.5 kW generator makes as much carbon monoxide as six cars.
+  2. Fit **battery carbon monoxide alarms** on each floor and near bedrooms before the first storm. If anyone gets a headache, dizziness or nausea, get everyone into fresh air and call for help.
+  3. Keep it dry: on a dry surface under an open canopy, never in rain or standing water. Dry your hands before you touch it.
+  ### Connection
+  1. **Never plug a generator into a wall outlet.** That backfeeds the street and can electrocute the line workers restoring your power, and it is illegal. If you must feed the house wiring, have an electrician fit a **transfer switch** or interlock, and switch the main breaker off before you start the generator.
+  2. Otherwise run heavy-duty, outdoor-rated extension cords straight from the generator to each appliance. Check that the cord's rating covers the load and that it has no cuts.
+  3. Add up the watts of what you will run at once, and remember that fridges, pumps and motors draw several times their running load for a moment on start-up. Start the generator, let it settle, then plug loads in one at a time, largest first.
+  4. Protect electronics: unplug them or use surge protectors. An **inverter generator** gives cleaner power for computers and medical devices, runs quieter and uses less fuel at low load.
+  ### Fuel and upkeep
+  - Turn the generator **off and let it cool** before refuelling; petrol spilled on a hot engine ignites. Store fuel outside the house in approved containers, and rotate it (see the fuel storage article).
+  - Run it for a few minutes every month, keep spare oil and a spark plug, and keep the manual with it.
+  - Keep a thermometer in the fridge and freezer: food that has been above 4 degrees C (40 F) for two hours or more goes out.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Engine-generator
+    sections: [Overview, Safety]
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "15"
+    heading: "Power outage (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "12"
+    heading: "Flood guidance on generators and electricity (FEMA, Are You Ready?)"
+related: [carbon-monoxide, fuel-storage-and-rotation, small-solar-system, lead-acid-vs-lifepo4]

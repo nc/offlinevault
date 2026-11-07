@@ -1,0 +1,164 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Offline map</title>
+<link rel="stylesheet" href="ovweb://assets/maplibre-gl.css">
+<style>
+html,body,#map{margin:0;height:100%;background:#dfe8ee;font:12px -apple-system,system-ui,sans-serif}
+@media (prefers-color-scheme: dark){html,body,#map{background:#1b1f24}}
+.panel{position:absolute;z-index:5;background:rgba(255,255,255,.94);color:#222;border-radius:10px;padding:10px 12px;box-shadow:0 1px 6px rgba(0,0,0,.22)}
+@media (prefers-color-scheme: dark){.panel{background:rgba(32,34,38,.95);color:#eee}}
+#coords{left:10px;top:10px;width:300px}
+#coords input{width:100%;box-sizing:border-box;font:13px -apple-system,system-ui,sans-serif;padding:6px 8px;border:1px solid rgba(128,128,128,.5);border-radius:6px;background:transparent;color:inherit}
+#coords .row{display:flex;gap:6px;align-items:center;margin-top:6px}
+#coords button{font:12px -apple-system,system-ui,sans-serif;padding:4px 8px;border-radius:6px;border:1px solid rgba(128,128,128,.5);background:transparent;color:inherit;cursor:pointer}
+#coords button.primary{background:#1a73e8;border-color:#1a73e8;color:#fff}
+.k{color:#777;font-size:11px;text-transform:uppercase;letter-spacing:.04em;margin-top:8px}
+.v{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;user-select:all;white-space:pre-line}
+#err{color:#c33;margin-top:6px}
+#cover{left:10px;bottom:30px;font-size:11px;color:#666;max-width:360px}
+@media (prefers-color-scheme: dark){#cover{color:#aaa}}
+.maplibregl-ctrl-attrib{font-size:10px}
+.pin{width:14px;height:14px;border-radius:50%;background:#e8453c;border:2px solid #fff;box-shadow:0 0 0 2px rgba(0,0,0,.25)}
+.me{width:16px;height:16px;border-radius:50%;background:#1a73e8;border:3px solid #fff;box-shadow:0 0 0 2px rgba(26,115,232,.5),0 1px 4px rgba(0,0,0,.4)}
+.center{position:absolute;left:50%;top:50%;width:18px;height:18px;margin:-9px 0 0 -9px;pointer-events:none;z-index:4;opacity:.55}
+.center:before,.center:after{content:"";position:absolute;background:#333}
+.center:before{left:8px;top:0;width:2px;height:18px}.center:after{top:8px;left:0;height:2px;width:18px}
+@media (prefers-color-scheme: dark){.center:before,.center:after{background:#ddd}}
+</style>
+</head><body>
+<div id="map"></div>
+<div class="center" id="crosshair"></div>
+<div id="coords" class="panel">
+  <input id="goto" placeholder="Go to: 39.74, -104.99  or  39°44'N 104°59'W" aria-label="Go to coordinates">
+  <div class="row"><button class="primary" id="gobtn">Go</button><button id="centerbtn" title="Use the map center">Center</button><button id="copybtn" title="Copy the marker's coordinates">Copy</button><span id="zoom" style="margin-left:auto;color:#777"></span></div>
+  <div class="k">Marker (click the map)</div><div class="v" id="pin">—</div>
+  <div class="k">Map center</div><div class="v" id="ctr">—</div>
+  <div id="err"></div>
+</div>
+<div id="cover" class="panel"></div>
+<script src="ovweb://assets/maplibre-gl.js"></script>
+<script src="ovweb://assets/pmtiles.js"></script>
+<script src="ovweb://assets/basemaps.js"></script>
+<script>
+// Every installed region is a source; low-zoom world coverage comes from whichever archive reaches lowest
+// zoom. Tiles are read from disk through ovtiles:// (Range requests); nothing touches the network.
+const protocol = new pmtiles.Protocol();
+maplibregl.addProtocol('pmtiles', protocol.tile);
+const dark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+const $ = id => document.getElementById(id);
+
+function fmt(lat, lon) {
+  const d2 = (v, pos, neg) => { const a = Math.abs(v); const d = Math.floor(a); const m = Math.floor((a - d) * 60); const s = ((a - d) * 3600 - m * 60).toFixed(1); return `${d}°${m}'${s}"${v >= 0 ? pos : neg}`; };
+  return `${lat.toFixed(5)}, ${lon.toFixed(5)}\n${d2(lat, 'N', 'S')} ${d2(lon, 'E', 'W')}`;
+}
+// Accepts "39.74, -104.99", "39.74 -104.99", "39°44'32"N 104°59'02"W", "39 44 32 N, 104 59 02 W", "N39.74 W104.99".
+function parseCoords(s) {
+  s = s.trim().replace(/[°º]/g, ' ').replace(/['′]/g, ' ').replace(/["″]/g, ' ').replace(/,/g, ' ');
+  const m = s.match(/^\s*([NnSs])?\s*(-?\d+(?:\.\d+)?)(?:\s+(\d+(?:\.\d+)?))?(?:\s+(\d+(?:\.\d+)?))?\s*([NnSs])?\s*[, ]+\s*([EeWw])?\s*(-?\d+(?:\.\d+)?)(?:\s+(\d+(?:\.\d+)?))?(?:\s+(\d+(?:\.\d+)?))?\s*([EeWw])?\s*$/);
+  if (!m) return null;
+  const toDec = (d, mi, se, hemi) => { let v = Math.abs(parseFloat(d)) + (mi ? parseFloat(mi) / 60 : 0) + (se ? parseFloat(se) / 3600 : 0); if (parseFloat(d) < 0) v = -v; if (hemi && /[SsWw]/.test(hemi)) v = -Math.abs(v); return v; };
+  const lat = toDec(m[2], m[3], m[4], m[1] || m[5]); const lon = toDec(m[7], m[8], m[9], m[6] || m[10]);
+  if (isNaN(lat) || isNaN(lon) || Math.abs(lat) > 90 || Math.abs(lon) > 180) return null;
+  return [lat, lon];
+}
+
+function graticule() { // 10° lines so an empty world still has structure
+  const f = [];
+  for (let lon = -180; lon <= 180; lon += 10) f.push({type: 'Feature', properties: {}, geometry: {type: 'LineString', coordinates: [[lon, -85], [lon, 85]]}});
+  for (let lat = -80; lat <= 80; lat += 10) f.push({type: 'Feature', properties: {}, geometry: {type: 'LineString', coordinates: [[-180, lat], [180, lat]]}});
+  return {type: 'FeatureCollection', features: f};
+}
+
+function layersFor(src, version, minz, maxz, suffix) {
+  const ls = version.startsWith('4') ? basemaps.layers(src, basemaps.namedFlavor(dark ? 'dark' : 'light'), {lang: 'en'}) : v3Layers(src);
+  for (const l of ls) { l.id = l.id + suffix; if (l.type !== 'background') { l.minzoom = Math.max(l.minzoom || 0, minz); if (maxz < 15) { /* keep overzoom: MapLibre overzooms the last available tile level */ } } }
+  return ls.filter(l => l.type !== 'background');
+}
+function v3Layers(src) {
+  const F = ['Noto Sans Regular'];
+  return [
+    {id: 'earth', type: 'fill', source: src, 'source-layer': 'earth', paint: {'fill-color': dark ? '#2a2f36' : '#f4f1ea'}},
+    {id: 'landuse', type: 'fill', source: src, 'source-layer': 'landuse', paint: {'fill-color': dark ? '#2f3a30' : '#dfe9d2'}},
+    {id: 'natural', type: 'fill', source: src, 'source-layer': 'natural', paint: {'fill-color': dark ? '#2b3a2c' : '#cfe3bd'}},
+    {id: 'water', type: 'fill', source: src, 'source-layer': 'water', paint: {'fill-color': dark ? '#1b2a3a' : '#a9c9ea'}},
+    {id: 'waterway', type: 'line', source: src, 'source-layer': 'physical_line', paint: {'line-color': dark ? '#2f4a66' : '#9fc2e6', 'line-width': 1.2}},
+    {id: 'buildings', type: 'fill', source: src, 'source-layer': 'buildings', minzoom: 13, paint: {'fill-color': dark ? '#3a3a3a' : '#d9d3c8', 'fill-opacity': 0.8}},
+    {id: 'roads-minor', type: 'line', source: src, 'source-layer': 'roads', filter: ['in', ['get', 'pmap:kind'], ['literal', ['minor_road', 'other', 'path']]], paint: {'line-color': dark ? '#55595e' : '#ffffff', 'line-width': ['interpolate', ['linear'], ['zoom'], 12, 0.6, 16, 4]}},
+    {id: 'roads-medium', type: 'line', source: src, 'source-layer': 'roads', filter: ['==', ['get', 'pmap:kind'], 'medium_road'], paint: {'line-color': dark ? '#6b6a5a' : '#fff6d6', 'line-width': ['interpolate', ['linear'], ['zoom'], 10, 1, 16, 6]}},
+    {id: 'roads-major', type: 'line', source: src, 'source-layer': 'roads', filter: ['==', ['get', 'pmap:kind'], 'major_road'], paint: {'line-color': dark ? '#8a7d4a' : '#ffe29e', 'line-width': ['interpolate', ['linear'], ['zoom'], 8, 1, 16, 8]}},
+    {id: 'roads-highway', type: 'line', source: src, 'source-layer': 'roads', filter: ['==', ['get', 'pmap:kind'], 'highway'], paint: {'line-color': dark ? '#a8863f' : '#f7c56b', 'line-width': ['interpolate', ['linear'], ['zoom'], 6, 1, 16, 10]}},
+    {id: 'rail', type: 'line', source: src, 'source-layer': 'transit', paint: {'line-color': '#999', 'line-width': 1, 'line-dasharray': [3, 2]}},
+    {id: 'boundaries', type: 'line', source: src, 'source-layer': 'boundaries', paint: {'line-color': dark ? '#8b7fa8' : '#9d8fb3', 'line-width': 1, 'line-dasharray': [4, 2]}},
+    {id: 'road-labels', type: 'symbol', source: src, 'source-layer': 'roads', minzoom: 13, layout: {'symbol-placement': 'line', 'text-field': ['get', 'name'], 'text-font': F, 'text-size': 11}, paint: {'text-color': dark ? '#ccc' : '#555', 'text-halo-color': dark ? '#222' : '#fff', 'text-halo-width': 1.5}},
+    {id: 'poi-labels', type: 'symbol', source: src, 'source-layer': 'pois', minzoom: 14, layout: {'text-field': ['get', 'name'], 'text-font': F, 'text-size': 11, 'text-anchor': 'top', 'text-offset': [0, 0.5]}, paint: {'text-color': dark ? '#ddd' : '#6b5e4a', 'text-halo-color': dark ? '#222' : '#fff', 'text-halo-width': 1.5}},
+    {id: 'place-labels', type: 'symbol', source: src, 'source-layer': 'places', layout: {'text-field': ['get', 'name'], 'text-font': F, 'text-size': ['interpolate', ['linear'], ['zoom'], 2, 10, 12, 18]}, paint: {'text-color': dark ? '#eee' : '#222', 'text-halo-color': dark ? '#111' : '#fff', 'text-halo-width': 2}}
+  ];
+}
+
+(async () => {
+  try {
+    const list = await (await fetch('ovtiles://list')).json(); // [{file, name, minZoom, maxZoom, version, bounds:[w,s,e,n], center:[lon,lat]}]
+    list.sort((a, b) => a.minZoom - b.minZoom || b.maxZoom - a.maxZoom);
+    const style = {version: 8, glyphs: 'ovweb://assets/fonts/{fontstack}/{range}.pbf', sprite: 'ovweb://assets/sprites/' + (dark ? 'dark' : 'light'), sources: {grat: {type: 'geojson', data: graticule()}}, layers: [
+      {id: 'bg', type: 'background', paint: {'background-color': dark ? '#1b1f24' : '#dfe8ee'}},
+      {id: 'grat', type: 'line', source: 'grat', paint: {'line-color': dark ? '#3a4149' : '#c7d3dc', 'line-width': 0.6}}
+    ]};
+    // World-wide archives (min zoom 0 and global bounds) draw everywhere; regional ones draw on top within their bounds.
+    const world = list.filter(m => m.minZoom === 0 && m.bounds[2] - m.bounds[0] > 300);
+    const regions = list.filter(m => !world.includes(m));
+    let i = 0;
+    for (const m of world.concat(regions)) {
+      const id = 'src' + (i++);
+      const url = 'pmtiles://ovtiles://map/' + encodeURIComponent(m.file);
+      protocol.add(new pmtiles.PMTiles('ovtiles://map/' + encodeURIComponent(m.file)));
+      // bounds stop MapLibre asking a regional archive for tiles it does not have (which surfaced as "Load failed").
+      style.sources[id] = {type: 'vector', url, attribution: '© OpenStreetMap contributors', minzoom: m.minZoom, maxzoom: m.maxZoom, bounds: m.bounds};
+      const isWorld = world.includes(m);
+      style.layers.push(...layersFor(id, String(m.version || ''), isWorld ? 0 : Math.max(0, m.minZoom), m.maxZoom, '-' + id));
+    }
+    const coverText = world.length ? `World coverage to zoom ${Math.max(...world.map(w => w.maxZoom))}` + (regions.length ? `; street detail in: ${regions.map(r => r.name).join(', ')}` : '') : (regions.length ? `Detail only inside: ${regions.map(r => r.name).join(', ')}. Add the world overview from Library updates or “Download a Region” for coverage elsewhere.` : 'No map data installed yet.');
+    $('cover').textContent = coverText;
+    const params = new URLSearchParams(location.search);
+    const start = regions[0] || world[0];
+    let center = start ? start.center : [0, 20], zoom = start && regions.length ? Math.min(start.maxZoom - 3, 11) : 2;
+    if (params.get('lat') && params.get('lon')) { center = [parseFloat(params.get('lon')), parseFloat(params.get('lat'))]; zoom = parseFloat(params.get('z') || '10'); }
+    style.sources.me = {type: 'geojson', data: {type: 'FeatureCollection', features: []}};
+    style.layers.push({id: 'me-ring', type: 'fill', source: 'me', paint: {'fill-color': '#1a73e8', 'fill-opacity': 0.12}}, {id: 'me-ring-line', type: 'line', source: 'me', paint: {'line-color': '#1a73e8', 'line-width': 1, 'line-opacity': 0.6}});
+    const map = new maplibregl.Map({container: 'map', style, center, zoom, minZoom: 0, maxZoom: 19, renderWorldCopies: true, attributionControl: {compact: true}});
+    map.addControl(new maplibregl.NavigationControl({visualizePitch: false}), 'top-right');
+    map.addControl(new maplibregl.ScaleControl({unit: 'metric'}), 'bottom-right');
+    let marker = null;
+    const setPin = (lat, lon) => { if (!marker) { const el = document.createElement('div'); el.className = 'pin'; marker = new maplibregl.Marker({element: el}).setLngLat([lon, lat]).addTo(map); } else marker.setLngLat([lon, lat]); $('pin').textContent = fmt(lat, lon); window.webkit?.messageHandlers?.ov?.postMessage({type: 'pin', lat, lon}); };
+    const worldMax = world.length ? Math.max(...world.map(w => w.maxZoom)) : -1;
+    const coveredHere = (lon, lat) => regions.some(r => lon >= r.bounds[0] && lon <= r.bounds[2] && lat >= r.bounds[1] && lat <= r.bounds[3]);
+    const updateCenter = () => {
+      const c = map.getCenter(); $('ctr').textContent = fmt(c.lat, c.lng); $('zoom').textContent = 'z' + map.getZoom().toFixed(1);
+      const z = map.getZoom();
+      if (z > worldMax + 1.5 && !coveredHere(c.lng, c.lat)) $('cover').textContent = `No street detail here yet (world map stops at zoom ${worldMax}). Use “Download Detail Here” in the toolbar to fetch this area.`;
+      else $('cover').textContent = coverText;
+    };
+    map.on('move', updateCenter); map.on('load', updateCenter);
+    map.on('click', e => setPin(e.lngLat.lat, e.lngLat.lng));
+    map.on('error', ev => { if (ev && ev.error && !/glyph|sprite|Source layer|does not exist|Load failed|404|tile/i.test(ev.error.message || '')) $('err').textContent = ev.error.message; });
+    const go = () => { const p = parseCoords($('goto').value); if (!p) { $('err').textContent = 'Could not read those coordinates. Try "39.74, -104.99".'; return; } $('err').textContent = ''; setPin(p[0], p[1]); map.flyTo({center: [p[1], p[0]], zoom: Math.max(map.getZoom(), 12)}); };
+    $('gobtn').onclick = go; $('goto').addEventListener('keydown', e => { if (e.key === 'Enter') go(); });
+    $('centerbtn').onclick = () => { const c = map.getCenter(); $('goto').value = `${c.lat.toFixed(5)}, ${c.lng.toFixed(5)}`; setPin(c.lat, c.lng); };
+    $('copybtn').onclick = () => { const t = ($('pin').textContent !== '—' ? $('pin') : $('ctr')).textContent.split('\n')[0]; navigator.clipboard?.writeText(t); window.webkit?.messageHandlers?.ov?.postMessage({type: 'copy', text: t}); };
+    window.ovMap = map;
+    window.ovGoTo = (lat, lon, z) => { setPin(lat, lon); map.flyTo({center: [lon, lat], zoom: z || Math.max(map.getZoom(), 12)}); };
+    window.ovFit = (w, s, e, n) => map.fitBounds([[w, s], [e, n]], {padding: 30});
+    let me = null;
+    // Blue dot + accuracy circle (metres) for the device's position; centers the map on it.
+    window.ovSetLocation = (lat, lon, accuracy, animate) => {
+      if (!me) { const el = document.createElement('div'); el.className = 'me'; el.title = 'Your location'; me = new maplibregl.Marker({element: el}).setLngLat([lon, lat]).addTo(map); } else me.setLngLat([lon, lat]);
+      const pts = []; const r = Math.max(accuracy || 0, 0) / 1000; const latR = r / 110.574, lonR = r / (111.32 * Math.cos(lat * Math.PI / 180));
+      for (let i = 0; i <= 64; i++) { const a = i / 64 * 2 * Math.PI; pts.push([lon + lonR * Math.cos(a), lat + latR * Math.sin(a)]); }
+      const src = map.getSource('me'); if (src) src.setData({type: 'FeatureCollection', features: r > 0 ? [{type: 'Feature', properties: {}, geometry: {type: 'Polygon', coordinates: [pts]}}] : []});
+      const z = Math.max(map.getZoom(), accuracy && accuracy > 2000 ? 9 : 12);
+      if (animate) map.flyTo({center: [lon, lat], zoom: z}); else map.jumpTo({center: [lon, lat], zoom: z});
+    };
+    if (params.get('lat') && params.get('lon') && params.get('acc')) map.on('load', () => ovSetLocation(parseFloat(params.get('lat')), parseFloat(params.get('lon')), parseFloat(params.get('acc')), false));
+    const fit = params.get('fit'); if (fit) { const b = fit.split(',').map(Number); if (b.length === 4) map.fitBounds([[b[0], b[1]], [b[2], b[3]]], {padding: 30}); }
+  } catch (e) { $('err').textContent = 'Could not open maps: ' + (e && e.message ? e.message : e); }
+})();
+</script>
+</body></html>

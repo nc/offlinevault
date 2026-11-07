@@ -1,0 +1,34 @@
+title: "Wildfire: defensible space, smoke and leaving early"
+summary: Clear the fuel around the house now, leave the moment an evacuation notice comes, and protect lungs from the smoke.
+keywords: [wildfire, bushfire, defensible space, embers, N95, smoke, evacuation notice]
+procedure: |
+  ### Before the season
+  1. Build defensible space in zones. Within 1.5 m (5 ft) of the walls use gravel, pavers or bare earth and nothing that burns. Within 9 m (30 ft) remove fuel, oil and propane stores, rubbish and garden waste, wooden furniture and dead plants, and keep branches off the roof and away from windows. From 9 to 30 m (30 to 100 ft) thin and prune so trees and shrubs do not touch, keep grass short, and clear the driveway so fire engines can reach you. Work with neighbours to break up connected tree canopies within 60 m (200 ft) of any building.
+  2. Use fire-resistant materials when you build or renovate, keep a hose that reaches every part of the property, and make the house number easy to read from the road.
+  3. Keep several N95 respirators in the kit and fit them to each face. Wildfire smoke is mostly fine particles and carbon monoxide, hardest on children, older people and anyone with asthma, COPD or heart disease.
+  ### When fire threatens
+  1. Sign up for alerts and watch the weather. **Leave as soon as a notice is issued**, before the route is cut off. Do not wait to see flames.
+  2. If there is time and it is safe: fill tubs, pools and bins with water, wet the roof, put sprinklers on the roof and near fuel tanks, lean a ladder against the house, turn on the lights so the house shows through smoke, and close windows and doors but leave them unlocked for firefighters.
+  3. Drive with windows up and an N95 on. Take the pets.
+  ### Afterwards
+  1. Return only when authorities say so and ask whether the water is safe to drink.
+  2. Avoid hot ash, charred trees, smouldering debris and live embers. The ground can hold heat pockets that burn feet and paws or start a new fire; keep pets and livestock off it.
+  3. Burned slopes shed water for years. Expect flash floods and mudslides in the rains that follow.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "17"
+    heading: "Wildfire and winter storm (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Defensible space (fire control)
+    sections: [Criteria, Landscape use]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Wildfire emergency management
+    sections: [Preparation, Response]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Wildfire
+    sections: [Impacts on humans]
+related: [extinguishers, evacuation-planning, go-bag, sheltering-with-pets]

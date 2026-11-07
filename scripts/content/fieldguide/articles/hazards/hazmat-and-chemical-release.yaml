@@ -1,0 +1,26 @@
+title: "Hazmat and chemical releases"
+summary: Get crosswind, upwind and uphill or seal yourself in, strip and rinse whatever touched you, and treat breathing trouble after an exposure as an emergency even when it starts hours later.
+keywords: [hazmat, chemical spill, toxic gas, chlorine, ammonia, decontamination, upwind, placard]
+procedure: |
+  1. Signs of a release: coloured smoke or mist, oily dark patches on leaves or ground, a strange taste in food or water, sick or dying animals and birds, and in people watering eyes, coughing, choking, dizziness, itching or burning skin. Many agents have no colour or smell, and if you can smell chlorine or ammonia you are already breathing a harmful dose.
+  2. Outdoors, leave **crosswind first, then upwind, on high ground**. Most toxic gases are heavier than air and pool in cellars, ditches, gullies and valleys, and woods and tall grass hold the vapour.
+  3. If officials say shelter in place: go inside, shut windows, vents and dampers, turn off fans and air conditioning, and seal an interior room above ground (see Sheltering in place). A chemical plume disperses within hours.
+  4. If anything got on you, take off the contaminated clothing away from other people, bag it, and rinse skin and hair with plenty of water and soap. Vapour trapped in cloth keeps gassing off onto whoever stands nearby. For a vapour exposure the first treatment is fresh air.
+  5. A wet T-shirt or cloth over the nose and mouth is an escape filter only; it is not protection to stay in.
+  6. Breathing trouble can be delayed. Chlorine, ammonia and phosgene (made when solvents, foam plastics and non-stick coatings burn) can swell the airway or fill the lungs hours after the exposure. Anyone with chest tightness or shortness of breath afterwards should rest, avoid exertion and get medical care.
+  7. Do not use wood or plants from a contaminated area for fire, food or water. Check water sources for oil films, odd smells and dead fish, and keep food and water covered.
+  8. On a tanker or rail car the diamond placard gives the hazard class (flammable, toxic gas, corrosive and so on) and a UN number that responders look up. Read it from a distance; do not approach to read it.
+sources:
+  - kind: pdf
+    document: fm-21-76-1-survival-evasion-recovery
+    pages: "96-97"
+    heading: "Chemical conditions: detecting, protection and self-aid (FM 21-76-1, chapter IX)"
+  - kind: pdf
+    document: chem-bio-casualties-handbook-2016
+    pages: "43-48"
+    heading: "Lung-damaging agents and toxic industrial chemicals (Field Management of Chemical and Biological Casualties, chapter 4)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Dangerous goods
+    sections: [Global regulations, Classification and labeling summary tables]
+related: [shelter-in-place, nuclear-detonation-and-fallout, burns, evacuation-planning]

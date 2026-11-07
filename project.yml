@@ -1,0 +1,90 @@
+name: OfflineVault
+options:
+  bundleIdPrefix: com.offlinevault
+  deploymentTarget:
+    macOS: "14.0"
+  createIntermediateGroups: true
+  generateEmptyDirectories: true
+packages:
+  OfflineVaultCore:
+    path: Core
+  Sparkle:
+    url: https://github.com/sparkle-project/Sparkle
+    from: 2.6.0
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MACOSX_DEPLOYMENT_TARGET: "14.0"
+    DEVELOPMENT_TEAM: ""
+    # scripts/release.sh overrides these two on the xcodebuild command line (--version, --build).
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+targets:
+  OfflineVault:
+    type: application
+    platform: macOS
+    sources:
+      - path: OfflineVault
+        excludes:
+          - "Resources/bin/**"
+          - "Resources/web/**"
+      - path: OfflineVault/Resources/bin
+        type: folder
+        buildPhase: resources
+      - path: OfflineVault/Resources/web
+        type: folder
+        buildPhase: resources
+    dependencies:
+      - package: OfflineVaultCore
+        product: OfflineVaultCore
+      - package: Sparkle
+        product: Sparkle
+    info:
+      path: OfflineVault/Info.plist
+      properties:
+        CFBundleName: OfflineVault
+        CFBundleDisplayName: OfflineVault
+        CFBundleIconFile: AppIcon
+        # Sparkle app updates (direct distribution). The feed is written by scripts/release.sh; the EdDSA public
+        # key pairs with the private key scripts/sparkle_keys.sh put in the login Keychain of the release machine.
+        SUFeedURL: https://offlinevault.dev/updates/app/appcast.xml
+        SUPublicEDKey: "sEeX4ixtk5KnyLnPCu5qAjfJe7XbYxCaH4XXOcIa0tI="
+        SUEnableAutomaticChecks: true
+        CFBundleShortVersionString: "$(MARKETING_VERSION)"
+        CFBundleVersion: "$(CURRENT_PROJECT_VERSION)"
+        LSMinimumSystemVersion: "14.0"
+        LSApplicationCategoryType: public.app-category.reference
+        NSHumanReadableCopyright: "© 2026 OfflineVault. Wikipedia content CC BY-SA 4.0."
+        NSAppTransportSecurity:
+          NSAllowsLocalNetworking: true
+        # offlinevault://activate?key=OV-... from the receipt page.
+        CFBundleURLTypes:
+          - CFBundleURLName: com.offlinevault.activate
+            CFBundleURLSchemes: [offlinevault]
+        NSLocationUsageDescription: "OfflineVault centers the offline map on where you are. Your location never leaves this Mac."
+        NSLocationWhenInUseUsageDescription: "OfflineVault centers the offline map on where you are. Your location never leaves this Mac."
+        NSSupportsAutomaticTermination: false
+        NSSupportsSuddenTermination: false
+    entitlements:
+      path: OfflineVault/OfflineVault.entitlements
+      properties:
+        # Direct distribution: NO App Sandbox (we spawn helper processes and read user-chosen volumes).
+        # Hardened runtime is enabled below; the app needs no exceptions under Developer ID. scripts/release.sh adds
+        # the ad-hoc fallback's library-validation exception at release time and signs yt-dlp with scripts/entitlements/.
+        com.apple.security.app-sandbox: false
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.offlinevault.app
+        PRODUCT_NAME: OfflineVault
+        ENABLE_HARDENED_RUNTIME: YES
+        CODE_SIGN_STYLE: Automatic
+        CODE_SIGN_IDENTITY: "-"
+        COMBINE_HIDPI_IMAGES: YES
+        ENABLE_PREVIEWS: YES
+        SWIFT_STRICT_CONCURRENCY: minimal
+        OTHER_SWIFT_FLAGS: "$(inherited)"
+    scheme:
+      commandLineArguments:
+        "--use-fixture-server": false
+      environmentVariables:
+        OFFLINEVAULT_LOG: "1"

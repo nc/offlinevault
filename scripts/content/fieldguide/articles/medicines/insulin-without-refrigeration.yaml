@@ -1,0 +1,43 @@
+title: "Insulin when the fridge is off"
+summary: Insulin is the one medicine most people cannot ration, skip or substitute; know how your kind tolerates heat, keep it as cool as you can without freezing it, and recognise low blood sugar before it recognises you.
+keywords: [insulin, diabetes, insulin storage, no refrigeration, hypoglycemia, hypoglycaemia, insulin shock, ketoacidosis, cold chain, zeer pot]
+procedure: |
+  1. **Know your insulin's limits before the power fails.** Medicines that must be refrigerated are kept at 2 to 8 °C (36 to 46 °F). Every insulin leaflet also states how long an opened vial or pen may be kept at room temperature and the highest temperature it tolerates; read yours now and **write both on the box**. Modern insulin analogues (lispro, aspart, glulisine, glargine, detemir) tolerate heat better than older human insulin, which is why they are preferred where refrigeration is unreliable. Never let any insulin freeze; frozen insulin is finished.
+  2. **Keep it cool, dark and still.** The coolest spot in the house, away from windows and appliances, in an insulated box or bag. Do not put it against ice or a frozen pack; wrap the pack in a towel. Carry a day's insulin on your body and the rest in the cool store.
+  3. **Without ice, use evaporation.** A clay pot inside a larger clay pot with wet sand between them and a wet cloth on top (a "zeer" or pot-in-pot cooler), kept in shade with a breeze, drops the inside well below air temperature in dry weather, and must be re-wetted one to three times a day. It works poorly in humid air, and it does **not** reach true refrigerator temperatures; the Wikipedia article on it says plainly that it is not suitable for items needing a sustained 20 °C or less, medicines included. It is a way to lose less, not a fridge.
+  4. **Watch the liquid.** Clear insulins should stay clear; cloudy ones (NPH) should mix evenly. Clumps, frosting on the vial, discolouration or an unusual appearance mean it has deteriorated, and the Ship's Medicine Chest rule for any medicine applies: do not give a drug that has changed colour, consistency or odour. FEMA's blanket advice after an outage of more than a day is to discard refrigerated medicines unless the label says otherwise, and insulin, nitroglycerin and some liquid antibiotics are the named exceptions to "most expired drugs still work". Insulin that has been too warm may simply work less well, so test blood sugar more often while using it.
+  5. **Injection without a nurse.** Insulin goes under the skin: clean the site, hold the skin taut (not pinched), needle straight in at 90 degrees, inject, count 30 to 60 seconds before withdrawing so it does not leak back, and rotate sites. Double-check the dose with someone else when you can. Pen needles are single use; keep a sharps tin.
+  6. **Hypoglycaemia (insulin shock) is the emergency to fear.** It comes from too much insulin, too little food or unusual exertion: pale moist skin, shakiness, headache, dizziness, a strong fast pulse, confusion, then fainting, seizures and coma. Brain damage follows quickly. **Give sugar at once** (glucose tablets, sugar cubes under the tongue, sweet drink, honey) to anyone who can swallow, then food. If you cannot tell whether a confused diabetic is low or high, **give sugar anyway**; it does no appreciable harm if they turn out to be high, and it saves them if they are low. An unconscious person gets nothing by mouth; use a glucagon kit if they have one, recovery position, and emergency help.
+  7. **Diabetic ketoacidosis** (not enough insulin) builds over hours to days: great thirst and urination, nausea, deep breathing, a sweet acetone smell on the breath, warm dry skin, drowsiness. Ask two questions: have they eaten today, and have they taken their insulin? Yes and no points to ketoacidosis. It needs fluids and insulin under medical direction; get help.
+  8. **Plan the supply.** Carry the prescription, a list of insulin types and doses, a glucose meter with strips and spare batteries, fast sugar, a medical ID, and at least two weeks of insulin and supplies in the go-bag (see Stockpiling prescriptions).
+  > Rationing insulin is not a safe economy; talk to a clinician by any channel you have before changing doses. The Hospital Corpsman page below describes both diabetic emergencies as a medic would see them.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Insulin (medication)
+    sections: [Side effects, Types, Methods of administration]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Cold chain
+    sections: [Uses]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Pot-in-pot refrigerator
+    sections: [Construction, Operating conditions, Effectiveness]
+  - kind: pdf
+    document: navedtra-14295-hospital-corpsman
+    pages: "206-207"
+    heading: "Diabetic conditions: ketoacidosis and insulin shock (Hospital Corpsman, chapter 4)"
+  - kind: pdf
+    document: usphs-ships-medicine-chest-2003
+    pages: "53-56"
+    heading: "Medication administration, subcutaneous and insulin injections (Ship's Medicine Chest, chapter 1)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "15"
+    heading: "Power outage: refrigerated medication (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Shelf life
+    sections: [Background]
+related: [refrigeration-loss-food-safety, stockpiling-prescriptions, airway-and-recovery-position, shock]

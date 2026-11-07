@@ -1,0 +1,32 @@
+title: "Storing fuel: petrol, propane and kerosene"
+summary: Petrol goes stale in months and its vapour explodes; propane sinks and pools; store every fuel outside the living space, in the right container, labelled, and rotate it through use.
+keywords: [fuel storage, gasoline storage, petrol storage, fuel stabilizer, fuel stabiliser, propane cylinder, kerosene storage, jerry can, rotate fuel]
+procedure: |
+  ### Where
+  1. Never inside the house, the basement or any room with a furnace, water heater or pilot light. A detached shed or a ventilated outbuilding, out of the sun, away from the dwelling and from anything that sparks.
+  2. Follow your local fire code and insurer on quantity; many limit what may be kept at a home. Keep an extinguisher nearby and nothing flammable stacked around the fuel.
+  ### Petrol (gasoline)
+  - Stored well, petrol stays good for about **six months**, and a year-old can will usually still run an engine. Stale fuel gums carburettors and injectors.
+  - Use approved fuel containers only, kept more than half full and tightly capped so the light fractions cannot evaporate and moisture cannot get in. Fuel with ethanol absorbs water from the air and can separate into layers; keep it sealed and use it sooner.
+  - Add a **fuel stabiliser** when you fill the can, and run any stored engine for ten minutes afterwards so treated fuel reaches the carburettor. Run stored engines at intervals to purge stale fuel.
+  - **Rotate**: label each can with the date, pour the oldest into the car on a schedule, and refill. Fill cans on the ground, never in a vehicle or on a truck bed. Petrol vapour ignites at any temperature you will meet and spreads along the ground.
+  ### Propane (LPG)
+  - Propane is stored as a liquid under pressure; the hazards are leaks and heat, not staleness. Store cylinders **outdoors, upright, valve closed**, out of direct sun and never in a basement, garage or vehicle. Propane is heavier than air: a leak drifts across the floor to the nearest pilot light.
+  - It smells of rotten eggs by design. If you smell it, no switches, no flames; get out and close the valve from outside if you can. Cylinders are filled only to about 80 percent so the liquid can expand in heat; never overfill one.
+  - Check hoses and fittings for leaks with soapy water each season. Retire rusty or dented cylinders.
+  ### Kerosene
+  - Store only clear 1-K kerosene for heaters and lamps, in a container never used for petrol. Even a trace of petrol in kerosene can make a heater or lamp explode.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Gasoline
+    sections: [Physical properties, Additives, Safety]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Propane
+    sections: [Properties and reactions, Hazards]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Kerosene heater
+    sections: [Safety hazards]
+related: [generator-safety, camp-stove-cooking, indoor-heating-and-chimney-fires, low-tech-lighting]

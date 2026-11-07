@@ -1,0 +1,27 @@
+title: "Diarrhoea and oral rehydration"
+summary: Start oral rehydration at the first loose stool, keep eating, and know the signs that mean the person needs a drip; this is the treatment that cuts diarrhoea deaths by more than nine tenths.
+keywords: [diarrhea, diarrhoea, oral rehydration solution, ORS, dehydration, rehydration, sugar salt solution, zinc, loperamide]
+procedure: |
+  1. **Begin at the first loose stool.** Diarrhoea kills by dehydration, and oral rehydration therapy (ORT) prevents it; it has been credited with cutting diarrhoea deaths by as much as 93 percent. Do not wait for thirst or sunken eyes.
+  2. **Best: a packet of oral rehydration salts** (the WHO reduced-osmolarity formula), mixed into exactly 1 litre of the cleanest water you have. Do not withhold it because the water is doubtful; rehydration comes first.
+  3. **No packet: make it.** Into 1 litre of water stir **6 level teaspoons (2 tablespoons) of sugar and half a level teaspoon of salt**. It should taste no saltier than tears. A little too dilute is harmless; too much sugar or salt makes dehydration worse. Salted rice water, salted yoghurt drinks, soups with salt, or cereal cooking water with half to one teaspoon of salt per litre also work. Sports drinks are poor but better than nothing. **Not** sugary soft drinks or fruit juice for children under five; they pull water into the gut.
+  4. **How much:** after every loose stool give a child under two 50 to 100 ml (a quarter to half a cup), an older child 100 to 200 ml, and an adult 200 to 400 ml, in frequent small sips. Give a baby a teaspoonful every one to two minutes, or use a dropper or syringe. **Vomiting** is common in the first hour or two, especially if drunk fast; wait 5 to 10 minutes and start again more slowly. Most of it is still absorbed. Keep breastfeeding throughout.
+  5. **Keep eating.** Food should never be withheld and a child's usual food should not be watered down; eating speeds recovery of the gut. Start within 6 hours and return to a full diet within a day or two. The old "bread, rice, banana" restriction is no longer recommended. Green bananas and foods with soluble fibre help. Zinc supplements help children over six months where malnutrition is common.
+  6. **Medicines:** loperamide and bismuth reduce the number of stools but not the length of illness, and must not be used when there is blood in the stool or a high fever; avoid them in children. Antibiotics help only in specific infections and can make some worse. Never take a laxative for stomach pain.
+  7. **Severe dehydration needs a drip, now:** sunken eyes, a dry mouth, no urine for 8 hours, skin that stays pinched up, drowsiness, confusion or collapse, or a child who cannot drink. Also get help for blood in the stool, high fever, diarrhoea lasting more than a few days, or any infant, pregnant or frail person who is not keeping up with their losses. Keep giving ORS on the way.
+  8. **Stop it spreading:** handwashing with soap after every toilet visit and before food, treated water for drinking and washing, a proper latrine, the sick person's cup and utensils kept separate, and flies kept off food. See Recognising waterborne illness for the pattern of cholera and giardia.
+  > The Oral rehydration therapy text below gives the WHO amounts in full; the FM 21-10 page explains which diseases ride in untreated water.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Oral rehydration therapy
+    sections: [Medical uses, Preparation, Administration]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Diarrhea
+    sections: [Management]
+  - kind: pdf
+    document: army-fm-21-10-field-hygiene
+    pages: "23"
+    heading: "Field water supply: importance of water and water-borne diseases (FM 21-10, chapter 4)"
+related: [waterborne-illness, handwashing-with-scarce-water, boil-bleach-filter, latrines-and-human-waste]

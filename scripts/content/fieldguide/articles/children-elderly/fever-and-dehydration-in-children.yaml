@@ -1,0 +1,39 @@
+title: "Fever and dehydration in children"
+summary: Fever itself rarely harms; dehydration does. Keep fluids going, use ibuprofen or paracetamol for comfort, and know the signs that mean a doctor now.
+keywords: [child fever, febrile seizure, dehydration in children, oral rehydration solution, ibuprofen, paracetamol, sick child]
+procedure: |
+  ### Fever
+  1. Fever is the body fighting infection and rarely rises to a dangerous level on its own. Treat it for comfort, not to chase the number.
+  2. Ibuprofen works better than paracetamol in children, and the two can be given together or alternated; use the dose on the packet for the child's weight. **Never aspirin under 18.** Whether the medicine brings the fever down tells you nothing about how serious the illness is.
+  3. Light clothing, a cool room or a fan, tepid sponging if it soothes, and plenty to drink.
+  4. A **febrile seizure** is stiffening and jerking of arms and legs, eyes open or rolled, irregular breathing, sometimes wetting or vomiting, in a feverish child, usually in the first day of a fever of 39 °C (102 °F) or more. Most last a few minutes and the child is drowsy afterwards. One lasting more than 5 minutes, repeating within a day, affecting one side of the body, or followed by long drowsiness is an emergency.
+  ### Dehydration
+  1. Children carry more water for their size and lose it faster than adults; vomiting, diarrhoea, fever and heat all drain them quickly.
+  2. Signs: thirst, fewer wet nappies or trips to the toilet, a dry mouth, headache, loss of appetite, nausea and unusual tiredness, then confusion or fits.
+  3. Start **oral rehydration** at the first loose stool, before the child looks dry. Use packets if you have them, otherwise 6 level teaspoons of sugar and half a level teaspoon of salt in a litre of the cleanest water available; a little extra water does no harm. Babies take it from a dropper or syringe, children under two a teaspoon every one to two minutes, older children frequent sips from a cup. Give a quarter to half a cup after each loose stool under two and half to a full cup over two. If they vomit, wait 5 to 10 minutes and start again, slower. Keep breastfeeding and keep feeding.
+  4. Sports drinks are second best but better than nothing; plain water alone does not replace the salts. Do not withhold rehydration because the water is doubtful; rehydration comes first.
+  ### Get medical help now for
+  - A fit lasting more than five minutes, a child who cannot be woken or cannot stand or think clearly, no urine for 8 hours, sunken eyes, blood in the stool, a high fever that will not settle, an infant, or a child who is getting worse.
+  > This is a parent's first aid, not a treatment protocol. The Borden chapter cited is written for clinicians giving intravenous fluids; the Wikipedia sources cover the home measures.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Fever
+    sections: [Management]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Febrile seizure
+    sections: [Signs and symptoms, Treatment]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Dehydration
+    sections: [Signs and symptoms, Treatment]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Oral rehydration therapy
+    sections: [Preparation, Administration]
+  - kind: pdf
+    document: pediatric-surgery-hostile-environments
+    pages: "297-298"
+    heading: "Basic fluid and electrolytes (Pediatric Surgery and Medicine for Hostile Environments, chapter 22)"
+related: [waterborne-illness, infant-feeding-without-power, winter-storm-and-extreme-heat, pediatric-trauma-basics]

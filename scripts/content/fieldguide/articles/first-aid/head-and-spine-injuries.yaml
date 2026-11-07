@@ -1,0 +1,38 @@
+title: "Head and spine injuries"
+summary: Treat every serious head injury as a neck injury too; keep the person still, watch for the signs that mean bleeding inside the skull, and know what a concussion needs.
+keywords: [head injury, concussion, skull fracture, spinal injury, neck injury, do not move, unequal pupils, log roll, convulsion]
+procedure: |
+  ### Head injury
+  1. **Assume the neck is injured as well.** Do not move the person unless they are in immediate danger (fire, traffic, water) or you must turn them to keep the airway clear. Hold the head still in line with the body.
+  2. **Signs of a serious head injury:** nausea or vomiting, convulsions, slurred speech, confusion or memory loss (do they know who they are, where they are, what day it is?), any period of unconsciousness, dizziness or drowsiness, blurred vision, unequal pupils, black eyes, weakness or paralysis, headache, bleeding or **clear fluid** from the nose or ears, a dent or swelling in the skull, staggering. Clear fluid from the nose or ear points to a fracture of the skull base.
+  3. **Bleeding from the scalp** usually stops with a dressing. If the skull may be broken or there is a depression, do not press hard, do not apply a pressure dressing, and never push anything back in. Leave a protruding object in place and pad around it. Nothing to eat or drink.
+  4. **Unconscious but breathing:** the airway comes first. Blue or grey lips mean too little oxygen. If they vomit or bleed into the mouth, roll them onto their side as a unit, with helpers keeping head, neck and body aligned (see Airway and the recovery position). A conscious person with a minor scalp wound may sit up or have the head raised slightly.
+  5. **Convulsions** can follow even a mild head injury. Ease the person to the ground, support the head and neck, keep the airway open, move hard objects away, do not hold the jerking limbs down and do not force anything between the teeth.
+  6. **Concussion** is a temporary loss of brain function after a blow: confusion, staggering, a blank stare, repeating questions, brief unconsciousness, headache, dizziness, nausea. Symptoms usually appear within minutes to hours but can be delayed a day or two. Everyone with a suspected concussion needs a medical assessment. Watch them closely for several hours and rouse them a few times over the first 12 to 24 hours. **Go to emergency care at once** for repeated vomiting, a worsening headache, seizures, excessive drowsiness, double vision, slurred speech, an unsteady walk, weakness or numbness in the arms or legs, or new bleeding or deafness in an ear. Use paracetamol rather than ibuprofen or aspirin for the headache (less risk of worsening a bleed), no alcohol. Rest for 24 to 48 hours, then gradually resume light activity; avoid anything that risks another knock until a clinician clears it.
+  ### Spine injury
+  7. **Suspect it** after a fall from height, a vehicle crash, a diving injury, any blow to the head or neck, or when someone is unconscious after a head injury. Neck or back pain, numbness, tingling, weakness, loss of bladder or bowel control, and an erection in an injured man all point to the spinal cord. A spine is unstable until a hospital says otherwise; between 3 and 25 percent of cord injuries happen after the accident, during handling and transport.
+  8. **Keep them still and warm.** Hold the head in line, do not let them sit up or walk, pad the sides of the head, and keep a blanket on them because a cord injury disturbs temperature control. Move them only to escape danger or to clear the airway, and then only as a unit with several people.
+  9. Get trained help with a stretcher and collar to them, rather than them to the car, whenever that is at all possible.
+  > A person with a head injury can seem fine, then deteriorate hours later (the "lucid interval"). Do not leave them alone, and read the FM 4-25.11 section below for the full list of signs.
+sources:
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "54-57"
+    heading: "Head, neck and facial injuries, concussion and convulsions (FM 4-25.11, chapter 3)"
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "70"
+    heading: "Positioning a head-wound casualty and turning a suspected spinal injury (FM 4-25.11, chapter 3)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Concussion
+    sections: [Signs and symptoms, Treatment]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Head injury
+    sections: [Signs and symptoms, Management]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Spinal cord injury
+    sections: [Signs and symptoms, Management]
+related: [airway-and-recovery-position, fractures-and-splinting, cpr-and-choking, shock]

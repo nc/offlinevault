@@ -1,0 +1,29 @@
+title: "Boil, bleach, filter: making water safe to drink"
+summary: Three ways to make suspect water safe with what a household already has, and when each one is enough.
+keywords: [water purification, disinfect water, rolling boil, household bleach, water filter]
+procedure: |
+  ### If you can boil
+  1. Let cloudy water settle, then pour it through a clean cloth, paper towel or coffee filter.
+  2. Bring it to a **rolling boil for one minute**. Above 2,000 m (6,500 ft), boil for three minutes.
+  3. Let it cool covered and store it in clean, covered containers. A pinch of salt per litre improves the flat taste.
+  ### If you cannot boil, use bleach
+  1. Use plain, unscented household bleach (5 to 9 percent sodium hypochlorite). No splashless, scented or colour-safe products.
+  2. Add **2 drops per litre** (8 drops, a little under 1/8 teaspoon, per US gallon) of clear water. Double the dose for cloudy water.
+  3. Stir and wait **30 minutes**. A faint chlorine smell means the dose was enough. If there is no smell, repeat the dose and wait 15 more minutes.
+  ### Filters
+  - Most portable filters remove parasites and bacteria. Only filters labelled for viruses remove them, so pair a filter with boiling or bleach when sewage may be in the water.
+  > Boiling, bleach and filters do not remove fuel, pesticides, heavy metals or other chemicals. If water smells of chemicals or an authority says it is chemically contaminated, use bottled or stored water instead.
+sources:
+  - kind: pdf
+    document: cdc-make-water-safe-during-emergency
+    pages: "1"
+    heading: "Make Water Safe During an Emergency (CDC)"
+  - kind: pdf
+    document: epa-emergency-disinfection-drinking-water
+    pages: "1-2"
+    heading: "Emergency Disinfection of Drinking Water (EPA)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Portable water purification
+    sections: [Techniques]
+related: [storing-water, solar-disinfection, waterborne-illness, distillation]

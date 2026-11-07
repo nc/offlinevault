@@ -1,0 +1,49 @@
+title: "Garbage, flies and rodents"
+summary: Uncollected waste turns into flies in a week and rats soon after; bury or burn it daily, screen and cover food, trap rather than poison near kitchens, and never touch a dead rat bare-handed.
+keywords: [garbage disposal, rubbish, flies, fly control, rats, mice, rodent control, traps, rat bait, mosquitoes, ticks]
+procedure: |
+  ### Garbage
+  1. Food waste, manure and human waste are where houseflies lay their eggs; in warm weather a new generation takes 7 to 15 days. Flies carry dysentery, typhoid and cholera germs on their feet and in their vomit and droppings straight from waste to food. Rats follow garbage and bring leptospirosis, salmonella and plague fleas. Prompt disposal is the control.
+  2. **Keep it closed** until it is dealt with: lidded bins, bagged waste, nothing loose around the house. Strain liquid out of food waste; pour greasy water through a straw-filled strainer into a stone-filled soakage hole rather than onto the ground.
+  3. **Bury it daily.** A pit about 1.2 m (4 ft) square and deep takes a day's garbage for 100 people; a household needs far less. For a longer stay, dig a trench 60 cm wide and 1 m deep, tip in the day's waste, cover it with the dug soil and extend the trench as you go. Covering garbage with earth every day stops fly eggs ever becoming flies. Stop filling 30 cm from the top, mound 30 cm of packed earth over it, and keep any pit at least 30 m (100 ft) from a water source. Flatten cans and break boxes before burial.
+  4. **Burn what will burn** where open fires are allowed, downwind and well away from the house, in a drum incinerator (a 55-gallon drum with both ends out, holes punched near the bottom and a grate inside, raised on stones over a fire). Wet garbage will not burn; drain it first. Bury the ash and anything that does not burn.
+  ### Flies
+  5. Sanitation first; chemicals never substitute for it. Then **screens** (18-mesh) on windows and doors of any room where food is handled, doors opening outward and self-closing; vertical plastic strips or a fan across a doorway also keep flies out. Keep latrine lids shut and food covered.
+  6. Inside: sticky flypapers, and the swatter. Draw the blinds on all windows but one; flies gather at the light and are easily killed. Do not use electric zappers over food surfaces. Residual sprays on ceilings, corners and door frames where flies rest help for a while, but many flies are now resistant.
+  ### Rodents
+  7. **Signs:** scurrying at night (overhead means roof rats), burrows along walls and under rubbish piles (Norway rats), gnawed holes, greasy smudge lines along beams and skirting, pellet droppings, tracks in dust, and dead rats, which can mean plague where it exists.
+  8. **Deny them food and shelter.** Store all opened food in tightly lidded metal containers, deal with garbage as above, clear rubbish and wood piles from against buildings, and block openings with metal; wood is no barrier to a rat.
+  9. **Trap near food, bait away from it.** Snap traps are the method of choice anywhere food is handled or stored, because poison there is a hazard to people. Set many; a 10 percent catch rate is good. Bait with peanut butter, bacon, oatmeal, apple or carrot (not citrus or tomato), place traps along the runs and at burrow mouths so a rat can approach from either direction. Poison baits go only in bait boxes (a tunnel of boards 45 cm long, 13 cm wide, open at both ends) along runs where children, pets and food cannot reach; anticoagulant baits need several feeds over 8 to 9 days, so keep them topped up, and some rat populations are resistant.
+  10. **Dead rodents:** check traps every morning. Fleas leave a cooling body looking for a new host, so put insect repellent on your hands and sleeves, pick the rat up with long tongs or a shovel into a plastic bag or a lidded metal tin, and burn or bury it. Wash your hands.
+  ### Other biters
+  11. **Mosquitoes** breed in any water that stands more than 5 to 7 days: empty tyres, cans, buckets and blocked gutters, cover rain barrels, screen windows and sleep under a net. **Ticks:** check each other every two hours in tick country, grasp an embedded tick with fine forceps close to the skin (never by the body) and pull steadily, then clean the bite. Long sleeves, trousers tucked into boots and DEET on skin and clothing openings defeat most of them.
+sources:
+  - kind: pdf
+    document: army-fm-21-10-field-hygiene
+    pages: "47-48"
+    heading: "Garbage and rubbish disposal (FM 21-10, chapter 6)"
+  - kind: pdf
+    document: army-fm-21-10-field-hygiene
+    pages: "60-61"
+    heading: "Fly-borne diseases and fly control measures (FM 21-10, chapter 9)"
+  - kind: pdf
+    document: army-fm-21-10-field-hygiene
+    pages: "74-76"
+    heading: "Rodent-borne diseases and rodent control methods (FM 21-10, chapter 14)"
+  - kind: pdf
+    document: army-fm-21-10-field-hygiene
+    pages: "50-51"
+    heading: "Mosquito breeding sites and unit control measures (FM 21-10, chapter 7)"
+  - kind: pdf
+    document: army-fm-21-10-field-hygiene
+    pages: "65"
+    heading: "Tick control and removal of ticks (FM 21-10, chapter 11)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Housefly
+    sections: [Life cycle, Relationship with humans]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Pest control
+    sections: [In homes and cities]
+related: [latrines-and-human-waste, refrigeration-loss-food-safety, bites-and-stings, handwashing-with-scarce-water]

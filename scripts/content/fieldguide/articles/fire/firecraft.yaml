@@ -1,0 +1,34 @@
+title: "Firecraft: building and lighting a fire that stays lit"
+summary: Dry tinder, dry kindling, a sheltered cleared site and a lay that lets air in; most failed fires are wet or smothered, not unlucky.
+keywords: [firecraft, start a fire, tinder, kindling, ferro rod, fire lay, campfire safety, put out a campfire]
+procedure: |
+  ### Site
+  1. Find a dry spot out of the wind, close to your shelter but not under it or under low branches. Clear brush and scrape the ground to bare soil in a circle at least 1 metre across (3 metres where the ground is dry and grassy). Keep water or a shovel of dirt within reach.
+  2. If you can, build a low wall of logs or rocks on the windward side to reflect heat toward you and cut sparks. **Never use wet or porous rocks**; they can explode when heated.
+  3. On snow, lay two or three layers of green logs as a platform. For a hidden, fuel-saving cooking fire, dig a Dakota hole: a pit for the fire with a second hole angled in from the upwind side for air.
+  ### Material: collect three piles before you strike anything
+  - **Tinder** catches from a spark: shredded inner bark, dry grass, birch bark, fine wood shavings, cotton lint, charred cloth. It must be absolutely dry; carry some in a sealed bag.
+  - **Kindling**: pencil to finger thick dry sticks. Dead branches still on the tree are drier than wood lying on the ground.
+  - **Fuel**: wrist thick and up. Seasoned, non-resinous hardwood burns longest. Gather more than you think you need and keep it dry; dry damp wood beside the fire.
+  ### Lay and light
+  1. **Tepee**: a cone of kindling around a fist of tinder; light the centre; it burns even damp wood. **Lean-to**: a green stick pushed into the ground at 30 degrees pointing into the wind, tinder under it, kindling leaned against it. **Pyramid**: layers of logs, each at right angles to and smaller than the one below, lit on top; it burns down unattended through the night.
+  2. Light from the **upwind** side. Shield the flame with your body. Feed small pieces as it catches; smothering a young fire with big wood is the usual failure.
+  3. Igniters: waterproof matches in a waterproof case with a striker; a lighter; a ferrocerium rod scraped with the back of a knife so the sparks land on tinder laid on a dry leaf; a magnifying lens or binocular lens in bright sun; a battery with two wires touched together over tinder. Flint on carbon steel (not stainless) works with practice. Friction methods (bow drill, fire plough) exhaust you; practise them at home, not in an emergency.
+  ### Keep it, then kill it
+  - Bank the coals under ash to keep them alive overnight. Never leave a fire unattended.
+  - To put it out: douse with plenty of water until the hissing stops, stir the ashes, add more water, and check that everything is **cold to the touch**. Where water is short, smother with sand or soil and then wet it. Never bury hot coals; they smoulder in roots for days.
+  > Fire in a closed shelter makes carbon monoxide. Always leave a vent, and never sleep with a fire or stove burning in an unvented space.
+sources:
+  - kind: pdf
+    document: army-fm-21-76-survival
+    pages: "63-71"
+    heading: "Firecraft (FM 21-76, chapter 7)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Campfire
+    sections: [Safety, Extinguishing the fire]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Fire making
+    sections: [Methods]
+related: [field-shelters, snow-shelters, extinguishers, carbon-monoxide]

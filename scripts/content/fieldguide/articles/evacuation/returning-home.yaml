@@ -1,0 +1,27 @@
+title: "Returning home after a disaster"
+summary: Wait for the all-clear, inspect from outside before you step in, and treat gas, wiring, water and food as suspect until proven safe.
+keywords: ['returning home', 'after the disaster', 'damage inspection', 'insurance claim', 'boil water notice', 'disaster fraud', 'after a flood', 'flood water has gone down', 'going back into the house', 'is it safe to go in', 'start cleaning up', 'flooded house', 're-entering a damaged building']
+procedure: |
+  1. Go back only when local authorities say it is safe. On the way, watch for washed-out roads, downed lines and debris, and report chemical spills, smouldering insulation, downed wires and dead animals to the authorities.
+  2. **Outside first.** Walk around the building with a torch, never a flame, looking for loose or downed power lines, the smell of gas, floodwater around the building, and structural damage: cracks in walls, doors and windows out of square, a shifted foundation, chimney damage. If you find any of these, or the house had fire damage that no official has inspected, do not go in; ask for a building inspector or structural engineer.
+  3. **Gas.** If you smell gas or hear hissing or blowing, open a window and leave immediately. Only professionals turn the supply back on. No smoking, candles, oil or gas lanterns or flame torches until you are sure there is no leaking gas.
+  4. **Electricity.** Do not touch the electrical system if you are wet, standing in water or unsure. Turn off the main breaker if you can do it safely, unplug wet appliances and let them dry, and have an electrician check the wiring and the appliances before the power goes back on.
+  5. **Water and food.** Expect a boil-water notice and check with the water authority. Fridge food is safe after an outage of up to four hours if the door stayed shut; throw away perishables that have been above 4 °C (40 °F) for more than two hours, anything that touched floodwater or fire, and refrigerated medicines after more than a day without power unless the label says otherwise.
+  6. Pump out a flooded basement slowly, about a third of the water a day; walls can collapse and floors buckle if you empty it while the ground outside is still saturated. Open cupboards carefully, and expect mice, rats, snakes and insects that came in with the water.
+  7. Pace yourself. Cleanup exhaustion causes injuries, so set priorities, rest, drink clean water and eat; wear boots and gloves and wash your hands often.
+  8. Call the insurer as soon as you can, photograph everything before you throw it out, note standing water levels, keep receipts for repairs and for living away from home, and separate damaged from undamaged property for the adjuster.
+  9. Expect scams. Ask anyone at the door for official photo ID, give out no bank or social security details, and know that government workers never charge for inspections or for help with applications.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "30-32"
+    heading: "Recovering from a disaster: returning home and inside your home (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "34"
+    heading: "Protect yourself from disaster-related fraud and scams (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "15"
+    heading: "Power outage: food and refrigerated medicines (FEMA, Are You Ready?)"
+related: [gas-leaks, well-shock-chlorination, boil-bleach-filter, flood, carbon-monoxide]

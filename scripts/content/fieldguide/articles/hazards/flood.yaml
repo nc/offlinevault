@@ -1,0 +1,43 @@
+title: "Flood and flash flood"
+summary: Move to higher ground early, never drive or walk through moving water, and treat everything the water touched as contaminated.
+keywords: [flood, flash flood, turn around don't drown, floodwater, high ground, flood insurance]
+procedure: |
+  ### Before
+  1. Find out your flood risk. Standard home insurance does not cover flooding, and flood cover usually has a 30-day wait before it starts, so do not leave it until a storm is forecast.
+  2. Raise valuables, documents and critical utilities above likely water levels, fit check valves in drains, and keep gutters and drains clear.
+  3. A **watch** means flooding is possible; a **warning** means it is happening or imminent. A flash flood arrives within a few hours of heavy rain, a dam or levee failure or an ice jam, often at night.
+  ### During
+  1. If told to evacuate, go immediately by the recommended routes. Never drive around barricades.
+  2. **Turn around, don't drown.** 15 cm (6 inches) of moving water can knock you off your feet, 30 cm (12 inches) can float a small car, and 60 cm (2 feet) carries away most vehicles. More than half of flood drownings are people in vehicles, and the depth is impossible to judge from the driver's seat.
+  3. Stay away from storm drains, ditches, culverts and ravines, and keep children away from them.
+  4. If water traps you in a building, go to the highest level but not into a closed attic, where rising water can trap you. Go onto the roof only if you must, and signal for help.
+  ### After
+  1. Do not wade in floodwater. It hides debris and can be electrically charged by downed or buried lines. Do not enter a flooded building until authorities say it is safe.
+  2. Do not touch electrical equipment while wet or standing in water; turn off the electricity if you can do so safely. Clean up in goggles, gloves, a hard hat and waterproof boots, and expect snakes and other animals indoors.
+  3. Assume the water supply is unsafe until the authority says otherwise (see Boil, bleach, filter). A flooded private well needs shock chlorination. Throw away food and supplies that touched floodwater.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "12-13"
+    heading: "Flood and hurricane protective actions (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "25"
+    heading: "Do you need flood insurance? (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "9"
+    heading: "Flash floods and floods (NWS, Thunderstorms, Tornadoes, Lightning)"
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "13"
+    heading: "Flash flood safety rules (NWS)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Flash flood
+    sections: [Hazards]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Flood
+    sections: [Protections against floods and associated hazards]
+related: [well-shock-chlorination, boil-bleach-filter, evacuation-planning, returning-home]

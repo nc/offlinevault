@@ -1,0 +1,19 @@
+title: "Sheltering in place"
+summary: When the order is to stay put, the right room and a sealed door protect against wind, debris and airborne chemicals.
+keywords: [shelter in place, seal the room, interior room, chemical release, tornado shelter]
+procedure: |
+  1. Go inside and bring pets. Lock doors, close windows, vents and fireplace dampers. Turn off fans, air conditioning and forced-air heating.
+  2. For **high winds or tornado**: an interior room on the lowest level, away from windows and doors and not subject to flooding; a basement or storm cellar is best. Get under something sturdy and protect your head.
+  3. For a **chemical or radiological release**: choose an interior room **above ground** with as few windows as possible, and take your emergency supplies, radio and phone. Seal the door, windows and vents with plastic sheeting and duct tape; a damp towel at the door gap helps. Ten square feet of floor per person gives enough air for about five hours.
+  4. Listen to local radio, TV or alerts for the all-clear, which for a chemical release comes within hours. When it does, open windows and vents and go outside to air out.
+  5. Do not go out to pick children up from school; schools shelter them in place too. Phone or text rather than travel.
+  > Sealing a room is for short chemical events. Never run a generator, stove or heater inside a sealed room.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "19"
+    heading: "Make an evacuation and shelter plan (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Shelter in place
+related: [staying-warm-indoors, carbon-monoxide, go-bag]

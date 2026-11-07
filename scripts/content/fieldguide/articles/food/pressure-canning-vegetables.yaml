@@ -1,0 +1,23 @@
+title: "Pressure-canning vegetables"
+summary: Every plain vegetable except acidified tomatoes is low-acid and must be pressure-canned; vent the canner, hold the pressure for your altitude, and let it cool on its own.
+keywords: [pressure canning, canning vegetables, green beans, carrots, beets, dial gauge, weighted gauge, vent 10 minutes]
+procedure: |
+  1. Vegetables (beans, peas, corn, carrots, beets, greens, potatoes, squash, mixed vegetables, soups) are **low-acid** and go only in a **pressure canner**. A boiling-water bath never gets hot enough; at sea level a canner at 10.5 lb gauge pressure reaches 240 °F (116 °C) inside, which is what the tested times assume.
+  2. Prepare the vegetable as the USDA guide says for that food. Most can be **hot packed** (cover with boiling water, boil 2 to 5 minutes, fill hot jars loosely) or **raw packed** (pack raw pieces tightly without crushing). Leave **1 inch (2.5 cm) of headspace**, add 1 teaspoon of salt per quart only if you want it (it is for flavour, not safety), top up with boiling water or cooking liquid, remove air bubbles, wipe the rims, and fit lids fingertip tight.
+  3. Put **2 to 3 inches (5 to 8 cm) of hot water** in the canner, set the jars on the rack with a jar lifter, and lock the lid with the weight off the vent (or the petcock open). Heat on high until steam flows steadily from the vent, then **let it vent for a full 10 minutes** before closing it. Air trapped in the canner lowers the temperature and under-processes the food.
+  4. Bring the canner to the pressure for your altitude and start timing only when it gets there. **Weighted gauge: 10 lb at 0 to 1,000 ft, 15 lb above 1,000 ft.** **Dial gauge: 11 lb up to 2,000 ft, 12 lb to 4,000 ft, 13 lb to 6,000 ft, 14 lb to 8,000 ft.** The weight rocking or jiggling is the sign a weighted-gauge canner is holding pressure.
+  5. Process for the full tested time. Examples (pints / quarts, hot or raw pack): snap or Italian beans **20 / 25 minutes**, carrots 25 / 30, beets 30 / 35 (hot pack only), asparagus 30 / 40, fresh lima beans 40 / 50, dried beans or peas 75 / 90 (hot pack only). If the pressure ever drops below the target, bring it back up and **start the timing again from zero**.
+  6. When time is up, turn off the heat and let the canner **depressurise on its own**. Do not run water over it or open the vent early; forced cooling causes liquid loss, seal failures and unsafe food. Older heavy canners take about 30 minutes for pints and 45 for quarts; newer ones are ready when the vent lock drops. Then remove the weight, wait 10 minutes, and open the lid away from your face.
+  7. Lift jars onto a towel with 1 inch between them and leave them for 12 to 24 hours. Do not retighten bands. A sealed lid is curved down and does not spring back when pressed. Reprocess an unsealed jar with a new lid within 24 hours, or refrigerate it and eat it within a few days.
+  8. Have a dial gauge checked for accuracy every year (many extension offices do it) and replace it if it reads more than 2 lb off. Weighted gauges need no checking. Keep the lid gasket clean and replace it if nicked or dried out.
+  > Boiling-water processing, oven canning and shortened times are the classic causes of botulism in home-canned vegetables. See Botulism and spoiled canned food for the warning signs on a jar.
+sources:
+  - kind: pdf
+    document: usda-complete-guide-home-canning-2015
+    pages: "30-37"
+    heading: "Pressure canners, selecting the process time, cooling and testing seals (USDA Guide 1)"
+  - kind: pdf
+    document: usda-complete-guide-home-canning-2015
+    pages: "114-119"
+    heading: "Asparagus, beans, beets and carrots with their process tables (USDA Guide 4)"
+related: [safe-canning-principles, botulism, canning-meat-poultry-fish, canning-fruit-and-tomatoes]

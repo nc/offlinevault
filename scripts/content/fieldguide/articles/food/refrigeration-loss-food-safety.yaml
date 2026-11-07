@@ -1,0 +1,29 @@
+title: "When the fridge stops: food safety in a power cut"
+summary: Keep the doors shut, trust a thermometer not your nose, and throw out anything perishable that has sat above 40 °F (4 °C) for two hours.
+keywords: [power outage, refrigerator, freezer, food spoilage, 40 degrees, two hours, when in doubt throw it out, flood contaminated food]
+procedure: |
+  1. Before the outage: keep an **appliance thermometer in the refrigerator and one in the freezer**. The fridge should read 40 °F (4 °C) or below and the freezer 0 °F (-18 °C) or below. Keep a stock of food that needs no refrigeration. If you evacuate, leave the fridge and freezer plugged in unless the house may flood.
+  2. During the outage: **keep the doors closed**. A fridge keeps food safe for about **4 hours** if the door stays shut. The freezer thermometer tells you when its contents have crossed 40 °F.
+  3. **Throw away perishable food** (meat, poultry, fish, eggs, leftovers, anything that needs refrigeration) that has been **above 40 °F for 2 hours or more**, or that has an unusual smell, colour or texture. When in doubt, throw it out. Do not taste to check.
+  4. **Medicines** that should be refrigerated: if the power is out for more than a day, discard them unless the label says otherwise, and ask a pharmacist about replacements.
+  5. After a flood or fire, discard all food and supplies that touched floodwater or may have been contaminated, including food in damaged packaging.
+  6. Cooking without power: cook outdoors only, with the generator, camp stove or grill at least 20 feet (6 m) from windows. Keep raw and cooked food apart, cook thoroughly, use safe water, and wash hands after handling raw meat; that step is the one most often skipped. Once power is back, refrigerate perishables within 2 hours, or 1 hour when it is above 90 °F (32 °C).
+  > A full freezer and an unopened door are your friends. A thermometer reading, not how the food looks, decides what is safe.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "14-15"
+    heading: "Power outage (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "31"
+    heading: "Before you enter your home, food and other supplies (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "20"
+    heading: "If you have enough time before evacuating (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Food safety
+    sections: [Safe food handling procedures (from market to consumer)]
+related: [carbon-monoxide, drying-jerky-root-cellaring, waterborne-illness, storing-water, insulin-without-refrigeration]

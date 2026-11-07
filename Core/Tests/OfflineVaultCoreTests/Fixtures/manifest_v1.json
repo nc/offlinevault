@@ -1,0 +1,11 @@
+{
+  "version": "2026.10.01",
+  "publishedAt": "2026-10-01T12:00:00Z",
+  "catalogueVersion": "1",
+  "artefacts": [
+    { "id": "catalogue", "kind": "catalogue", "path": "catalogue/catalogue-2026.10.01.json", "sizeBytes": 512, "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "minAppVersion": "1.0.0" },
+    { "id": "zim-fieldguide-2026-09", "kind": "zim", "path": "zim/fieldguide_en_2026-09.zim", "sizeBytes": 1048576, "sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", "minAppVersion": "1.0.0", "title": "Field Guide" },
+    { "id": "model-tiny", "kind": "model", "path": "models/tiny.gguf", "sizeBytes": 2048, "sha256": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc", "minAppVersion": "1.0.0" },
+    { "id": "future-only", "kind": "zim", "path": "zim/future.zim", "sizeBytes": 10, "sha256": "dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd", "minAppVersion": "9.0.0" }
+  ]
+}

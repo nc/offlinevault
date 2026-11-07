@@ -1,0 +1,1215 @@
+{
+  "_comment": "Intent only: what OfflineVault publishes, per tier, with the licence that permits it. scripts/content/publish.py resolves, locks, fetches, builds, signs and uploads. Edit, then `publish.py plan`.",
+  "version": "2026.10",
+  "entries": [
+    {
+      "id": "zim-cdc-emergency",
+      "kind": "zim",
+      "tier": "free",
+      "role": "procedural",
+      "language": "eng",
+      "title": "CDC emergency preparedness",
+      "description": "Water, food and disaster health guidance.",
+      "licence": "PD-USGov",
+      "attribution": "CDC",
+      "source": {
+        "kind": "zimit",
+        "name": "cdc-emergency_en",
+        "seeds": [
+          "https://www.cdc.gov/water-emergency/",
+          "https://www.cdc.gov/food-safety/",
+          "https://www.cdc.gov/disasters/"
+        ],
+        "scope": "https://www.cdc.gov/"
+      }
+    },
+    {
+      "id": "zim-fieldguide",
+      "kind": "zim",
+      "tier": "free",
+      "role": "procedural",
+      "language": "eng",
+      "title": "OfflineVault Field Guide",
+      "description": "Procedures for water, food, first aid, shelter, fire, power, communications and household hazards, each with its sources.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "OfflineVault; adapted from Wikipedia and US Government publications (credited per article)",
+      "source": {
+        "kind": "built",
+        "builder": "fieldguide",
+        "params": {
+          "guide": "scripts/content/fieldguide"
+        }
+      }
+    },
+    {
+      "id": "zim-ifixit",
+      "kind": "zim",
+      "tier": "free",
+      "role": "procedural",
+      "language": "eng",
+      "title": "iFixit repair manuals",
+      "description": "Step-by-step repair guides for tools, vehicles and electronics, with photos.",
+      "licence": "CC-BY-NC-SA-3.0",
+      "attribution": "iFixit contributors (CC BY-NC-SA 3.0); ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix_external",
+        "category": "ifixit",
+        "base": "ifixit_en_all"
+      }
+    },
+    {
+      "id": "zim-medlineplus",
+      "kind": "zim",
+      "tier": "free",
+      "role": "reference",
+      "language": "eng",
+      "title": "MedlinePlus (NIH)",
+      "description": "Consumer health encyclopaedia from the US National Library of Medicine: conditions, drugs, tests.",
+      "licence": "Mixed",
+      "attribution": "MedlinePlus, US National Library of Medicine (public domain text); A.D.A.M. Medical Encyclopedia (licensed); ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix_external",
+        "category": "zimit",
+        "base": "medlineplus.gov_en_all"
+      }
+    },
+    {
+      "id": "zim-ready-gov",
+      "kind": "zim",
+      "tier": "free",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Ready.gov (FEMA)",
+      "description": "Hazard-by-hazard preparedness guidance, crawled by Kiwix.",
+      "licence": "PD-USGov",
+      "attribution": "FEMA; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "zimit",
+        "base": "ready.gov_en_all"
+      }
+    },
+    {
+      "id": "docs-us-gov-preparedness",
+      "kind": "document-pack",
+      "tier": "free",
+      "role": "procedural",
+      "title": "US government preparedness manuals",
+      "description": "FEMA, Army, USDA, CDC and NWS publications. Public domain (17 USC §105).",
+      "licence": "PD-USGov",
+      "attribution": "FEMA; US Army; USDA; CDC; NOAA/NWS",
+      "source": {
+        "kind": "documents",
+        "documents": [
+          {
+            "id": "fema-are-you-ready",
+            "title": "Are You Ready? An In-depth Guide to Citizen Preparedness (FEMA)",
+            "publisher": "FEMA",
+            "licence": "PD-USGov",
+            "url": "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+            "summary": "Comprehensive preparedness guide: kits, plans, and hazard-specific actions for floods, fires, storms, earthquakes, pandemics and more."
+          },
+          {
+            "id": "ready-supply-kit-checklist",
+            "title": "Emergency Supply Kit Checklist (Ready.gov)",
+            "publisher": "FEMA / Ready.gov",
+            "licence": "PD-USGov",
+            "url": "https://www.ready.gov/sites/default/files/2024-05/ready_supply-kit-checklist.pdf"
+          },
+          {
+            "id": "cdc-make-water-safe-during-emergency",
+            "title": "Make Water Safe During an Emergency (CDC)",
+            "publisher": "CDC",
+            "licence": "PD-USGov",
+            "url": "https://www.cdc.gov/water-emergency/media/pdfs/make-water-safe-during-emergency-p.pdf",
+            "summary": "Boiling, disinfecting and filtering water when supplies are compromised."
+          },
+          {
+            "id": "cdc-use-safe-water-one-pager",
+            "title": "Use Safe Water After an Emergency (CDC one-pager)",
+            "publisher": "CDC",
+            "licence": "PD-USGov",
+            "url": "https://www.cdc.gov/water-emergency/media/pdfs/334749-B_UseSafeWater-OnePager-508.pdf"
+          },
+          {
+            "id": "nws-weather-safety-guide",
+            "title": "Weather safety guide (National Weather Service)",
+            "publisher": "NOAA / NWS",
+            "licence": "PD-USGov",
+            "url": "https://www.weather.gov/media/owlie/ttl6-10.pdf"
+          },
+          {
+            "id": "army-fm-21-76-survival",
+            "title": "FM 21-76 Survival (US Army)",
+            "publisher": "US Army",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "Fm21-76SurvivalManual",
+              "file": "FM21-76_SurvivalManual.pdf"
+            },
+            "summary": "The classic survival manual: psychology, planning, medicine, shelter, water, fire, food, navigation, signalling, dangerous animals, field-expedient weapons."
+          },
+          {
+            "id": "army-atp-3-50-21-survival-2018",
+            "title": "ATP 3-50.21 Survival, 2018 (US Army)",
+            "publisher": "US Army",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "survival-atp-3-50-21",
+              "file": "Survival (ATP 3-50-21).pdf"
+            },
+            "summary": "Current Army survival doctrine replacing FM 21-76."
+          },
+          {
+            "id": "army-fm-4-25-11-first-aid",
+            "title": "FM 4-25.11 First Aid (US Army)",
+            "publisher": "US Army",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "FM4-25.11",
+              "file": "FM4-25.11.pdf"
+            },
+            "summary": "Field first aid: bleeding, airway, fractures, burns, heat and cold injuries, bites, evacuation."
+          },
+          {
+            "id": "army-fm-21-10-field-hygiene",
+            "title": "FM 21-10 Field Hygiene and Sanitation (US Army)",
+            "publisher": "US Army",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "FM21-10_201212",
+              "file": "FM21-10_201212.pdf"
+            },
+            "summary": "Water, waste, food, insect and disease control in the field."
+          },
+          {
+            "id": "usda-complete-guide-home-canning-2015",
+            "title": "USDA Complete Guide to Home Canning (2015 revision)",
+            "publisher": "USDA / NIFA",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "usda-guide-home-canning",
+              "file": "USDA-Complete-Guide-to-Home-Canning-2015-revision.pdf"
+            },
+            "summary": "Safe pressure and water-bath canning of vegetables, fruit, meat, poultry, seafood, pickles and jams."
+          }
+        ]
+      }
+    },
+    {
+      "id": "map-world-low",
+      "kind": "map",
+      "tier": "free",
+      "title": "World overview map (zoom 0–7)",
+      "description": "Whole-planet overview for orientation; no street detail. ~1 GB.",
+      "licence": "ODbL-1.0",
+      "attribution": "OpenStreetMap contributors; Protomaps",
+      "source": {
+        "kind": "map_extract",
+        "maxzoom": 7
+      }
+    },
+    {
+      "id": "zim-appropedia",
+      "kind": "zim",
+      "tier": "core",
+      "role": "reference",
+      "language": "eng",
+      "title": "Appropedia",
+      "description": "Appropriate technology: off-grid water, energy, building, agriculture.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Appropedia contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "other",
+        "base": "appropedia_en_all_maxi"
+      }
+    },
+    {
+      "id": "zim-mdwiki",
+      "kind": "zim",
+      "tier": "core",
+      "role": "procedural",
+      "language": "eng",
+      "title": "MDWiki – medical encyclopedia",
+      "description": "Curated medical articles with images, written for offline use.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "MDWiki / WikiProject Medicine; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "other",
+        "base": "mdwiki_en_all_maxi"
+      }
+    },
+    {
+      "id": "zim-military-medicine",
+      "kind": "zim",
+      "tier": "core",
+      "role": "procedural",
+      "language": "eng",
+      "title": "US military medicine manuals",
+      "description": "Field medical publications mirrored by FAS.",
+      "licence": "PD-USGov",
+      "attribution": "US Department of Defense; mirror by FAS; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "zimit",
+        "base": "irp.fas.org_en_military-medicine"
+      }
+    },
+    {
+      "id": "zim-nhs-medicines",
+      "kind": "zim",
+      "tier": "core",
+      "role": "reference",
+      "language": "eng",
+      "title": "NHS Medicines A–Z",
+      "description": "Plain-language reference for common medicines: doses, interactions, side effects.",
+      "licence": "OGL-3.0",
+      "attribution": "NHS; contains public sector information licensed under the Open Government Licence v3.0",
+      "source": {
+        "kind": "kiwix",
+        "category": "zimit",
+        "base": "nhs.uk_en_medicines"
+      }
+    },
+    {
+      "id": "zim-se-electronics",
+      "kind": "zim",
+      "tier": "core",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Electrical Engineering Stack Exchange",
+      "description": "Solar, batteries, radios and repair Q&A.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "electronics.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-outdoors",
+      "kind": "zim",
+      "tier": "core",
+      "role": "procedural",
+      "language": "eng",
+      "title": "The Great Outdoors Stack Exchange",
+      "description": "Hiking, camping, navigation, wilderness first aid Q&A.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "outdoors.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-sustainable",
+      "kind": "zim",
+      "tier": "core",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Sustainable Living Stack Exchange",
+      "description": "Q&A on self-sufficiency, energy, water and food.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "sustainability.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-wikem",
+      "kind": "zim",
+      "tier": "core",
+      "role": "procedural",
+      "language": "eng",
+      "title": "WikEM – Emergency medicine",
+      "description": "Point-of-care emergency medicine reference written by clinicians.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "WikEM contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "other",
+        "base": "wikem_en_all_maxi"
+      }
+    },
+    {
+      "id": "zim-wikipedia-medicine",
+      "kind": "zim",
+      "tier": "core",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Wikipedia – Medicine (WikiMed)",
+      "description": "Every WikiProject Medicine article: conditions, drugs, procedures, with images.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Wikipedia contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "wikipedia",
+        "base": "wikipedia_en_medicine_maxi"
+      }
+    },
+    {
+      "id": "zim-wikipedia-top",
+      "kind": "zim",
+      "tier": "core",
+      "role": "encyclopaedic",
+      "language": "eng",
+      "title": "Wikipedia – Top 50,000 articles",
+      "description": "The most-read English articles with images.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Wikipedia contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "wikipedia",
+        "base": "wikipedia_en_top_maxi"
+      }
+    },
+    {
+      "id": "docs-field-medicine-water",
+      "kind": "document-pack",
+      "tier": "core",
+      "role": "procedural",
+      "title": "Field medicine and water (public-domain documents)",
+      "description": "Public-domain water-treatment sheets; grows as further PD items are verified.",
+      "licence": "PD-USGov",
+      "attribution": "US Environmental Protection Agency",
+      "source": {
+        "kind": "documents",
+        "documents": [
+          {
+            "id": "epa-emergency-disinfection-drinking-water",
+            "title": "Emergency Disinfection of Drinking Water (EPA)",
+            "publisher": "EPA",
+            "licence": "PD-USGov",
+            "url": "https://www.epa.gov/sites/default/files/2015-11/documents/epa816f15003.pdf",
+            "summary": "Boiling and bleach dosing when the water supply is unsafe."
+          }
+        ]
+      }
+    },
+    {
+      "id": "model-qwen3-4b-q4_k_m",
+      "kind": "model",
+      "tier": "core",
+      "title": "Qwen3-4B-Instruct-2507 (Q4_K_M)",
+      "description": "Default assistant model, ~2.5 GB, runs on 8 GB Macs.",
+      "licence": "Apache-2.0",
+      "attribution": "Alibaba Cloud / Qwen team; GGUF by Unsloth",
+      "source": {
+        "kind": "url",
+        "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/resolve/main/Qwen3-4B-Instruct-2507-Q4_K_M.gguf"
+      }
+    },
+    {
+      "id": "zim-based-cooking",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "based.cooking",
+      "description": "Simple recipes, public domain.",
+      "licence": "PD",
+      "attribution": "based.cooking contributors",
+      "source": {
+        "kind": "kiwix",
+        "category": "zimit",
+        "base": "based.cooking_en_all"
+      }
+    },
+    {
+      "id": "zim-factbook",
+      "kind": "zim",
+      "tier": "full",
+      "role": "reference",
+      "language": "eng",
+      "title": "CIA World Factbook (final archive)",
+      "description": "Country reference data.",
+      "licence": "PD-USGov",
+      "attribution": "CIA; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "other",
+        "base": "theworldfactbook_en_all"
+      }
+    },
+    {
+      "id": "zim-gutenberg-agriculture",
+      "kind": "zim",
+      "tier": "full",
+      "role": "reference",
+      "language": "eng",
+      "title": "Project Gutenberg – Agriculture (LCC S)",
+      "description": "Public-domain farming, gardening and husbandry texts.",
+      "licence": "PD",
+      "attribution": "Project Gutenberg; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "gutenberg",
+        "base": "gutenberg_en_lcc-s"
+      }
+    },
+    {
+      "id": "zim-gutenberg-medicine",
+      "kind": "zim",
+      "tier": "full",
+      "role": "reference",
+      "language": "eng",
+      "title": "Project Gutenberg – Medicine (LCC R)",
+      "description": "Public-domain medical texts (historical; use with current references).",
+      "licence": "PD",
+      "attribution": "Project Gutenberg; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "gutenberg",
+        "base": "gutenberg_en_lcc-r"
+      }
+    },
+    {
+      "id": "zim-gutenberg-military",
+      "kind": "zim",
+      "tier": "full",
+      "role": "reference",
+      "language": "eng",
+      "title": "Project Gutenberg – Military science (LCC U)",
+      "description": "Older field and technical manuals.",
+      "licence": "PD",
+      "attribution": "Project Gutenberg",
+      "source": {
+        "kind": "kiwix",
+        "category": "gutenberg",
+        "base": "gutenberg_en_lcc-u"
+      }
+    },
+    {
+      "id": "zim-milne",
+      "kind": "zim",
+      "tier": "full",
+      "role": "reference",
+      "language": "eng",
+      "title": "Milne Open Textbooks (SUNY)",
+      "description": "Open textbooks in nursing, biology and more.",
+      "licence": "CC-BY-4.0",
+      "attribution": "Milne Open Textbooks, SUNY; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "zimit",
+        "base": "milneopentextbooks.org_en_all"
+      }
+    },
+    {
+      "id": "zim-osm-wiki",
+      "kind": "zim",
+      "tier": "full",
+      "role": "reference",
+      "language": "eng",
+      "title": "OpenStreetMap wiki",
+      "description": "Mapping and navigation know-how.",
+      "licence": "CC-BY-SA-2.0",
+      "attribution": "OpenStreetMap contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "other",
+        "base": "openstreetmap-wiki_en_all_nopic"
+      }
+    },
+    {
+      "id": "zim-publicdomainrecipes",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Public Domain Recipes",
+      "description": "Recipes released into the public domain.",
+      "licence": "PD",
+      "attribution": "publicdomainrecipes.com",
+      "source": {
+        "kind": "kiwix",
+        "category": "zimit",
+        "base": "publicdomainrecipes.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-bicycles",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Bicycles Stack Exchange",
+      "description": "Fuel-free transport: repair and maintenance.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "bicycles.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-cooking",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Seasoned Advice (Cooking Stack Exchange)",
+      "description": "Food safety and preservation Q&A.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "cooking.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-crafts",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Arts & Crafts Stack Exchange",
+      "description": "Sewing, knitting and repair crafts Q&A.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "crafts.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-diy",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Home Improvement Stack Exchange",
+      "description": "Plumbing, electrical, structural repairs.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "diy.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-fitness",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Physical Fitness Stack Exchange",
+      "description": "Fitness and conditioning Q&A.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "fitness.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-gardening",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Gardening & Landscaping Stack Exchange",
+      "description": "Growing food, soil, pests.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "gardening.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-ham",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Amateur Radio Stack Exchange",
+      "description": "Antennas, propagation, emergency comms.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "ham.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-lifehacks",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Lifehacks Stack Exchange",
+      "description": "Household improvisation Q&A.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "lifehacks.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-mechanics",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Motor Vehicle Maintenance Stack Exchange",
+      "description": "Vehicle repair Q&A.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "mechanics.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-medicalsciences",
+      "kind": "zim",
+      "tier": "full",
+      "role": "reference",
+      "language": "eng",
+      "title": "Medical Sciences Stack Exchange",
+      "description": "Q&A from the former Health Stack Exchange.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "medicalsciences.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-parenting",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Parenting Stack Exchange",
+      "description": "Children and family Q&A.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "parenting.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-pets",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Pets Stack Exchange",
+      "description": "Animal care Q&A.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "pets.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-se-woodworking",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Woodworking Stack Exchange",
+      "description": "Hand and power tool woodworking Q&A.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Stack Exchange contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "stack_exchange",
+        "base": "woodworking.stackexchange.com_en_all"
+      }
+    },
+    {
+      "id": "zim-wikibooks",
+      "kind": "zim",
+      "tier": "full",
+      "role": "procedural",
+      "language": "eng",
+      "title": "Wikibooks",
+      "description": "Open textbooks: first aid, cookbook, outdoor survival, ham radio, electronics.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Wikibooks contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "wikibooks",
+        "base": "wikibooks_en_all_maxi"
+      }
+    },
+    {
+      "id": "zim-wikipedia-nopic",
+      "kind": "zim",
+      "tier": "full",
+      "role": "encyclopaedic",
+      "language": "eng",
+      "title": "Wikipedia – all articles (text)",
+      "description": "Every English Wikipedia article, full text, no images (~49 GB).",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Wikipedia contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "wikipedia",
+        "base": "wikipedia_en_all_nopic"
+      }
+    },
+    {
+      "id": "zim-wikipedia-simple",
+      "kind": "zim",
+      "tier": "full",
+      "role": "encyclopaedic",
+      "language": "eng",
+      "title": "Simple English Wikipedia",
+      "description": "Plain-English encyclopaedia for children and ESL readers, with images.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Wikipedia contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "wikipedia",
+        "base": "wikipedia_en-simple_all_maxi"
+      }
+    },
+    {
+      "id": "zim-wikisource",
+      "kind": "zim",
+      "tier": "full",
+      "role": "reference",
+      "language": "eng",
+      "title": "Wikisource",
+      "description": "Historical manuals and legal texts in the public domain, text only.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Wikisource contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "wikisource",
+        "base": "wikisource_en_all_nopic"
+      }
+    },
+    {
+      "id": "zim-wikivoyage",
+      "kind": "zim",
+      "tier": "full",
+      "role": "reference",
+      "language": "eng",
+      "title": "Wikivoyage",
+      "description": "Regional hazards, borders and consulates for evacuation planning.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Wikivoyage contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "wikivoyage",
+        "base": "wikivoyage_en_all_maxi"
+      }
+    },
+    {
+      "id": "zim-wiktionary",
+      "kind": "zim",
+      "tier": "full",
+      "role": "reference",
+      "language": "eng",
+      "title": "Wiktionary",
+      "description": "The offline dictionary.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Wiktionary contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "wiktionary",
+        "base": "wiktionary_en_all_nopic"
+      }
+    },
+    {
+      "id": "docs-us-military-manuals",
+      "kind": "document-pack",
+      "tier": "full",
+      "role": "procedural",
+      "title": "US military and federal manuals (public domain)",
+      "description": "Survival, field medicine, navigation, mountaineering, rigging, cold weather and civil-defence manuals from the Internet Archive's public-domain copies.",
+      "licence": "PD-USGov",
+      "attribution": "US Army; US Navy; US Public Health Service; Borden Institute; FEMA; Oak Ridge National Laboratory",
+      "source": {
+        "kind": "documents",
+        "documents": [
+          {
+            "id": "fm-3-05-70-survival-2002",
+            "title": "FM 3-05.70 Survival (US Army, 2002)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "fm-3-05.70-survival-2002",
+              "file": "FM 3-05.70 Survival  2002.pdf"
+            }
+          },
+          {
+            "id": "fm-21-76-1-survival-evasion-recovery",
+            "title": "FM 21-76-1 Survival, Evasion, and Recovery (1999)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "Fm21-76-1",
+              "file": "Fm21-76-1.pdf"
+            }
+          },
+          {
+            "id": "navedtra-14295-hospital-corpsman",
+            "title": "Hospital Corpsman, NAVEDTRA 14295 (US Navy)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "Hospital_Corpsman_NAVEDTRA_14295",
+              "file": "Hospital_Corpsman_NAVEDTRA_14295.pdf"
+            }
+          },
+          {
+            "id": "usphs-ships-medicine-chest-2003",
+            "title": "The Ship's Medicine Chest and Medical Aid at Sea (USPHS, 2003)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "gov.law.usphs.ships.2003",
+              "file": "usphs.ships.2003.pdf"
+            }
+          },
+          {
+            "id": "sof-medical-handbook-2001",
+            "title": "Special Operations Forces Medical Handbook (2001)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "SOFMH2001",
+              "file": "SOFMH2001.pdf"
+            }
+          },
+          {
+            "id": "chem-bio-casualties-handbook-2016",
+            "title": "Field Management of Chemical and Biological Casualties, 5th ed. (2016)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "Chembio5thEd2016FullBook",
+              "file": "chembio 5th ed  2016 full book.pdf"
+            }
+          },
+          {
+            "id": "pediatric-surgery-hostile-environments",
+            "title": "Pediatric Surgery and Medicine for Hostile Environments (Borden Institute)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "PedsFullBook",
+              "file": "PedsFullBook.pdf"
+            }
+          },
+          {
+            "id": "fm-4-02-17-preventive-medicine-2000",
+            "title": "FM 4-02.17 Preventive Medicine Services (2000)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "fm-4-02.17-preventative-medicine-services-2000",
+              "file": "FM 4-02.17 Preventative Medicine Services  2000.pdf"
+            }
+          },
+          {
+            "id": "fm-3-25-26-map-reading-land-navigation",
+            "title": "FM 3-25.26 Map Reading and Land Navigation (2001)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "FM3-25x26",
+              "file": "FM3-25x26.pdf"
+            }
+          },
+          {
+            "id": "fm-3-97-61-military-mountaineering",
+            "title": "FM 3-97.61 Military Mountaineering (2002)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "military-mountaineering-fm-3-97.61-tc-90-6-1",
+              "file": "Military Mountaineering - FM 3-97.61 (TC 90-6-1).pdf"
+            }
+          },
+          {
+            "id": "fm-5-125-rigging-2001",
+            "title": "FM 5-125 Rigging Techniques, Procedures, and Applications (2001)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "RiggingTechniquesProceduresAndApplicationsFM51252001",
+              "file": "Rigging Techniques, Procedures, And Applications (FM 5-125)(2001).pdf"
+            }
+          },
+          {
+            "id": "fm-31-70-basic-cold-weather",
+            "title": "FM 31-70 Basic Cold Weather Manual",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "milmanual-fm-31-70-basic-cold-weather-survival-manual",
+              "file": "fm_31-70_basic_cold_weather_survival_manual.pdf"
+            }
+          },
+          {
+            "id": "atp-4-02-11-casualty-response-2026",
+            "title": "ATP 4-02.11 Casualty Response, Tactical Combat Casualty Care and First Aid (March 2026)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "army-techniques-publication-for-casualty-response-tactical-combat-casualty-care-",
+              "file": "Army Techniques Publication for Casualty Response, Tactical Combat Casualty Care and First Aid - ATP 4-02.11 (March 2026).pdf"
+            }
+          },
+          {
+            "id": "fema-453-shelters-safe-rooms-2006",
+            "title": "FEMA 453 Design Guidance for Shelters and Safe Rooms (2006)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "fema-453-design-guidance-for-shelters-and-safe-rooms-2006",
+              "file": "FEMA 453 Design Guidance For Shelters And Safe Rooms  2006.pdf"
+            }
+          },
+          {
+            "id": "nuclear-war-survival-skills-1987",
+            "title": "Nuclear War Survival Skills (Kearny, ORNL; 1987 edition)",
+            "publisher": "US Government",
+            "licence": "PD-USGov",
+            "archive": {
+              "item": "NuclearWarSurvivalSkills_201405",
+              "file": "nwss.pdf"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "model-qwen3-8b-q4_k_m",
+      "kind": "model",
+      "tier": "full",
+      "title": "Qwen3-8B (Q4_K_M)",
+      "description": "Larger assistant model, ~5 GB, needs 16 GB of memory.",
+      "licence": "Apache-2.0",
+      "attribution": "Alibaba Cloud / Qwen team",
+      "source": {
+        "kind": "url",
+        "url": "https://huggingface.co/Qwen/Qwen3-8B-GGUF/resolve/main/Qwen3-8B-Q4_K_M.gguf"
+      }
+    },
+    {
+      "id": "zim-es-ready-gov",
+      "kind": "zim",
+      "tier": "complete",
+      "role": "procedural",
+      "language": "spa",
+      "title": "Ready.gov en español (FEMA)",
+      "description": "Hazard-by-hazard preparedness guidance in Spanish.",
+      "licence": "PD-USGov",
+      "attribution": "FEMA; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "zimit",
+        "base": "ready.gov_es_all"
+      }
+    },
+    {
+      "id": "zim-es-wikipedia",
+      "kind": "zim",
+      "tier": "complete",
+      "role": "encyclopaedic",
+      "language": "spa",
+      "title": "Wikipedia en español (texto)",
+      "description": "Every Spanish Wikipedia article, text only.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Wikipedia contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "wikipedia",
+        "base": "wikipedia_es_all_nopic"
+      }
+    },
+    {
+      "id": "zim-gutenberg-geography",
+      "kind": "zim",
+      "tier": "complete",
+      "role": "reference",
+      "language": "eng",
+      "title": "Project Gutenberg – Geography and recreation (LCC G)",
+      "description": "Camping and woodcraft classics (Kephart and others).",
+      "licence": "PD",
+      "attribution": "Project Gutenberg",
+      "source": {
+        "kind": "kiwix",
+        "category": "gutenberg",
+        "base": "gutenberg_en_lcc-g"
+      }
+    },
+    {
+      "id": "zim-gutenberg-lit-american",
+      "kind": "zim",
+      "tier": "complete",
+      "role": "encyclopaedic",
+      "language": "eng",
+      "title": "Project Gutenberg – American literature (LCC PS)",
+      "description": "Thousands of public-domain novels and stories for morale.",
+      "licence": "PD",
+      "attribution": "Project Gutenberg",
+      "source": {
+        "kind": "kiwix",
+        "category": "gutenberg",
+        "base": "gutenberg_en_lcc-ps"
+      }
+    },
+    {
+      "id": "zim-gutenberg-lit-english",
+      "kind": "zim",
+      "tier": "complete",
+      "role": "encyclopaedic",
+      "language": "eng",
+      "title": "Project Gutenberg – English literature (LCC PR)",
+      "description": "Thousands of public-domain novels and stories for morale.",
+      "licence": "PD",
+      "attribution": "Project Gutenberg",
+      "source": {
+        "kind": "kiwix",
+        "category": "gutenberg",
+        "base": "gutenberg_en_lcc-pr"
+      }
+    },
+    {
+      "id": "zim-gutenberg-technology",
+      "kind": "zim",
+      "tier": "complete",
+      "role": "reference",
+      "language": "eng",
+      "title": "Project Gutenberg – Technology (LCC T)",
+      "description": "Public-domain engineering, crafts and trades.",
+      "licence": "PD",
+      "attribution": "Project Gutenberg; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "gutenberg",
+        "base": "gutenberg_en_lcc-t"
+      }
+    },
+    {
+      "id": "zim-wikipedia-maxi",
+      "kind": "zim",
+      "tier": "complete",
+      "role": "encyclopaedic",
+      "language": "eng",
+      "title": "Wikipedia – all articles with images",
+      "description": "Every English Wikipedia article with images (~119 GB). External SSD recommended.",
+      "licence": "CC-BY-SA-4.0",
+      "attribution": "Wikipedia contributors; ZIM by Kiwix",
+      "source": {
+        "kind": "kiwix",
+        "category": "wikipedia",
+        "base": "wikipedia_en_all_maxi"
+      },
+      "replacesEntry": "zim-wikipedia-nopic",
+      "stream": true
+    },
+    {
+      "id": "model-muse-glimmer-30b-q4_k_m",
+      "kind": "model",
+      "tier": "complete",
+      "title": "Muse Glimmer 30B (Q4_K_M)",
+      "description": "Meta's dense 30B model, ~16.8 GB; needs a 32 GB+ Mac. Stronger reasoning, slower replies.",
+      "licence": "Apache-2.0",
+      "attribution": "Meta Superintelligence Lab",
+      "source": {
+        "kind": "url",
+        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF/resolve/main/Muse-Glimmer-30B-KQuant-17GB-Q4_K_M.gguf"
+      }
+    },
+    {
+      "id": "model-muse-glimmer-dflash",
+      "kind": "model",
+      "tier": "complete",
+      "title": "Muse Glimmer DFlash drafter",
+      "description": "Speculative-decoding drafter (~1.6 GB) that roughly doubles Muse Glimmer's generation speed. Installed alongside the model.",
+      "licence": "Apache-2.0",
+      "attribution": "Meta Superintelligence Lab",
+      "source": {
+        "kind": "url",
+        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF/resolve/main/dflash-Muse-Glimmer-30B-Q4_K_M.gguf"
+      }
+    },
+    {
+      "id": "map-world-full",
+      "kind": "map",
+      "tier": "complete",
+      "title": "World map — full street detail",
+      "description": "The entire planet at street level in one file (~130 GB). Mirror of the Protomaps daily planet build; needs an external SSD.",
+      "licence": "ODbL-1.0",
+      "attribution": "OpenStreetMap contributors; Protomaps",
+      "source": {
+        "kind": "map_extract",
+        "maxzoom": 15
+      },
+      "stream": true
+    }
+  ],
+  "excluded": [
+    {
+      "id": "zim-wikihow",
+      "reason": "CC BY-NC-SA 3.0, and Kiwix no longer publishes a wikiHow ZIM (no entry in the Kiwix library, 2026-10-31); offered from Kiwix if one returns"
+    },
+    {
+      "id": "zim-post-disaster",
+      "reason": "zimgit collection without a licence field; holds Hesperian (CC BY-NC-SA) and commercial titles"
+    },
+    {
+      "id": "zim-medicine-set",
+      "reason": "zimgit collection; holds Hesperian titles and Ethicon's Wound Closure Manual"
+    },
+    {
+      "id": "zim-water",
+      "reason": "zimgit collection; 'Water' and 'Water Treatment' by 'Various' have no licence; EPA sheet moved to docs-field-medicine-water"
+    },
+    {
+      "id": "zim-food-preparation",
+      "reason": "zimgit collection; holds the BSA Philmont Trail Cookbook and commercial Dutch-oven cookbooks"
+    },
+    {
+      "id": "zim-knots",
+      "reason": "zimgit collection; holds Adamides' Knots and Gibson's Handbook of Knots and Splices (copyrighted)"
+    },
+    {
+      "id": "zim-cd3wd",
+      "reason": "compilation of FAO/NGO material, often NC; licence unverified"
+    },
+    {
+      "id": "zim-lowtech",
+      "reason": "no licence string on the site; widely reported CC BY-NC-SA"
+    },
+    {
+      "id": "zim-gutenberg-fiction",
+      "reason": "Kiwix has no fiction subset; English and American literature ship as zim-gutenberg-lit-english / -american (complete)"
+    },
+    {
+      "id": "zim-fsis-food-safety",
+      "reason": "fsis.usda.gov rate-limits the crawler (2026-10-20: 138 of 144 pages failed, 22 navigation pages captured); food-safety guidance ships in the Field Guide until a throttled crawl works"
+    }
+  ]
+}

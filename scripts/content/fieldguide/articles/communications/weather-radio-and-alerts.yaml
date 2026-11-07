@@ -1,0 +1,38 @@
+title: "NOAA Weather Radio, EAS and phone alerts"
+summary: A weather radio with SAME and a battery wakes you for a tornado at 3 a.m. when the power and the phone network are down; know what each alert channel can and cannot do.
+keywords: [NOAA weather radio, weather radio, SAME code, Emergency Alert System, EAS, Wireless Emergency Alerts, WEA, tornado warning, watch versus warning, hand crank radio]
+procedure: |
+  ### NOAA Weather Radio All Hazards (United States)
+  1. Buy a receiver marked **Public Alert** certified. Ordinary AM/FM radios cannot pick up the weather band; it needs a receiver for the seven channels between 162.400 and 162.550 MHz. Transmitters cover roughly 40 miles each, depending on terrain, so check reception where you live.
+  2. Set it up: pick the channel that comes in clearest, **program your county's SAME code** (from weather.gov/nwr or the manual) so it only alarms for your area, choose which hazards wake you, and fit backup batteries. Keep one by the bed like a smoke alarm and one in the kit.
+  3. The station tests the alarm weekly, normally on Wednesday late morning, postponed in bad weather. If the test does not sound, check the batteries and the channel.
+  4. Learn the words. A **watch** means conditions favour the hazard: stay alert and check the sky. A **warning** means it is happening or imminent: act now.
+  5. Hand-crank and solar radios that cover the weather band plus AM/FM belong in every go-bag; a car radio works while there is fuel.
+  ### Emergency Alert System
+  - The screeching tones on radio and TV are the EAS, relayed by every broadcaster and cable system. The same data bursts drive weather radio alarms. It carries weather warnings, civil emergencies and Amber alerts, and it only reaches you while you are tuned in and the station is on the air.
+  ### Wireless Emergency Alerts on phones
+  - WEA messages come by cell broadcast to every phone on a tower, free, with their own alarm tone even when the ringer is off. They cover tornado, flash flood, hurricane, extreme wind, tsunami and destructive thunderstorm warnings, Amber alerts and local emergencies. You can switch off most categories in the phone's settings; National Alerts cannot be disabled. Leave them on. They need a working tower and a charged phone, which is exactly what you may not have.
+  ### Elsewhere
+  - Outside the United States, find your national weather service's warning channel (broadcast radio, an app, SMS or cell broadcast) and a battery radio that carries it. The watch and warning logic is the same.
+sources:
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "15"
+    heading: "Stay informed with NOAA Weather Radio All Hazards (NWS)"
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "11"
+    heading: "Be prepared (NWS)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: NOAA Weather Radio
+    sections: [Programming, Weather radio receivers, Radio frequencies used, Alerting]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Emergency Alert System
+    sections: [Technical concept]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Wireless Emergency Alerts
+    sections: [Background, Participation]
+related: [family-communication-plan, shelter-in-place, go-bag, wildfire-defensible-space]

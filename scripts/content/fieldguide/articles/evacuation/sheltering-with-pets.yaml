@@ -1,0 +1,28 @@
+title: "Sheltering with pets"
+summary: Public shelters usually take only service animals, so find the pet-friendly places now and know how to keep animals safe when you stay put.
+keywords: [pets, pet-friendly shelter, service animal, evacuate with pets, PETS Act, boarding kennel]
+procedure: |
+  1. Take the animals with you when you evacuate whenever it is practical. People who will not leave their pets stay behind in danger, which is why the United States wrote household pets into disaster law after Hurricane Katrina.
+  2. Public shelters generally admit only service animals. Before the season, list pet-friendly hotels, boarding kennels, veterinary clinics and friends or relatives outside the area who would take your animals, in more than one direction, and ask the local emergency management office what pet sheltering it plans.
+  3. Keep the pet kit (see Pet evacuation kit) beside the family kit, with a sturdy carrier per animal large enough for it to stand, turn around and lie down.
+  4. When you shelter in place, bring the animals in first and keep them inside with you. After a chemical, radiological or fallout event keep them indoors until the all-clear, brush any dust out of the coat, and wash the animal with soap and water.
+  5. Never leave an animal in a parked vehicle on a warm day.
+  6. Wherever you end up, keep dogs on the lead and cats in the carrier; frightened animals bolt and bite. Keep the collar with ID and rabies tag on, and the vaccination papers to hand, because places that take animals ask for them.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "20"
+    heading: "Evacuation guidelines: pets and public shelters (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "14"
+    heading: "Nuclear explosion: keeping and cleaning pets (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "18-19"
+    heading: "Pet supplies (NWS, Thunderstorms, Tornadoes, Lightning)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Pets Evacuation and Transportation Standards Act
+    sections: [Background]
+related: [pet-evacuation-kit, evacuation-planning, shelter-in-place, pet-first-aid]

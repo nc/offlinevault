@@ -1,0 +1,146 @@
+# Order is the index-page order. `smoke_queries` map a search term to the article validate must rank in the top 3.
+sections:
+  - id: water
+    title: Water
+    blurb: Finding, treating and storing drinking water.
+  - id: food
+    title: Food storage and canning
+    blurb: Keeping food safe without power, and preserving it.
+  - id: first-aid
+    title: First aid and trauma
+    blurb: What to do in the first minutes.
+  - id: hygiene
+    title: Hygiene and sanitation
+    blurb: Staying clean and disposing of waste when the plumbing stops.
+  - id: shelter
+    title: Shelter and heat
+    blurb: Staying protected and warm, at home or in the field.
+  - id: fire
+    title: Fire
+    blurb: Making fire safely and putting it out.
+  - id: power
+    title: Power and fuel
+    blurb: Generators, solar, batteries and fuel without hurting anyone.
+  - id: communications
+    title: Communications
+    blurb: Reaching family and hearing warnings when networks fail.
+  - id: navigation
+    title: Navigation
+    blurb: Finding the way with map, compass and the sky.
+  - id: security
+    title: Security and situational awareness
+    blurb: Avoiding trouble and protecting what matters.
+  - id: evacuation
+    title: Evacuation and go-bags
+    blurb: Leaving fast, with what you need.
+  - id: hazards
+    title: Household hazards
+    blurb: Gas, carbon monoxide, flood, wildfire, storms and fallout.
+  - id: children-elderly
+    title: Children and older adults
+    blurb: Care for the people who need more help.
+  - id: pets-livestock
+    title: Pets and livestock
+    blurb: Animals in an emergency.
+  - id: medicines
+    title: Medicines and chronic conditions
+    blurb: Managing prescriptions and conditions when pharmacies are closed.
+  - id: mental-health
+    title: Mental health under stress
+    blurb: Keeping yourself and others steady.
+smoke_queries:
+  bleach: boil-bleach-filter
+  rainwater: finding-water
+  solar disinfection: solar-disinfection
+  store water: storing-water
+  well chlorination: well-shock-chlorination
+  distillation: distillation
+  cholera: waterborne-illness
+  tourniquet: bleeding-control
+  abdominal thrusts: cpr-and-choking
+  shock: shock
+  burn: burns
+  splint: fractures-and-splinting
+  pressure canner: safe-canning-principles
+  botulism: botulism
+  shelter in place: shelter-in-place
+  hypothermia: staying-warm-indoors
+  fire extinguisher: extinguishers
+  carbon monoxide: carbon-monoxide
+  supply kit: go-bag
+  out-of-state contact: family-communication-plan
+  debris hut: field-shelters
+  snow cave: snow-shelters
+  frostbite: cold-injuries
+  heatstroke: heat-illness
+  tinder: firecraft
+  chimney fire: indoor-heating-and-chimney-fires
+  defensible space: wildfire-defensible-space
+  camp stove: camp-stove-cooking
+  generator: generator-safety
+  solar panel: small-solar-system
+  LiFePO4: lead-acid-vs-lifepo4
+  fuel stabilizer: fuel-storage-and-rotation
+  oil lamp: low-tech-lighting
+  weather radio: weather-radio-and-alerts
+  GMRS: frs-gmrs-cb
+  ham radio: amateur-radio-emergencies
+  signal mirror: signalling-for-rescue
+  declination: map-and-compass
+  contour lines: reading-a-topographic-map
+  shadow stick: direction-without-a-compass
+  pace count: pace-count-and-dead-reckoning
+  offline map: offlinevault-offline-map
+  gas leak: gas-leaks
+  flash flood: flood
+  wildfire: wildfire
+  earthquake: earthquake
+  hurricane: hurricane
+  tornado: tornado
+  heat stroke: winter-storm-and-extreme-heat
+  fallout: nuclear-detonation-and-fallout
+  hazmat: hazmat-and-chemical-release
+  evacuation route: evacuation-planning
+  car kit: vehicle-kit
+  pet-friendly shelter: sheltering-with-pets
+  returning home: returning-home
+  situational awareness: situational-awareness
+  home security: home-security-basics
+  civil unrest: avoiding-civil-unrest
+  important documents: documents-and-cash
+  infant formula: infant-feeding-without-power
+  febrile seizure: fever-and-dehydration-in-children
+  older adults medication: medication-and-mobility-for-older-adults
+  frightened child: keeping-children-calm
+  pediatric trauma: pediatric-trauma-basics
+  pet first aid: pet-first-aid
+  pet carrier: pet-evacuation-kit
+  backyard chickens: backyard-poultry
+  psychological first aid: psychological-first-aid
+  acute stress: acute-stress
+  sleep plan: sleep-and-routine
+  grief: grief
+  green beans: pressure-canning-vegetables
+  canning meat: canning-meat-poultry-fish
+  canning tomatoes: canning-fruit-and-tomatoes
+  sauerkraut: pickles-and-sauerkraut
+  jelly: jams-and-jellies
+  jerky: drying-jerky-root-cellaring
+  refrigerator: refrigeration-loss-food-safety
+  recovery position: airway-and-recovery-position
+  wound infection: wounds-and-infection
+  concussion: head-and-spine-injuries
+  anaphylaxis: anaphylaxis-and-auto-injector
+  snakebite: bites-and-stings
+  toothache: dental-emergencies
+  childbirth: emergency-childbirth
+  handwashing: handwashing-with-scarce-water
+  latrine: latrines-and-human-waste
+  bucket toilet: bucket-and-composting-toilets
+  rats: garbage-flies-and-rodents
+  oral rehydration: diarrhoea-and-oral-rehydration
+  insulin: insulin-without-refrigeration
+  inhaler: asthma-and-copd
+  blood pressure: hypertension-and-heart-disease
+  prescription medicines: stockpiling-prescriptions
+  gauze: wound-care-supplies

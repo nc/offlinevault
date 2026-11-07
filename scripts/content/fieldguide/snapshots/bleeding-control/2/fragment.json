@@ -1,0 +1,18 @@
+{
+ "kind": "mediawiki",
+ "heading": "From Wikipedia: Tourniquet",
+ "html": "<section><h3>Risks</h3>\n<p>Risks and contraindications related to the use of a surgical tourniquet include: nerve injuries, skin injuries, compartment syndrome, deep venous thrombosis, and pain. Risk of injury can be minimized by minimizing tourniquet pressure and pressure gradients. Tourniquet pressure and pressure gradients can be minimized by using a tourniquet pressure based on the patient's limb occlusion pressure, and by using a wider, contoured pneumatic tourniquet cuff.</p>\n<p>In some elective surgical procedures such as total knee arthroplasty, some research suggests tourniquet use may be associated with an increased risk of adverse events, pain, and a longer hospital stay, despite tourniquet use allowing shorter times in the operating room. However, such evidence (meta-analyses and reviews) often omit the analysis of key tourniquet parameters and their correlation to outcomes leading to limited, inconclusive, and conflicting results.</p>\n<p>A study by Pavao et al. compared no tourniquet use to optimized tourniquet use in total knee arthroplasty and found no significant differences in surgical timing, blood loss, thigh and knee pain, edema, range of motion, functional scores, and complications, thus allowing surgery to occur with the benefits of a clean and dry surgical field from an optimized tourniquet without increase procedure-related comorbidities. Therefore, tourniquet use optimized to mitigate tourniquet related-risks while maintaining the benefits of a clear bloodless field and faster operating times may be achieved by minimizing tourniquet pressure and inflated tourniquet times.</p>\n</section>",
+ "attribution": {
+  "title": "Tourniquet",
+  "url": "https://en.wikipedia.org/wiki/Tourniquet?oldid=1377532841",
+  "revision": "revision 1377532841 (2026-10-19)",
+  "licence": "CC BY-SA 4.0",
+  "credit": "Wikipedia contributors"
+ },
+ "pin": {
+  "revision": 1377532841,
+  "fetched": "2026-10-19",
+  "images": []
+ },
+ "images": []
+}

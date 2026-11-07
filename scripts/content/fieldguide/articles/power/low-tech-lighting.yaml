@@ -1,0 +1,29 @@
+title: "Light without the grid: LEDs, candles and oil lamps"
+summary: An LED lamp on batteries or a crank gives far more light per unit of fuel than any flame; if you must burn something, do it in a lantern, away from anything that catches.
+keywords: [oil lamp, kerosene lamp, hurricane lantern, candle safety, LED flashlight, headlamp, emergency lighting, light without power]
+procedure: |
+  1. **Reach for LEDs first.** A white LED gives on the order of 100 lumens per watt against 8 to 10 for an old incandescent torch bulb, so a small AA headlamp can put out 100 lumens for many hours. Keep a headlamp per person (hands free), a lantern for the room, spare batteries stored out of the devices, and a crank or solar lamp that needs no batteries at all. Buy one battery size for everything.
+  2. **Candles** give about 13 lumens each, roughly one candela, and 80 watts of heat; they light a table, not a room, and they are a leading cause of house fires. Stand each candle in a sturdy holder on a plate, a metre from curtains, bedding and paper, out of draughts and out of reach of children and pets. Trim the wick short so it does not smoke, snuff rather than blow, stop when about a centimetre of wax remains, and **never sleep with one burning**.
+  3. **Kerosene (paraffin) lamps**: a flat-wick lamp gives around 8 lumens, a round-wick three to four times that, a pressure mantle lamp up to 100. A 37-lumen lamp burning four hours a night uses about 3 litres of kerosene a month. Keep the wick low enough that the flame does not smoke, always fit the glass chimney (it feeds the draught and keeps the burner cool), and fill with clear 1-K kerosene only, when the lamp is cold and unlit.
+  4. **Never put petrol, camping fuel or any lamp oil mixed with petrol into a wick lamp**; the vapour pressure can turn the lamp into a bomb. Store lamp fuel in a container never used for petrol.
+  5. A tubular **hurricane lantern** is the safe choice for carrying: knock it over and the airflow cuts off and the flame dies within seconds. An open wick lamp or candle tipped onto a carpet is a fire.
+  6. Any flame indoors uses oxygen and makes carbon monoxide and soot. One lamp in a normal room is fine; several in a sealed room are not. Crack a window, and keep the carbon monoxide alarm running.
+  7. In a pinch, a shallow dish of vegetable oil, olive oil or melted fat with a cotton string or strip of cloth laid in it as a wick is an oil lamp of the oldest kind; it is dim and smoky but it works.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Flashlight
+    sections: [LED]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Candle
+    sections: [Characteristics, Hazards]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Kerosene lamp
+    sections: [Types, Safety, Performance]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Oil lamp
+    sections: [Components]
+related: [small-solar-system, fuel-storage-and-rotation, carbon-monoxide, indoor-heating-and-chimney-fires, go-bag]

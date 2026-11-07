@@ -1,0 +1,25 @@
+title: "Grief"
+summary: There is no right way to grieve; crying, not crying, laughing and silence are all normal, and the job of those around is to stay close, not to fix it.
+keywords: [grief, bereavement, mourning, loss, death of a loved one, grief support]
+procedure: |
+  1. Expect grief to be messy and personal rather than a tidy set of stages. It is a long adaptation to living without someone, not a path to "recovery" by a date.
+  2. Crying is normal. Not crying is also normal and can be a sign of resilience. Laughter, celebrating the person, odd ways of coping, and even a sense of having seen or heard them are common, and most people find them comforting.
+  3. Do not press a grieving person to cry, to talk or to retell the loss; forced or excessive retelling can harm. Be there, listen when they want to talk, do not put down their grief or worry, give practical help, and put feelings into perspective gently.
+  4. Grieving people are often anxious. Keep them in the group, and keep routine, food, sleep and useful activity going, as for any stress reaction.
+  5. In a disaster, grief is complicated by not knowing. Use the family communication plan and safe-and-well registries to find out what can be found out.
+  6. Most people do not need professional help. Seek it, or help someone seek it, when they cannot cope, are drinking or using drugs heavily, become very depressed, can focus on little but the death, feel persistent guilt or that they should have prevented it, feel life is not worth living, or wish they had died too. Hospices, grief counsellors and peer groups such as networks for bereaved parents are places to start.
+  7. Writing about the loss and what it means has helped many people adjust; so can art and shared tasks. For children, see Keeping children calm.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Grief
+    sections: [Grieving process, Reactions, Support]
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "178-179"
+    heading: "Mild stress reaction: self and buddy aid (FM 4-25.11, table 8-1)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "18"
+    heading: "Family emergency communication plan: safe and well registries (FEMA, Are You Ready?)"
+related: [psychological-first-aid, acute-stress, keeping-children-calm, family-communication-plan]

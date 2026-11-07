@@ -1,0 +1,28 @@
+title: "CPR and choking"
+summary: Chest compressions keep blood moving to the brain until help arrives; back blows and abdominal thrusts clear a blocked airway.
+keywords: [cardiopulmonary resuscitation, chest compressions, rescue breaths, Heimlich, abdominal thrusts, back blows, choking]
+procedure: |
+  ### Someone collapses and is not breathing normally
+  1. Check for a response and breathing (no more than 10 seconds). Shout for help and have someone call emergency services and fetch a defibrillator (AED) if one exists.
+  2. Kneel beside them, heel of one hand on the centre of the chest, other hand on top. Push **hard and fast**: 5 to 6 cm deep, 100 to 120 per minute, letting the chest come fully back up.
+  3. If trained, give **30 compressions then 2 breaths** (tilt head, lift chin, pinch nose, one-second breaths that make the chest rise). If not trained or unwilling, do compressions only without stopping.
+  4. When an AED arrives, turn it on and follow its voice prompts; keep compressing while the pads go on.
+  5. Swap rescuers every two minutes. Stop only when they breathe normally, help takes over, or you cannot continue.
+  ### Choking
+  1. If they can cough or speak, encourage coughing and stay with them.
+  2. If they cannot breathe, cough or speak: give **5 back blows** between the shoulder blades with the heel of your hand, then **5 abdominal thrusts** (stand behind, fist just above the navel, pull sharply in and up). Alternate until the object comes out.
+  3. For a pregnant or very large person use chest thrusts instead of abdominal thrusts. For an infant under one year, use 5 back blows and 5 chest thrusts with two fingers; never abdominal thrusts.
+  4. If they become unresponsive, start CPR. Look in the mouth before each set of breaths and remove anything you can see.
+sources:
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "21-37"
+    heading: "Open the airway and restore breathing (FM 4-25.11, chapter 2 section I)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Cardiopulmonary resuscitation
+    sections: [Order of CPR in a first aid sequence, Methods]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Abdominal thrusts
+related: [shock, bleeding-control]

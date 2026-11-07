@@ -1,0 +1,33 @@
+title: "Drying, jerky, smoking and root cellaring"
+summary: Thin strips dried fast in sun, smoke or a dehydrator keep for weeks; a cool damp cellar keeps roots, cabbage and squash for months without any power.
+keywords: [food drying, dehydrating, jerky, smoking meat, root cellar, storing potatoes, dried fruit, preserving without power]
+procedure: |
+  ### Drying meat and making jerky
+  1. **Trim off the fat**; fat is what turns rancid. Cut the meat into thin strips **with the grain**, about 6 mm (1/4 inch) thick. Salt improves flavour, draws out moisture and helps it keep; pepper, garlic or a marinade are optional, but a wet marinade lengthens drying.
+  2. Dry it **quickly** so bacteria cannot grow while the meat is still moist, using low heat and moving air rather than cooking heat. A dehydrator does this; without power, hang the strips on a rack in a sunny spot with good airflow, **out of reach of animals and covered against blowflies**. Properly dried meat is dry and crisp and does not feel cool to the touch.
+  3. **Smoking**: build an enclosure (a tarp or two ponchos) around a small fire whose job is smoke, not heat. Use somewhat green hardwood (soak it if dry); **never resinous wood**, which ruins the meat. Drape thin slices on a frame so no piece touches another and keep the fire low. Meat smoked overnight keeps about a week; two days of continuous smoking keeps it 2 to 4 weeks. Done, it looks like a dark, curled, brittle stick and can be eaten without cooking.
+  4. Salt alone also preserves meat: keep it fully covered in strong saltwater or packed in salt, and wash the salt off before cooking. In a cold climate, frozen meat keeps indefinitely but still has to be cooked.
+  ### Drying fruit and vegetables
+  5. Fruit dries well because of its sugar (plums to prunes, grapes to raisins, apples, figs, dates); garlic and onions can be dried and hung in braids; mushrooms dry for storage. Use a dehydrator, or sun and wind. Dried food made without preservatives may need refrigeration or freezing for long storage, so keep it airtight (vacuum sealed if you can, with an oxygen absorber for jerky), check it, and discard anything mouldy.
+  ### Root cellaring
+  6. Most roots keep longest **just above freezing, 0 to 2 °C (32 to 35 °F), at 90 to 95 percent humidity**: potatoes, carrots, turnips, parsnips, beets, cabbage. Onions and garlic want it drier. Winter squash keeps 6 to 8 months somewhere cooler than a living room but above freezing. Jars of preserves, salt meat and salt fish live there too. Apples give off ethylene that ripens other crops faster, so store them apart if you can.
+  7. A cellar is any space that holds that cold without freezing: a pit under a shed with a trap door, a room dug into a hillside (easiest to dig and drain), or a ground-level structure buried in earth and sod. Without one, an unheated closet, crawlspace, garage or the space under a bed will hold some crops (pumpkins for weeks).
+  > Drying and cellaring slow spoilage; they do not sterilise. Eat anything that softens, sprouts, moulds or smells off first or throw it out, and cook meat you are unsure of.
+sources:
+  - kind: pdf
+    document: army-fm-21-76-survival
+    pages: "97-98"
+    heading: "Smoking meat, drying meat and other preservation methods (FM 21-76, chapter 8)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Jerky
+    sections: [Preparation, Packaging]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Food drying
+    sections: [Food types, Preparation, Packaging]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Root cellar
+    sections: [Function, Construction]
+related: [canning-meat-poultry-fish, refrigeration-loss-food-safety, safe-canning-principles]

@@ -1,0 +1,28 @@
+title: "Amateur (ham) radio when everything else is down"
+summary: Ham radio works with no towers, no internet and a car battery; the entry licence is a 35-question test, and the time to get it is before the storm.
+keywords: [ham radio, amateur radio, Technician license, ARES, RACES, Skywarn, repeater, emergency communications, VHF UHF]
+procedure: |
+  ### Why it still works
+  - Each station is independent: its own radio, antenna and power. There is no central tower to overload or lose. Most gear runs on 12 volts from a car battery, and hams practise improvising antennas and power every year on Field Day.
+  - In the 9/11 attacks, the 2003 blackout, Hurricanes Katrina and Maria and the Boston Marathon bombing, hams carried traffic for hospitals, shelters and the Red Cross when phones failed.
+  ### Get licensed now (United States)
+  1. The entry **Technician** licence needs a 35-question multiple-choice exam (pass mark 74 percent, so up to 9 wrong) drawn from a published question pool. Free study guides and practice tests exist.
+  2. Find a **Volunteer Examiner** session through a local club or the ARRL or W5YI listings; many run monthly. The FCC fee is $35 and the licence lasts ten years. No Morse code is required.
+  3. Technician gives you all amateur bands above 30 MHz (the VHF and UHF bands where local repeaters live) and a little HF. **General** adds most of HF for long distance; it is one more 35-question exam.
+  ### Set up
+  1. A handheld VHF/UHF radio plus a better antenna than the stock one covers a town. A mobile radio in the car with a roof antenna covers a region through repeaters. Buy radios that charge from 12 V.
+  2. Program the **local repeaters** and the simplex calling frequency, then listen regularly so you know the voices and the nets. Learn how the repeater behaves on backup power.
+  3. Join **ARES** (the ARRL's Amateur Radio Emergency Service), **RACES** (the government-registered service that keeps operating if normal amateur operation is suspended) or **Skywarn** (the National Weather Service spotter network). They train, they run drills, and they hold the agreements with the agencies that will need you.
+  ### In the emergency
+  - Listen first. Check in to the local emergency net when it opens and follow the net control station. Keep messages short, written down, and about health, welfare and logistics.
+  - Anyone may listen without a licence, and a scanner or a handheld in receive mode is a window on what responders are doing.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Amateur radio emergency communications
+    sections: [Organization]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Amateur radio licensing in the United States
+    sections: [Current license classes, Volunteer examiners]
+related: [frs-gmrs-cb, weather-radio-and-alerts, family-communication-plan, small-solar-system]

@@ -1,0 +1,20 @@
+title: "Carbon monoxide: the silent killer after a storm"
+summary: Generators, grills, camp stoves and cars running indoors or in garages kill families every outage; know the symptoms and the 20-foot rule.
+keywords: [carbon monoxide poisoning, CO alarm, generator safety, headache dizziness nausea, fresh air]
+procedure: |
+  1. Run generators, pressure washers, charcoal and gas grills, camp stoves and propane heaters **outdoors only, at least 6 metres (20 ft) from any window, door or vent**, with the exhaust pointing away from the house. A garage with the door open is not outdoors.
+  2. Never warm up a car or run it in an attached garage. Never heat a room with a gas oven or hob.
+  3. Fit **battery-powered or battery-backup carbon monoxide alarms** on every floor and outside bedrooms. Test them monthly and change batteries when the clocks change.
+  4. Learn the symptoms: headache, dizziness, weakness, nausea, vomiting, chest pain, confusion. Several people and pets ill at once, or feeling better outside the house, point to carbon monoxide. Sleeping or drunk people can die without ever noticing.
+  5. If the alarm sounds or you suspect poisoning: **get everyone into fresh air immediately**, call emergency services from outside, and do not go back in to open windows or hunt for the source until it is ventilated and checked.
+  6. Anyone with symptoms needs medical assessment even if they feel better; oxygen treatment prevents lasting harm.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Carbon monoxide poisoning
+    sections: [Signs and symptoms, Treatment]
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "17"
+    heading: "Winter storm guidance on generators and grills (FEMA, Are You Ready?)"
+related: [staying-warm-indoors, extinguishers, shelter-in-place]

@@ -1,0 +1,31 @@
+title: "Airway and the recovery position"
+summary: An unconscious person who is breathing can still die from their own tongue or vomit; open the airway, check breathing, and roll them onto their side.
+keywords: [recovery position, unconscious, airway, breathing check, head tilt chin lift, log roll, unresponsive but breathing]
+procedure: |
+  1. **Check for a response.** Gently shake the shoulders and ask loudly "Are you OK?" If there is no answer, shout for help and have someone call emergency services.
+  2. **Open the airway.** With the person on their back, put one hand on the forehead and tilt the head back while lifting the chin with two fingers of the other hand. If you suspect a neck injury (a fall, a crash, a blow to the head), lift the jaw forward without tilting the head.
+  3. **Check breathing.** Put your ear over the mouth and nose, watch the chest, listen for air and feel for it on your cheek, for no more than 10 seconds. Bluish or grey lips and nail beds mean the brain is not getting oxygen; brain cells start dying after 4 to 6 minutes without it.
+  4. **Not breathing, or only gasping:** start CPR now (see CPR and choking).
+  5. **Breathing, unresponsive, no sign of injury:** put them in the **recovery position**. Kneel beside them, straighten the legs, place the near arm out at a right angle, bring the far arm across the chest, bend the far knee, then roll them towards you so the head, shoulders and body turn together without twisting. Tilt the head back and slightly down so fluid can drain from the mouth, and rest the bent knee on the ground so the position is stable.
+  6. The point of the position: on their back, the relaxed tongue falls against the back of the throat, and stomach contents can flow up and into the lungs. On their side, gravity pulls the tongue clear and lets vomit drain out instead of being inhaled.
+  7. **Keep watching.** Check breathing every minute or two until they wake or help arrives. If breathing stops, roll them onto their back and start CPR. If you must leave an unconscious person for a moment, leave them on their side, never on their back.
+  8. **If injury is possible** (unconscious after a fall, crash or head blow), treat them as having a spinal injury: do not move them unless the airway is blocked by vomit or blood, and then roll them as a unit with helpers keeping head, neck and body in a straight line (see Head and spine injuries).
+  > Never give an unconscious or drowsy person anything to drink. The Hospital Corpsman text below describes the breathing check, the recovery position and rescue breathing in full.
+sources:
+  - kind: pdf
+    document: navedtra-14295-hospital-corpsman
+    pages: "156-157"
+    heading: "Determining breathlessness, the recovery position and artificial ventilation (Hospital Corpsman, chapter 4)"
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "56"
+    heading: "The unconscious casualty: breathing and positioning (FM 4-25.11, chapter 3)"
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "21"
+    heading: "Basic measures: airway, breathing and contaminated wounds (FM 4-25.11, chapter 2)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Recovery position
+    sections: [Purpose]
+related: [cpr-and-choking, head-and-spine-injuries, shock, bleeding-control]

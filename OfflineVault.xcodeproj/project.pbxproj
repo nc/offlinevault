@@ -1,0 +1,524 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		03E22B46F7B993B89132D84C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D845EA989A6BB6E2C5E81A98 /* SettingsView.swift */; };
+		058DB6CAAAA0CEA4DE06FEBD /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DC74D7B29506562652D6DA0 /* WebView.swift */; };
+		1C91D016DB0EB4657F92AE83 /* SourcesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC8AB7B8A343E65399094B6 /* SourcesView.swift */; };
+		2F22BA1F6F73BF825244B4D0 /* VideosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258C29743C80F9BED2CDA9A3 /* VideosView.swift */; };
+		36D677D1CA8F845EAE2ED52C /* ChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20102FECA06B5CABE005B4F /* ChatView.swift */; };
+		41706E2AF88E8DAB9BD2ED0A /* scenarios.json in Resources */ = {isa = PBXBuildFile; fileRef = 0FA07BAFFA89551D6B2E74F8 /* scenarios.json */; };
+		49F9724A8B744C0A7495E13E /* OfflineVaultApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901668CAA94CC29C8E47DEB3 /* OfflineVaultApp.swift */; };
+		4B7C3BBB8E7B51EF184AAE36 /* SetupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9160127BB184356E663BC01 /* SetupView.swift */; };
+		4BB805586A6298E1A6DA3670 /* DocumentsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D980030D54DD050C881FD0A /* DocumentsView.swift */; };
+		522FDFC501783365A5FCDFDA /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B21AD404500586B7ACD5C14 /* LibraryView.swift */; };
+		555D0874E1B5455C1CC39DF0 /* ToolsViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DCA88FAE9A9C68ED14B2501 /* ToolsViews.swift */; };
+		57DEF99A91E9E516203997F2 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A4C925F32F3335B2514986 /* RootView.swift */; };
+		6BC531E7E2E864A5883B608F /* OfflineVaultCore in Frameworks */ = {isa = PBXBuildFile; productRef = 97BC8AABE8D446E10D59EE2A /* OfflineVaultCore */; };
+		6E7166CC922356CC52984AA9 /* bin in Resources */ = {isa = PBXBuildFile; fileRef = D3B996B45AB4240D79CBC4DB /* bin */; };
+		72082E878BBEDC87F5FAE963 /* Updater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C104B01AD02826CAFE4C79 /* Updater.swift */; };
+		7ACD565BA4B334B5382A873B /* DownloadsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB29BF6F95212829A9C507 /* DownloadsView.swift */; };
+		7B1D7A5A51D0AFD4635A0159 /* ReadinessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF53CE57C6B9D72F8AC77AF /* ReadinessView.swift */; };
+		868EF8AE562AB2247F42D5FD /* LocationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F1A03AB8EFDA6C73B9C17D /* LocationService.swift */; };
+		88637DEF0C79E33199A3111A /* PagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721E386CE4FC3C87B9264A71 /* PagesView.swift */; };
+		8D78011AE8E249A09F1057E7 /* Components.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC2C6E9867D0529571EF9E9 /* Components.swift */; };
+		8DA65E44B338D2D91827518B /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEB9C7F3FA40132F83E4AF6 /* AboutView.swift */; };
+		98064655F902620A3FEEFA90 /* UpdatesSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9404F2E991D78913EE7855E0 /* UpdatesSheet.swift */; };
+		9B26E56AD002849BEA26D6D1 /* BrowserFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8D47E2BA0C14FDA6CFB704D /* BrowserFetcher.swift */; };
+		A861CDAED7C6ACE8F02923D8 /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B585CEE0DF7B2426523D4F2 /* AppModel.swift */; };
+		AAD1BD00D59A1514A37D4280 /* ChatController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3990858572CFC7B5FD576E47 /* ChatController.swift */; };
+		B219BDAB26017CE187712742 /* ScenariosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D58913C1302F4C511106A4 /* ScenariosView.swift */; };
+		B5B175C95C8FAEA253AACA80 /* ScreenshotMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93255650F0C3A070FBBCF6D /* ScreenshotMode.swift */; };
+		B638A4AF227DF3F80E609B94 /* ScreenStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD522A02B4B7E9EB75AFE88D /* ScreenStates.swift */; };
+		C8966B7EDFD5ABF412EFA9EB /* CatalogueBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27AD38CCDA2581145CAE8197 /* CatalogueBadge.swift */; };
+		D60AF491C7610876AE110831 /* AppIcon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 0ED88459069C98CDFE222889 /* AppIcon.icns */; };
+		DB3DA7CF1357957D91EC3928 /* Sparkle in Frameworks */ = {isa = PBXBuildFile; productRef = FB7B37457B878DB7FC9BAA61 /* Sparkle */; };
+		E139F6FFF9065C2E444D155D /* TranscriptView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29F05628D6F3C11700D531DF /* TranscriptView.swift */; };
+		E490CC46E6343F39ADF5BECC /* web in Resources */ = {isa = PBXBuildFile; fileRef = CA2E129ACDF87A0377F016ED /* web */; };
+		F9CA33F537E1B8445D6D21DD /* ImportHoardSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AFFF3A9A7679B014861B3CE /* ImportHoardSheet.swift */; };
+		FB93A1824F75AF9999A84CF3 /* MapsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A0BD1CF94EF189B3EAB104 /* MapsView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0ED88459069C98CDFE222889 /* AppIcon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = AppIcon.icns; sourceTree = "<group>"; };
+		0FA07BAFFA89551D6B2E74F8 /* scenarios.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = scenarios.json; sourceTree = "<group>"; };
+		1D980030D54DD050C881FD0A /* DocumentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentsView.swift; sourceTree = "<group>"; };
+		258C29743C80F9BED2CDA9A3 /* VideosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideosView.swift; sourceTree = "<group>"; };
+		27AD38CCDA2581145CAE8197 /* CatalogueBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogueBadge.swift; sourceTree = "<group>"; };
+		29F05628D6F3C11700D531DF /* TranscriptView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranscriptView.swift; sourceTree = "<group>"; };
+		3990858572CFC7B5FD576E47 /* ChatController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatController.swift; sourceTree = "<group>"; };
+		3AFFF3A9A7679B014861B3CE /* ImportHoardSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportHoardSheet.swift; sourceTree = "<group>"; };
+		3B585CEE0DF7B2426523D4F2 /* AppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppModel.swift; sourceTree = "<group>"; };
+		3BC2C6E9867D0529571EF9E9 /* Components.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Components.swift; sourceTree = "<group>"; };
+		4A9E9A1B0C1F0E7AA6E0FBF6 /* Core */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Core; path = Core; sourceTree = SOURCE_ROOT; };
+		4AC8AB7B8A343E65399094B6 /* SourcesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourcesView.swift; sourceTree = "<group>"; };
+		5E89236C8C824AEB43F994AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		6DC74D7B29506562652D6DA0 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		6DCA88FAE9A9C68ED14B2501 /* ToolsViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolsViews.swift; sourceTree = "<group>"; };
+		721E386CE4FC3C87B9264A71 /* PagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagesView.swift; sourceTree = "<group>"; };
+		7B21AD404500586B7ACD5C14 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
+		7BF53CE57C6B9D72F8AC77AF /* ReadinessView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadinessView.swift; sourceTree = "<group>"; };
+		7D9F16AFDD95C416599E46E6 /* OfflineVault.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OfflineVault.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		81C104B01AD02826CAFE4C79 /* Updater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Updater.swift; sourceTree = "<group>"; };
+		901668CAA94CC29C8E47DEB3 /* OfflineVaultApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfflineVaultApp.swift; sourceTree = "<group>"; };
+		9404F2E991D78913EE7855E0 /* UpdatesSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdatesSheet.swift; sourceTree = "<group>"; };
+		9CEB9C7F3FA40132F83E4AF6 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
+		A176A11A0E48A18860A50CF1 /* OfflineVault.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = OfflineVault.entitlements; sourceTree = "<group>"; };
+		A9160127BB184356E663BC01 /* SetupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetupView.swift; sourceTree = "<group>"; };
+		AD522A02B4B7E9EB75AFE88D /* ScreenStates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenStates.swift; sourceTree = "<group>"; };
+		B20102FECA06B5CABE005B4F /* ChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
+		BDBB29BF6F95212829A9C507 /* DownloadsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsView.swift; sourceTree = "<group>"; };
+		C1A0BD1CF94EF189B3EAB104 /* MapsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapsView.swift; sourceTree = "<group>"; };
+		C93255650F0C3A070FBBCF6D /* ScreenshotMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenshotMode.swift; sourceTree = "<group>"; };
+		CA2E129ACDF87A0377F016ED /* web */ = {isa = PBXFileReference; lastKnownFileType = folder; name = web; path = OfflineVault/Resources/web; sourceTree = SOURCE_ROOT; };
+		D3B996B45AB4240D79CBC4DB /* bin */ = {isa = PBXFileReference; lastKnownFileType = folder; name = bin; path = OfflineVault/Resources/bin; sourceTree = SOURCE_ROOT; };
+		D7A4C925F32F3335B2514986 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		D845EA989A6BB6E2C5E81A98 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		D8F1A03AB8EFDA6C73B9C17D /* LocationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationService.swift; sourceTree = "<group>"; };
+		E8D47E2BA0C14FDA6CFB704D /* BrowserFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrowserFetcher.swift; sourceTree = "<group>"; };
+		E9D58913C1302F4C511106A4 /* ScenariosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScenariosView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		05D5B3824A7D5A365EA0D8F3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BC531E7E2E864A5883B608F /* OfflineVaultCore in Frameworks */,
+				DB3DA7CF1357957D91EC3928 /* Sparkle in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		23C3817E311EC1F3BEDF4FE8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				27AD38CCDA2581145CAE8197 /* CatalogueBadge.swift */,
+				B20102FECA06B5CABE005B4F /* ChatView.swift */,
+				3BC2C6E9867D0529571EF9E9 /* Components.swift */,
+				1D980030D54DD050C881FD0A /* DocumentsView.swift */,
+				BDBB29BF6F95212829A9C507 /* DownloadsView.swift */,
+				3AFFF3A9A7679B014861B3CE /* ImportHoardSheet.swift */,
+				7B21AD404500586B7ACD5C14 /* LibraryView.swift */,
+				C1A0BD1CF94EF189B3EAB104 /* MapsView.swift */,
+				721E386CE4FC3C87B9264A71 /* PagesView.swift */,
+				7BF53CE57C6B9D72F8AC77AF /* ReadinessView.swift */,
+				D7A4C925F32F3335B2514986 /* RootView.swift */,
+				E9D58913C1302F4C511106A4 /* ScenariosView.swift */,
+				D845EA989A6BB6E2C5E81A98 /* SettingsView.swift */,
+				A9160127BB184356E663BC01 /* SetupView.swift */,
+				4AC8AB7B8A343E65399094B6 /* SourcesView.swift */,
+				6DCA88FAE9A9C68ED14B2501 /* ToolsViews.swift */,
+				29F05628D6F3C11700D531DF /* TranscriptView.swift */,
+				9404F2E991D78913EE7855E0 /* UpdatesSheet.swift */,
+				258C29743C80F9BED2CDA9A3 /* VideosView.swift */,
+				6DC74D7B29506562652D6DA0 /* WebView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		6942F084996ED7F404345095 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0ED88459069C98CDFE222889 /* AppIcon.icns */,
+				D3B996B45AB4240D79CBC4DB /* bin */,
+				0FA07BAFFA89551D6B2E74F8 /* scenarios.json */,
+				CA2E129ACDF87A0377F016ED /* web */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		7E06A39B7CC800C5BBC3076C /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				4A9E9A1B0C1F0E7AA6E0FBF6 /* Core */,
+			);
+			name = Packages;
+			sourceTree = "<group>";
+		};
+		99EF1E5FA16A7189AECCB5FE /* OfflineVault */ = {
+			isa = PBXGroup;
+			children = (
+				9CEB9C7F3FA40132F83E4AF6 /* AboutView.swift */,
+				3B585CEE0DF7B2426523D4F2 /* AppModel.swift */,
+				E8D47E2BA0C14FDA6CFB704D /* BrowserFetcher.swift */,
+				3990858572CFC7B5FD576E47 /* ChatController.swift */,
+				5E89236C8C824AEB43F994AF /* Info.plist */,
+				D8F1A03AB8EFDA6C73B9C17D /* LocationService.swift */,
+				A176A11A0E48A18860A50CF1 /* OfflineVault.entitlements */,
+				901668CAA94CC29C8E47DEB3 /* OfflineVaultApp.swift */,
+				C93255650F0C3A070FBBCF6D /* ScreenshotMode.swift */,
+				AD522A02B4B7E9EB75AFE88D /* ScreenStates.swift */,
+				81C104B01AD02826CAFE4C79 /* Updater.swift */,
+				6942F084996ED7F404345095 /* Resources */,
+				23C3817E311EC1F3BEDF4FE8 /* Views */,
+			);
+			path = OfflineVault;
+			sourceTree = "<group>";
+		};
+		C01D1CAC38F26790FB4F58D0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7D9F16AFDD95C416599E46E6 /* OfflineVault.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DBB7F9D2BDC2CAC473DC34E4 = {
+			isa = PBXGroup;
+			children = (
+				99EF1E5FA16A7189AECCB5FE /* OfflineVault */,
+				7E06A39B7CC800C5BBC3076C /* Packages */,
+				C01D1CAC38F26790FB4F58D0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0F279F722018C8FC4419183C /* OfflineVault */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0B9AB10D047415ED20BFF43A /* Build configuration list for PBXNativeTarget "OfflineVault" */;
+			buildPhases = (
+				F7EA76827432256070B1F1FA /* Sources */,
+				6CA2809AAA1F9616DE8A3E35 /* Resources */,
+				05D5B3824A7D5A365EA0D8F3 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OfflineVault;
+			packageProductDependencies = (
+				97BC8AABE8D446E10D59EE2A /* OfflineVaultCore */,
+				FB7B37457B878DB7FC9BAA61 /* Sparkle */,
+			);
+			productName = OfflineVault;
+			productReference = 7D9F16AFDD95C416599E46E6 /* OfflineVault.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A09FD3EA9E009C6B15BC0392 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					0F279F722018C8FC4419183C = {
+						DevelopmentTeam = "";
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C302A72F58F8545008A8E29E /* Build configuration list for PBXProject "OfflineVault" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = DBB7F9D2BDC2CAC473DC34E4;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				370E551E1939E7FF39CC3333 /* XCRemoteSwiftPackageReference "Sparkle" */,
+				FC88CF1D182611394DFCBE0B /* XCLocalSwiftPackageReference "Core" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C01D1CAC38F26790FB4F58D0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0F279F722018C8FC4419183C /* OfflineVault */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6CA2809AAA1F9616DE8A3E35 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D60AF491C7610876AE110831 /* AppIcon.icns in Resources */,
+				6E7166CC922356CC52984AA9 /* bin in Resources */,
+				41706E2AF88E8DAB9BD2ED0A /* scenarios.json in Resources */,
+				E490CC46E6343F39ADF5BECC /* web in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F7EA76827432256070B1F1FA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DA65E44B338D2D91827518B /* AboutView.swift in Sources */,
+				A861CDAED7C6ACE8F02923D8 /* AppModel.swift in Sources */,
+				9B26E56AD002849BEA26D6D1 /* BrowserFetcher.swift in Sources */,
+				C8966B7EDFD5ABF412EFA9EB /* CatalogueBadge.swift in Sources */,
+				AAD1BD00D59A1514A37D4280 /* ChatController.swift in Sources */,
+				36D677D1CA8F845EAE2ED52C /* ChatView.swift in Sources */,
+				8D78011AE8E249A09F1057E7 /* Components.swift in Sources */,
+				4BB805586A6298E1A6DA3670 /* DocumentsView.swift in Sources */,
+				7ACD565BA4B334B5382A873B /* DownloadsView.swift in Sources */,
+				F9CA33F537E1B8445D6D21DD /* ImportHoardSheet.swift in Sources */,
+				522FDFC501783365A5FCDFDA /* LibraryView.swift in Sources */,
+				868EF8AE562AB2247F42D5FD /* LocationService.swift in Sources */,
+				FB93A1824F75AF9999A84CF3 /* MapsView.swift in Sources */,
+				49F9724A8B744C0A7495E13E /* OfflineVaultApp.swift in Sources */,
+				88637DEF0C79E33199A3111A /* PagesView.swift in Sources */,
+				7B1D7A5A51D0AFD4635A0159 /* ReadinessView.swift in Sources */,
+				57DEF99A91E9E516203997F2 /* RootView.swift in Sources */,
+				B219BDAB26017CE187712742 /* ScenariosView.swift in Sources */,
+				B638A4AF227DF3F80E609B94 /* ScreenStates.swift in Sources */,
+				B5B175C95C8FAEA253AACA80 /* ScreenshotMode.swift in Sources */,
+				03E22B46F7B993B89132D84C /* SettingsView.swift in Sources */,
+				4B7C3BBB8E7B51EF184AAE36 /* SetupView.swift in Sources */,
+				1C91D016DB0EB4657F92AE83 /* SourcesView.swift in Sources */,
+				555D0874E1B5455C1CC39DF0 /* ToolsViews.swift in Sources */,
+				E139F6FFF9065C2E444D155D /* TranscriptView.swift in Sources */,
+				72082E878BBEDC87F5FAE963 /* Updater.swift in Sources */,
+				98064655F902620A3FEEFA90 /* UpdatesSheet.swift in Sources */,
+				2F22BA1F6F73BF825244B4D0 /* VideosView.swift in Sources */,
+				058DB6CAAAA0CEA4DE06FEBD /* WebView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		295329748A0354570D9D8C3A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		30F3AFA838F3E26783F6C0D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = OfflineVault/OfflineVault.entitlements;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = OfflineVault/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.offlinevault.app;
+				PRODUCT_NAME = OfflineVault;
+				SDKROOT = macosx;
+				SWIFT_STRICT_CONCURRENCY = minimal;
+			};
+			name = Release;
+		};
+		4D4BC362A8D85CCAADD66D06 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = OfflineVault/OfflineVault.entitlements;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = OfflineVault/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				OTHER_SWIFT_FLAGS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.offlinevault.app;
+				PRODUCT_NAME = OfflineVault;
+				SDKROOT = macosx;
+				SWIFT_STRICT_CONCURRENCY = minimal;
+			};
+			name = Debug;
+		};
+		CD43DEEF7E63763DEFAA967E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0B9AB10D047415ED20BFF43A /* Build configuration list for PBXNativeTarget "OfflineVault" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D4BC362A8D85CCAADD66D06 /* Debug */,
+				30F3AFA838F3E26783F6C0D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		C302A72F58F8545008A8E29E /* Build configuration list for PBXProject "OfflineVault" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD43DEEF7E63763DEFAA967E /* Debug */,
+				295329748A0354570D9D8C3A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		FC88CF1D182611394DFCBE0B /* XCLocalSwiftPackageReference "Core" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Core;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		370E551E1939E7FF39CC3333 /* XCRemoteSwiftPackageReference "Sparkle" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/sparkle-project/Sparkle";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.6.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		97BC8AABE8D446E10D59EE2A /* OfflineVaultCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = OfflineVaultCore;
+		};
+		FB7B37457B878DB7FC9BAA61 /* Sparkle */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 370E551E1939E7FF39CC3333 /* XCRemoteSwiftPackageReference "Sparkle" */;
+			productName = Sparkle;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = A09FD3EA9E009C6B15BC0392 /* Project object */;
+}

@@ -1,0 +1,29 @@
+title: "Recognising waterborne illness and treating dehydration"
+summary: Diarrhoea after a disaster is usually water or food borne; the killer is dehydration, and oral rehydration treats it.
+keywords: [diarrhea, diarrhoea, cholera, giardia, dehydration, oral rehydration solution, ORS]
+procedure: |
+  ### Recognise it
+  - Watery diarrhoea, cramps, nausea and sometimes fever within hours to days of drinking untreated water point to bacteria or viruses.
+  - Profuse, painless "rice water" stools and rapid collapse are the picture of **cholera**; it can kill within a day without fluids.
+  - Bloating, greasy foul stools and fatigue starting one to three weeks after exposure suggest **giardia**.
+  ### Treat the dehydration, not the stool
+  1. Make oral rehydration solution: **6 level teaspoons of sugar and half a level teaspoon of salt in 1 litre of treated water**. Packets from a pharmacy are better when you have them.
+  2. Give small sips constantly: adults 200 to 400 ml after each loose stool, children 50 to 100 ml, infants a teaspoon every minute. Keep breastfeeding.
+  3. Keep eating once vomiting stops; rice, bananas, potatoes and soup are fine. Avoid anti-diarrhoeal drugs in children and whenever there is fever or blood.
+  4. Wash hands with soap after every toilet visit and before food; keep the sick person's water and utensils separate.
+  ### Get medical help when
+  - There is blood in the stool, high fever, no urine for 8 hours, sunken eyes, a dry mouth, confusion or drowsiness, or the patient is an infant, pregnant or frail.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Diarrhea
+    sections: [Causes, Prevention, Management]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Cholera
+    sections: [Signs and symptoms, Prevention, Treatment]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Giardiasis
+    sections: [Signs and symptoms, Prevention, Treatment]
+related: [boil-bleach-filter, storing-water]

@@ -1,0 +1,31 @@
+title: "Signalling for rescue"
+summary: Rescuers must notice you first and understand you second; three of anything means distress, a mirror reaches an aircraft tens of kilometres away, and the ground symbols are a metre by six.
+keywords: [signal mirror, distress signal, signal fire, whistle, ground-to-air signals, three fires, SOS, Mayday, rescue signals]
+procedure: |
+  ### Set up before you need it
+  1. Pick the largest open, flat, high spot near your shelter that aircraft and searchers can see. Lay out fires or ground symbols in advance and keep the signal mirror, whistle and torch on a cord round your neck.
+  2. Signals come in **threes**: three fires in a triangle or a line about 25 metres apart, three whistle blasts, three shots, three flashes, repeated after a minute's pause. Three in reply means you have been heard.
+  ### Being seen
+  - **Fire at night, smoke by day.** Smother a hot fire with green leaves, moss or a little water for white smoke against dark ground; rubber or oily rags give black smoke against snow or sand. Smoke works only on calm, clear days. Clear the ground or build a platform so melting snow does not drown the fire, and never let a signal fire start a wildfire.
+  - A **mirror** on a sunny day is the best tool you have; pilots have reported flashes from 160 km. Any shiny object works. Aim it: hold two fingers in a V at arm's length with the aircraft between them, and swing the sun's reflection across your fingertips. Sweep the horizon when you hear an aircraft you cannot see. Do not flash rapidly or hold the beam in a cockpit for more than a moment.
+  - A **whistle** carries 1.6 km and costs no breath compared with shouting. Use a torch or strobe at night; a strobe flashes 60 times a minute and can look like gunfire to a pilot, so be ready with a second signal.
+  - **Contrast and shape**: bright clothing or an orange panel spread out or flown from a tree; straight lines, triangles and X shapes do not occur in nature. Tramp letters in snow and fill them with branches; in sand, use rocks or seaweed; in brush, cut patterns; build mounds that throw shadows.
+  ### Being understood
+  - **Ground-to-air symbols**: at least **1 metre wide and 6 metres long**, in the same 1:6 ratio if bigger, in a material that contrasts with the ground, in the open. The code is a short list of five shapes shown in the manual's figure; learn them before you need them, make them big and keep them crisp.
+  - To a helicopter in sight, both arms raised in a Y means "yes, I need help"; one arm up and one down means "no".
+  - **Radio or phone**: "Mayday, Mayday, Mayday", your name, your location, how many of you, the help you need, and a landing site if you know one. Radios are line of sight: get high, keep the antenna upright and clear of your body, transmit briefly, keep the battery warm.
+  > Being seen is not being saved. Keep sheltering, drinking and signalling until rescuers reach you.
+sources:
+  - kind: pdf
+    document: army-fm-21-76-survival
+    pages: "200-208"
+    heading: "Signaling techniques (FM 21-76, chapter 19)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Distress signal
+    sections: [Maritime, Aviation, Schwarzwald]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Signalling mirror
+    sections: [Description]
+related: [frs-gmrs-cb, firecraft, family-communication-plan, field-shelters]

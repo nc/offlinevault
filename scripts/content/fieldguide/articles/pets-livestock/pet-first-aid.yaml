@@ -1,0 +1,25 @@
+title: "Pet first aid"
+summary: Restrain first, stay calm, stop the bleeding and keep the animal warm on the way to a vet; a frightened animal bites the hand that helps it.
+keywords: [pet first aid, injured dog, injured cat, muzzle, pet first aid kit, veterinarian]
+procedure: |
+  1. The aim of first aid is to get the animal through the emergency to a vet; it is not treatment. Know where the nearest open veterinary practice or emergency clinic is before you need one.
+  2. **Restrain humanely first.** An injured animal in pain struggles and bites, even its owner. Use a muzzle or a lead looped round the muzzle on a dog, leaving the mouth free if it is struggling to breathe, wrap a cat in a towel, and move the animal on a board or in a blanket.
+  3. Stay calm. A panicking owner frightens the animal further and cannot think about what needs doing next, such as getting it to the vet.
+  4. Build the kit with your vet's advice: cotton bandage rolls, bandage tape and scissors, antibiotic ointment, flea and tick prevention, latex gloves, isopropyl alcohol, saline solution, a pet first aid book, a spare lead and a muzzle. Keep medical records and a spare supply of any regular medicines with it in a waterproof container.
+  5. Bleeding stops the same way as in a person: firm direct pressure with a clean pad, then a snug bandage (see Stopping severe bleeding). Cool a burn under cool water as in Burns. Then the vet.
+  6. Keep the animal warm and quiet in a carrier or wrapped in a blanket on the way, and talk to it.
+  7. After a disaster keep pets off hot ash and smouldering ground, which burns paws, and out of floodwater, spilled chemicals and spoiled food. Never leave an animal in a parked car on a warm day.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Pet first aid
+    sections: [Suggested measures, Pet first aid courses]
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "18-19"
+    heading: "Pet supplies: first aid kit, medicines and records (NWS, Thunderstorms, Tornadoes, Lightning)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "17"
+    heading: "Wildfire: hot ash and the danger to pets and livestock (FEMA, Are You Ready?)"
+related: [pet-evacuation-kit, sheltering-with-pets, bleeding-control, burns]

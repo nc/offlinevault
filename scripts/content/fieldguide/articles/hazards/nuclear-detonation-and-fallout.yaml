@@ -1,0 +1,39 @@
+title: "Nuclear detonation and fallout"
+summary: Get inside, stay inside, stay tuned; a day indoors behind as much mass as you can find does most of the protecting, and potassium iodide guards only the thyroid, only when officials say so.
+keywords: [nuclear explosion, fallout, radiation, fallout shelter, potassium iodide, KI, get inside stay inside stay tuned]
+procedure: |
+  ### If there is a flash
+  1. Do not look at the fireball. Drop flat, cover exposed skin, keep your head away from the blast and stay down until the blast wave has passed.
+  2. Then **get inside** the nearest solid building within minutes. Best is underground or the middle of a large brick or concrete building, away from the outer walls and the roof. Any shelter beats being outside; five minutes unsheltered is the most to allow.
+  ### Stay inside
+  1. Stay inside for at least 24 hours unless officials say otherwise. Fallout decays quickly: as a rule of thumb the dose rate drops tenfold for every sevenfold increase in the hours since the burst, so the first day is by far the worst.
+  2. Mass stops gamma radiation. Each of roughly 6 cm (2.4 in) of concrete, 9 cm (3.6 in) of packed earth, 5 cm (2 in) of brick or 2 cm (0.7 in) of steel halves the dose, and the layers multiply. Put as many of them as you can between yourself and the outside and the roof.
+  3. If you were outdoors when fallout fell: take off the outer clothing, bag it and keep it away from people, then wash skin and hair with soap and any water, paying attention to nails and hair. Without water, wipe exposed skin with a clean cloth. Do not wring out wet clothing. Brush fallout out of a pet's coat and wash the animal with soap and water.
+  4. Family members should stay where they are and reunite later rather than cross contaminated ground. Keep pets inside. A battery or hand-crank radio will still work for official instructions when phones and the internet do not.
+  5. Do not eat or drink anything that was left uncovered outdoors. Prefer springs, wells, water already in pipes and containers, and sealed canned or packaged food; wash containers before opening them. Avoid milk from animals in the fallout area and unwashed leafy vegetables.
+  ### Potassium iodide (KI)
+  - KI blocks radioactive iodine from the thyroid and nothing else. Take it only when public health officials tell you to, once every 24 hours: adults and children over one year 130 mg, infants under one year 65 mg (half a tablet, crushed), normally for up to 10 days. More does not help and raises the side effects. Never swallow water-purification iodine tablets or tincture of iodine instead; they are poisons by mouth.
+  - Pregnant women and young children get the best shelter and the KI first; they are the most vulnerable to radiation.
+  > Radiation sickness (nausea, vomiting, weakness, diarrhoea, later hair loss) needs rest, fluids, food and no further exposure, and medical care as soon as it is available.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "13-14"
+    heading: "Nuclear explosion (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fm-21-76-1-survival-evasion-recovery
+    pages: "90-95"
+    heading: "Nuclear conditions: shelter, shielding, water, food and self-aid (FM 21-76-1, chapter IX)"
+  - kind: pdf
+    document: nuclear-war-survival-skills-1987
+    pages: "117-122"
+    heading: "Prevention of thyroid damage from radioactive iodines (Nuclear War Survival Skills, chapter 13)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Nuclear fallout
+    sections: [Fallout protection]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Potassium iodide
+    sections: [Medical uses]
+related: [shelter-in-place, storing-water, boil-bleach-filter, hazmat-and-chemical-release]

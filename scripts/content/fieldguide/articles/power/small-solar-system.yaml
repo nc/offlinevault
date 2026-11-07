@@ -1,0 +1,34 @@
+title: "A small off-grid solar system"
+summary: Panel, charge controller, battery and inverter; size it from your daily watt-hours, keep the battery charged, and run what you can on 12 volt DC.
+keywords: [solar panel, off-grid solar, charge controller, MPPT, PWM, inverter, pure sine wave, solar generator, battery bank]
+procedure: |
+  ### The four parts
+  - **Panels** make DC when the sun shines. The **charge controller** stops the panels overcharging the battery, and a good one stops the battery over-discharging. The **battery** stores energy for night and cloud. The **inverter** turns battery DC into mains AC for ordinary appliances; skip it where you can and run 12 V lights, radios, USB chargers and fans straight from the battery.
+  ### Size it
+  1. List what you must run and for how long each day; multiply watts by hours to get **watt-hours per day**. Read the label on each appliance; a phone is tiny, a fridge is large.
+  2. In sunny mid-latitudes 1 kW of panels yields roughly 3.5 to 5 kWh on a good day, far less in winter and cloud. Plan on the bad days, not the average, and leave margin.
+  3. Face fixed panels due south in the northern hemisphere (north in the southern), tilted toward the sun and steeper in winter, with no shading; even a shadow across one corner cuts output hard.
+  4. Match the controller to the panel and battery voltage and current. A simple PWM controller is fine when the panel voltage matches the battery; MPPT gets more out of panels whose voltage is higher than the battery's.
+  5. Choose the battery for its cycle life, not the sticker (see the lead-acid versus LiFePO4 article), and size it for a run of cloudy days.
+  ### Wire it safely
+  - Thick cables, short runs, and a **fuse or breaker on every battery lead** as close to the terminal as possible. A battery can deliver a welding current into a short.
+  - Connect the battery to the controller before the panels, and disconnect in the reverse order. Cover panels while you work on them; they are live in daylight.
+  - Flooded lead-acid batteries vent hydrogen when charging: a ventilated space, away from sparks, never a sealed cupboard. Keep the battery warm and the panels cool.
+  - For the inverter: a modified sine wave unit runs lights, heaters and most chargers; motors, medical devices, some pumps and anything with a transformer want **pure sine wave**. Size it for the biggest surge you will see.
+  ### Keep it alive
+  - Check the controller display daily at first: the battery should reach full charge on most sunny days. A battery kept half-empty for weeks dies young.
+  - Wipe dust and snow from the panels. Check terminals for corrosion. Label what each cable is for.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Photovoltaic system
+    sections: [Components, Other systems]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Stand-alone power system
+    sections: [Types]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Power inverter
+    sections: [Input and output]
+related: [lead-acid-vs-lifepo4, generator-safety, low-tech-lighting, fuel-storage-and-rotation]

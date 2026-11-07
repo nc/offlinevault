@@ -1,0 +1,42 @@
+title: "Heating a home safely: wood stoves, chimney fires and space heaters"
+summary: Burn dry wood hot, keep the chimney swept, give every heater a metre of clear space, and treat a chimney fire as a house fire.
+keywords: [chimney fire, creosote, wood stove, space heater, kerosene heater, indoor heating safety, chimney sweep]
+procedure: |
+  ### Wood stoves and fireplaces
+  1. Burn **dry, seasoned wood**, under 20 percent moisture: split, stacked under cover and aired for about a year for softwood and up to three for oak. Wet wood smoulders, wastes heat and lays down creosote.
+  2. Burn **short, hot fires** with the air fully open when lighting and reloading. Long smouldering fires with the air shut down cool the flue and let creosote condense on it. Dry softwood is not more dangerous than hardwood; it simply burns faster.
+  3. Have the flue **swept and inspected** regularly by a chimney sweep, and whenever you can see or smell a tar build-up. Fit a wire guard on the chimney top against bird nests.
+  4. Keep furniture, curtains, bedding, paper and firewood at least a metre from the stove. Empty ash into a metal container with a lid and keep it outside on bare ground.
+  5. Fit a **carbon monoxide alarm** and a smoke alarm in the room and outside bedrooms. A blocked or dirty flue pushes carbon monoxide back into the house.
+  ### If the chimney catches fire
+  1. Get everyone out and **call the fire service**. Burning creosote runs very hot, cracks masonry, and ignites framing inside the walls and the roof.
+  2. If it is safe, close the stove doors and air inlets or the fireplace damper to starve the fire of oxygen. **Do not pour water** into the stove or chimney; the steam can burst the masonry and blow burning debris into the room.
+  3. Have the chimney inspected before you use it again.
+  ### Electric space heaters
+  - Plug them **straight into the wall**, never into an extension lead or a power strip. Keep everything flammable at least 1 metre (3 ft) away, keep children and pets the same distance, and switch the heater off when you leave the room or go to sleep. Choose one that shuts off when it tips over.
+  ### Kerosene and gas heaters indoors
+  - Unvented fuel heaters put every combustion product into your room. Crack a window or door while they run, never run one while you sleep or leave it unattended, and keep a carbon monoxide alarm nearby.
+  - Use only the fuel the maker names (clear 1-K kerosene). Even a trace of petrol in kerosene can explode; never store kerosene in a container that has held petrol.
+  - **Never heat a room with a gas oven or hob**, a charcoal grill, a camp stove or a generator. They are the usual cause of carbon monoxide deaths in power cuts.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Chimney fire
+    sections: [Causes, Prevention and suppression]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Wood-burning stove
+    sections: [Operation, Fuel, Safety and pollution considerations]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Space heater
+    sections: [Safety]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Kerosene heater
+    sections: [Safety hazards]
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "17"
+    heading: "Winter storm (FEMA, Are You Ready?)"
+related: [carbon-monoxide, extinguishers, staying-warm-indoors, firecraft]

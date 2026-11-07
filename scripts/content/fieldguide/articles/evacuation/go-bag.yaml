@@ -1,0 +1,30 @@
+title: "The go-bag: an emergency supply kit you can carry"
+summary: What to pack for 72 hours away from home, where to keep it, and how often to check it.
+keywords: [go bag, bug-out bag, emergency supply kit, 72 hours, evacuation kit, checklist]
+procedure: |
+  ### The basics (per person, for three days)
+  - Water: 4 litres (1 US gallon) per day, or a filter plus purification tablets for longer trips.
+  - Non-perishable food you will actually eat and a manual can opener.
+  - Battery or hand-crank radio that receives weather alerts; torch; spare batteries; a whistle.
+  - First aid kit, prescription medicines for at least a week, spare glasses, any medical devices and their power.
+  - N95 or better dust masks, plastic sheeting and duct tape (for sheltering in place), moist towelettes, rubbish bags and ties, soap and hand sanitiser.
+  - Wrench or pliers to turn off utilities, a local paper map, phone chargers and a power bank, cash in small notes.
+  - Copies of ID, insurance, bank and medical records in a waterproof pouch (or encrypted on a drive), emergency contact card.
+  - A change of clothes, sturdy shoes, a warm layer, sleeping bag or blanket, rain gear. Add infant formula, nappies, pet food and a lead as needed.
+  ### Where and when
+  1. Keep the main bag by the exit you would use, a smaller one in the car, and basics at work. Everyone in the house should know where it is.
+  2. Check it every six months: rotate water and food, update documents and medicines, swap clothes for the season, test the torch and radio.
+  3. Grab it and leave when told to evacuate; do not pack at the last minute.
+sources:
+  - kind: pdf
+    document: ready-supply-kit-checklist
+    pages: "1-2"
+    heading: "Emergency supply list (Ready.gov)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "20-21"
+    heading: "Gather emergency supplies (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Bug-out bag
+related: [storing-water, family-communication-plan, shelter-in-place]

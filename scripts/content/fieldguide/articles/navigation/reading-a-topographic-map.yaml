@@ -1,0 +1,36 @@
+title: "Reading a topographic map"
+summary: Contour lines turn a flat sheet into hills, valleys and cliffs; learn five shapes and the margin, and you can see the ground before you walk it.
+keywords: [topographic map, contour lines, contour interval, map scale, map legend, terrain features, ridge, saddle, draw, spur]
+procedure: |
+  ### Start in the margin
+  1. Find the **scale** (1:24,000 or 1:25,000 means 1 cm on paper is 240 or 250 m on the ground; 1:50,000 is 500 m), the **contour interval** (the height between adjacent lines, in metres or feet), the legend of symbols, the date, and the **declination diagram** for your compass.
+  2. Grid lines run north-south and east-west; the top of the sheet is north. Roads, rails, power lines, streams and buildings are the features most likely to have changed since the map was printed; the hills have not.
+  ### Contour lines
+  - Every point on a contour line is at the same height. Every fifth line is heavier and numbered: the **index contour**. Count intermediate lines up or down from it, one interval each, to find any point's height.
+  - **Close together is steep, far apart is gentle.** Evenly spaced lines are a uniform slope; lines bunched at the top and spreading below are a concave slope you can see all the way down; lines spread at the top and bunched below are a convex slope that hides what is beneath.
+  ### The five major shapes
+  - **Hill**: closed rings; the smallest ring is the top.
+  - **Saddle**: an hourglass between two highs; the low pass you cross from one valley to the next.
+  - **Valley**: U or V lines whose closed end **points uphill**, toward the source of the water. Water flows out of the open end.
+  - **Ridge**: U or V lines whose closed end **points downhill**, away from the high ground.
+  - **Depression**: a closed ring with tick marks pointing in, toward the low ground.
+  - Smaller: a **draw** (a small valley, V pointing uphill), a **spur** (a small ridge off a ridge, V pointing downhill), a **cliff** (lines running together or touching, sometimes with ticks). Cuts and fills along roads show as lines with ticks.
+  ### Make the land stand out
+  1. Trace the ridgelines in one colour and the streams in another. The high ground and the drainage then read at a glance and you can choose a route that follows terrain instead of fighting it: along a valley floor or just below a ridge crest, not straight across the grain.
+  2. Plan **checkpoints** where your route crosses something you cannot miss: a stream, a road, a ridge, a change of at least two contour intervals. Mark where you must change direction.
+  3. Use a **handrail** (a stream, road or ridge running your way) to walk fast without the compass, a **catching feature** beyond your target to tell you when you have gone too far, and an **attack point** within about 500 metres of a small target from which you navigate precisely by compass and pace.
+  4. Describe any feature by SOSES: shape, orientation, size, elevation, slope. Match those five against the ground in front of you before you believe you know where you are.
+sources:
+  - kind: pdf
+    document: fm-3-25-26-map-reading-land-navigation
+    pages: "107-121"
+    heading: "Elevation and relief (FM 3-25.26, chapter 10)"
+  - kind: pdf
+    document: fm-3-25-26-map-reading-land-navigation
+    pages: "136-140"
+    heading: "Route planning, terrain association and handrails (FM 3-25.26, chapter 11)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Topographic map
+    sections: [Conventions]
+related: [map-and-compass, pace-count-and-dead-reckoning, offlinevault-offline-map, finding-water]

@@ -1,0 +1,94 @@
+{
+  "_licence": "Original CC0 checklists written for OfflineVault. Each item carries a library search so the user verifies against FEMA/CDC/Army sources in their own library; nothing here is medical advice.",
+  "scenarios": [
+    {"id": "grid-down", "title": "Grid down (power outage, days+)", "icon": "bolt.slash", "summary": "First 24 hours when the power is out and may stay out.",
+     "sections": [
+       {"title": "First hour", "items": [
+         {"text": "Check on household members, neighbours with medical needs, and anyone on powered equipment (oxygen, CPAP).", "query": "power outage medical equipment plan"},
+         {"text": "Unplug sensitive electronics; leave one lamp switched on so you notice restoration.", "query": "power outage surge protect appliances"},
+         {"text": "Keep fridge and freezer closed: a full freezer holds about 48 hours, half-full about 24. Group food together.", "query": "food safety power outage refrigerator freezer hours"},
+         {"text": "Never run a generator, grill or camp stove indoors or in a garage — carbon monoxide kills silently.", "query": "generator carbon monoxide indoors"}]},
+       {"title": "First day", "items": [
+         {"text": "Fill bathtubs and containers with water while pressure lasts; pumps may stop.", "query": "emergency water storage per person per day"},
+         {"text": "Set up a single warm (or cool) room; insulate windows with blankets; layer clothing.", "query": "stay warm without power insulation"},
+         {"text": "Charge phones from the car (engine outside, exhaust clear) and switch to battery-saver.", "query": "charge devices car power outage"},
+         {"text": "Tune a battery or hand-crank radio to NOAA Weather Radio (162.400–162.550 MHz) for official updates.", "query": "NOAA weather radio frequencies"}]},
+       {"title": "Watch for", "items": [
+         {"text": "Food above 4 °C (40 °F) for more than 2 hours: discard. When in doubt, throw it out.", "query": "when to discard refrigerated food temperature"},
+         {"text": "Carbon monoxide symptoms: headache, dizziness, nausea, confusion — get everyone outside.", "query": "carbon monoxide poisoning symptoms"}]}]},
+    {"id": "water", "title": "No safe water", "icon": "drop", "summary": "Boil-water notice, failed well, or no mains supply.",
+     "sections": [
+       {"title": "Make water safe", "items": [
+         {"text": "Boil: rolling boil for 1 minute (3 minutes above 2,000 m / 6,500 ft). Let cool; improve taste by pouring between containers.", "query": "boil water one minute altitude"},
+         {"text": "If you cannot boil: unscented household bleach (5–9 %): 8 drops (about 1/8 teaspoon) per gallon of clear water; double for cloudy water; stir and wait 30 minutes. Faint chlorine smell expected.", "query": "bleach drops per gallon disinfect water"},
+         {"text": "Filter cloudy water through cloth or a coffee filter first; a 0.2-micron filter removes bacteria and protozoa but not viruses.", "query": "water filter viruses bacteria protozoa micron"},
+         {"text": "Water heater tank and toilet tanks (not bowls) are emergency sources; avoid water near latrines or downstream of livestock.", "query": "emergency water sources water heater"}]},
+       {"title": "How much", "items": [
+         {"text": "Plan at least 1 gallon (4 litres) per person per day: half for drinking, half for hygiene. More in heat, for children, nursing mothers and the sick.", "query": "gallon per person per day water storage"}]},
+       {"title": "Watch for", "items": [
+         {"text": "Diarrhoea and vomiting: start oral rehydration early — clean water with 6 level teaspoons sugar and ½ level teaspoon salt per litre.", "query": "oral rehydration solution sugar salt litre"}]}]},
+    {"id": "wildfire", "title": "Wildfire nearby", "icon": "flame", "summary": "Smoke, evacuation warnings, or flames within sight.",
+     "sections": [
+       {"title": "Now", "items": [
+         {"text": "If told to evacuate, go immediately. Roads close fast and smoke blinds. Do not wait for flames.", "query": "wildfire evacuation order leave early"},
+         {"text": "Grab the go-bag, medications, documents, pets. Wear long sleeves, closed shoes, an N95 if you have one.", "query": "wildfire go bag checklist"},
+         {"text": "Before leaving: close windows and doors, shut off gas at the meter, leave lights on, move propane tanks away from the house.", "query": "prepare home before wildfire evacuation shut off gas"}]},
+       {"title": "If trapped", "items": [
+         {"text": "In a vehicle: park away from vegetation, close windows and vents, lie on the floor under a blanket, engine running, lights on.", "query": "trapped in car wildfire"},
+         {"text": "Smoke exposure: stay low, breathe through a damp cloth, get into a closed room with filtered air if sheltering.", "query": "wildfire smoke protect indoor air"}]}]},
+    {"id": "hurricane", "title": "Hurricane or severe storm", "icon": "hurricane", "summary": "From the watch through the first day after landfall.",
+     "sections": [
+       {"title": "Before", "items": [
+         {"text": "Know your evacuation zone and route. Leave if ordered or if you live in a mobile home or flood zone.", "query": "hurricane evacuation zone"},
+         {"text": "Water: 1 gallon per person per day for at least 3 days; fill the bathtub for flushing and washing.", "query": "hurricane water supply days"},
+         {"text": "Fuel vehicles, charge everything, withdraw cash, freeze water bottles to keep food cold and as drinking water later.", "query": "hurricane preparation checklist"}]},
+       {"title": "During", "items": [
+         {"text": "Stay in an interior room away from windows; the lull in the middle may be the eye — the storm returns from the other side.", "query": "hurricane eye calm storm returns"},
+         {"text": "Never walk or drive through flood water: 15 cm (6 in) of moving water knocks you down, 60 cm (2 ft) floats a car.", "query": "flood water depth car float turn around"}]},
+       {"title": "After", "items": [
+         {"text": "Treat all downed lines as live. Avoid standing water that may hide lines, sewage or debris.", "query": "downed power lines after storm"},
+         {"text": "Do not drink tap water until authorities say it is safe; see the No safe water card.", "query": "boil water notice after hurricane"}]}]},
+    {"id": "earthquake", "title": "Earthquake", "icon": "waveform.path.ecg", "summary": "During the shaking and the hours after.",
+     "sections": [
+       {"title": "During", "items": [
+         {"text": "Drop, Cover, Hold On. Under a sturdy table if possible; protect head and neck. Do not run outside while shaking.", "query": "drop cover hold on earthquake"},
+         {"text": "In bed: stay there, cover your head with a pillow. Outdoors: move away from buildings, trees and lines.", "query": "earthquake safety outdoors in bed"}]},
+       {"title": "After", "items": [
+         {"text": "Expect aftershocks. Check for injuries, then gas leaks (smell, hissing): shut off the gas only if you suspect a leak, and do not turn it back on yourself.", "query": "earthquake gas leak shut off valve"},
+         {"text": "Check water lines and chimneys; put on sturdy shoes — broken glass is the most common injury.", "query": "earthquake after check damage shoes glass"},
+         {"text": "Near the coast and the quake was long or strong: move inland or uphill immediately for tsunami risk.", "query": "earthquake tsunami evacuate coast"}]}]},
+    {"id": "bleeding", "title": "Severe bleeding", "icon": "cross.case", "summary": "Life-threatening bleeding from a limb or trunk wound. Read the cited manual while acting.",
+     "sections": [
+       {"title": "Act now", "items": [
+         {"text": "Call for help if any service exists. Expose the wound. Apply firm, direct pressure with a clean dressing using both hands; do not let up to check.", "query": "control bleeding direct pressure dressing"},
+         {"text": "Limb bleeding that direct pressure cannot stop: tourniquet 5–8 cm (2–3 in) above the wound, not over a joint, tightened until bleeding stops. Write the time on it. Never loosen it in the field.", "query": "apply tourniquet above wound time"},
+         {"text": "Trunk, neck or groin wounds: pack the wound with gauze or clean cloth and hold firm pressure.", "query": "wound packing pressure junctional"}]},
+       {"title": "Then", "items": [
+         {"text": "Treat for shock: lie the person down, keep them warm, raise legs if no spinal or leg injury, nothing by mouth.", "query": "treat for shock keep warm"},
+         {"text": "Watch for pale, cold, clammy skin, fast weak pulse, confusion — shock is worsening; evacuate if at all possible.", "query": "signs of shock pulse skin confusion"}]}]},
+    {"id": "hypothermia", "title": "Hypothermia and cold exposure", "icon": "thermometer.snowflake", "summary": "Someone is cold, shivering or confused after exposure.",
+     "sections": [
+       {"title": "Act now", "items": [
+         {"text": "Get out of wind and wet. Remove wet clothing, insulate from the ground, cover head and neck.", "query": "hypothermia remove wet clothing insulate ground"},
+         {"text": "Warm the trunk first with dry blankets and body heat; warm sweet drinks only if the person is fully alert. No alcohol.", "query": "hypothermia rewarming trunk warm drinks alcohol"},
+         {"text": "Severe (no shivering, confused, drowsy): handle gently and horizontally, rough movement can stop the heart. Get medical help.", "query": "severe hypothermia handle gently cardiac"}]},
+       {"title": "Frostbite", "items": [
+         {"text": "Do not rub. Rewarm in water around 37–39 °C (98–102 °F) only if there is no chance of refreezing; protect blisters.", "query": "frostbite rewarm water temperature do not rub"}]}]},
+    {"id": "nuclear", "title": "Nuclear or radiological event", "icon": "radiowaves.right", "summary": "Detonation or fallout warning. Time, distance, shielding.",
+     "sections": [
+       {"title": "First minutes", "items": [
+         {"text": "Get inside the most robust building you can reach within minutes; go to a basement or the centre of a large building, away from roof and outer walls.", "query": "nuclear fallout shelter get inside basement"},
+         {"text": "Remove outer clothing (removes up to 90 % of contamination), bag it, shower or wipe exposed skin; do not scrub or use conditioner.", "query": "fallout decontamination remove clothing shower"}]},
+       {"title": "First days", "items": [
+         {"text": "Stay inside at least 24 hours unless told otherwise; fallout radiation drops sharply in the first day. Use stored water and sealed food.", "query": "fallout stay inside 24 hours radiation decay"},
+         {"text": "Potassium iodide protects only the thyroid and only from radioactive iodine; take it only when authorities advise.", "query": "potassium iodide when to take authorities"}]}]},
+    {"id": "go-bag", "title": "Go-bag and 72-hour kit", "icon": "backpack", "summary": "What to have ready to leave in ten minutes.",
+     "sections": [
+       {"title": "Per person", "items": [
+         {"text": "Water (1 gallon/day for 3 days) or a filter plus bottles; 3 days of no-cook food; manual can opener.", "query": "emergency supply kit water food three days"},
+         {"text": "Medications for 7 days, copies of prescriptions, glasses, first-aid kit, N95 masks, hand sanitiser.", "query": "emergency kit medications prescriptions first aid"},
+         {"text": "Flashlight, battery/crank radio (NOAA), spare batteries, power bank, whistle, multi-tool, duct tape, local paper maps.", "query": "emergency kit flashlight radio whistle maps"},
+         {"text": "Documents on paper and on an encrypted drive: ID, insurance, bank, medical, pet records, photos of the house contents. Cash in small bills.", "query": "emergency documents copies cash"},
+         {"text": "Warm layer, rain shell, sturdy shoes, blanket, change of clothes; infant and pet supplies if needed.", "query": "emergency kit clothing blanket infant pet"}]}]}
+  ]
+}

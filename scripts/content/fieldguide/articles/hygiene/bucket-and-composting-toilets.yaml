@@ -1,0 +1,29 @@
+title: "Bucket and composting toilets"
+summary: A lined bucket with a scoop of sawdust after every use is a safe indoor toilet for weeks; a composting toilet is the same idea built to run for years.
+keywords: [bucket toilet, emergency toilet, twin bucket, composting toilet, sawdust toilet, no flush, cover material, humanure]
+procedure: |
+  ### The emergency bucket toilet
+  1. Take a sturdy 20-litre (5-gallon) bucket, fit a snap-on toilet seat or set it under a chair with the seat cut out, and **line it with a heavy plastic bag**. Put a layer of dry material in the bottom (sawdust, shredded newspaper, dry leaves, straw) so it empties cleanly. Fix the bucket so it cannot tip; a spilled bucket is the worst outcome.
+  2. **Two buckets are better than one.** Use one for urine and one for solids. Urine is most of the volume and most of the smell; kept separate it can be poured onto a soakage pit or bare ground well away from any water source, and the solids bucket stays drier, lighter and far less offensive.
+  3. **After every use, cover the deposit** with a scoop of sawdust, wood ash, finely crushed charcoal, dry soil or shredded paper. Cover material is what stops smell, keeps flies off and makes the contents safe to handle. Keep the lid on between uses.
+  4. **Empty before it is heavy**: when full or when it smells, roughly weekly per person for a 20-litre bucket. Tie the bag with a knot, put it in a second bag, and store it closed and out of the sun until it can be disposed of. Where the council says so, double or triple bagged waste can go in the rubbish like cat litter. Otherwise bury it well away from water and food gardens, or burn it as FM 21-10 describes for pail latrines. Wash the bucket after each emptying and wash your hands.
+  5. An open bucket with no liner and no cover material protects nobody: flies get in, it tips, and emptying spreads germs. The lid, the liner, the cover material and the handwashing are the whole system.
+  ### Composting toilets
+  6. A composting toilet is a seat over a chamber that is **ventilated** (air drawn from the room through the chamber and out a pipe above the roof), **drained** of excess liquid or built with urine diversion, and fitted with an **access door** for removing finished compost. It keeps waste above ground in a sealed vault, so unlike a pit it cannot pollute groundwater and can be used where pits are impossible.
+  7. Composting needs oxygen, moisture of about 45 to 70 percent (damp, a drop or two when squeezed), warmth (ideally 40 to 50 °C) and enough carbon. Human waste is too wet and too rich in nitrogen on its own, so **add bulking material with every use**: wood chips, bark, sawdust, dry leaves, ash or torn paper. Without it the pile packs down, goes airless and stinks. Divert urine if the design allows; ammonia stalls the microbes. Some units need stirring or an aerator rake now and then.
+  8. Finished output is about a tenth of what went in. Hot, active composting takes months; cold composting takes years. Remove it through the access door as the maker directs.
+  > Do not put bucket contents or a few months of toilet compost on vegetable beds. Pathogens and especially worm eggs survive a long time, and the same material that is safe as a buried, covered deposit is not safe on food.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Bucket toilet
+    sections: [Applications, Usage and maintenance, Health aspects]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Composting toilet
+    sections: [Basics, Design considerations, Maintenance]
+  - kind: pdf
+    document: army-fm-21-10-field-hygiene
+    pages: "42"
+    heading: "Pail latrine and urine disposal facilities (FM 21-10, chapter 6)"
+related: [latrines-and-human-waste, handwashing-with-scarce-water, garbage-flies-and-rodents]

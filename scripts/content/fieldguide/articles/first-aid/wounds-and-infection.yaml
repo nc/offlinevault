@@ -1,0 +1,31 @@
+title: "Wounds and infection"
+summary: Clean water in quantity, a clean dressing and daily inspection prevent most wound infections; know the signs that one has started and what to do when it does.
+keywords: [wound care, cut, laceration, irrigation, wound cleaning, infection signs, cellulitis, pus, butterfly strips, tetanus]
+procedure: |
+  1. **Stop the bleeding first** (see Stopping severe bleeding). Then wash your own hands with soap, and wear gloves if you have them. Every wound is contaminated from the moment it happens; your job is to keep more germs out and to let the body heal.
+  2. **Clean the wound by irrigation.** Flush it with a steady stream of clean water, from a syringe, a squeezed bottle or a bag with a hole, using plenty (a guide is 50 to 100 ml per centimetre of wound). Clean drinking water works as well as saline. Pick out visible dirt, grit and fragments with clean tweezers. Clean the skin around the wound. **Do not pour neat iodine, chlorhexidine or hydrogen peroxide into the wound**; they kill tissue and slow healing.
+  3. **Decide whether to close it.** Most wounds, even large ones, heal well without stitches. A fresh, clean cut whose edges meet can be held together with butterfly strips or strips of half-inch tape: dry the skin, pinch the edges together, apply strips that extend 1-1/2 to 2 inches either side with half-inch gaps between them, starting at the ends and working towards the middle. **Leave open**: dirty or infected wounds, wounds still bleeding inside, deep crush wounds, animal or human bites, and anything more than 8 hours old (never close one over 24 hours old). An open wound heals from the bottom up; it takes longer but is far safer. Suturing by an inexperienced person causes complications and is a last resort.
+  4. **Dress it** with a sterile dressing or the cleanest non-fluffy cloth you have, and bandage firmly but not tightly. Change the dressing daily, or whenever it is wet or dirty, and look at the wound each time. Keep the part raised when you can. Closed edges need about ten days of being held together.
+  5. **Know the signs of infection:** increasing pain, swelling, heat and redness around the wound, stiffness, pus on the wound or dressing, a foul smell, swollen glands nearby, or a temperature of 100 °F (37.8 °C) or more a day or two after the injury. In normal healing, pain, swelling, heat and redness all **decrease** noticeably by the second or third day. If they increase instead, it is infected.
+  6. **If a wound is infected:** open the closure or any crust so pus can drain, irrigate with saline or water boiled and cooled, then apply moist heat over a dry dressing for 30 minutes three or four times a day. Change draining dressings often and keep the part elevated. Oral antibiotics are for infected wounds and for major, heavily contaminated ones; get a prescriber involved rather than guessing.
+  7. **Cellulitis** is infection spreading in the skin: a hot, red, painful area that grows, sometimes with fever. It needs antibiotics (a penicillinase-resistant penicillin or a first-generation cephalosporin is the usual choice) and elevation. Any abscess (a tender pus-filled lump) needs draining. Pain out of proportion to what you see, or skin turning dusky or black, suggests necrotising fasciitis, which is a surgical emergency.
+  8. **Puncture wounds and bites** carry germs deep and infect most often; wash and flush them thoroughly, do not close them, and ask about a tetanus booster.
+  > Get medical help for wounds that gape, go deep into muscle or a joint, involve the face, hands or genitals, have something stuck in them, or show any sign of infection. The Ship's Medicine Chest text below covers cleaning, closure and infection in detail.
+sources:
+  - kind: pdf
+    document: usphs-ships-medicine-chest-2003
+    pages: "64-65"
+    heading: "Infection control, signs of infection, treatment of wounds and methods of closure (Ship's Medicine Chest, chapter 1)"
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "21"
+    heading: "All wounds are contaminated: dress and bandage promptly (FM 4-25.11, chapter 2)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Wound
+    sections: [Classification, Management]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Cellulitis
+    sections: [Signs and symptoms, Treatment]
+related: [bleeding-control, burns, bites-and-stings, shock]

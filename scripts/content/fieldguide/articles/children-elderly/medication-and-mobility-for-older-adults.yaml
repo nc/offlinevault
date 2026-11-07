@@ -1,0 +1,33 @@
+title: "Medication and mobility for older adults"
+summary: A week of medicines, a written list, backup power for devices, and a plan for stairs and falls keep an older person safe through an outage or an evacuation.
+keywords: [older adults, elderly, medication list, prescription supply, mobility aid, walker, falls, power-dependent medical equipment]
+procedure: |
+  1. Keep at least a week of every regular medicine in the kit, with a written list of drugs, doses, conditions, allergies and doctors, copies of prescriptions, spare glasses, hearing-aid batteries, denture items, inhalers and any special foods. Rotate the stock before it expires.
+  2. Many older people take several medicines, and every added drug raises the chance of side effects, interactions and falls. In a crisis keep the routine: the same drugs at the same times. Do not stop or double up without advice, and if supplies run short ask a pharmacist or doctor which ones cannot be missed.
+  3. Refrigerated medicines: keep a thermometer in the fridge, and if the power is out for more than a day discard them unless the label says otherwise, then plan how to replace them.
+  4. List everything that runs on electricity: oxygen concentrators, CPAP machines, powered wheelchairs, stair lifts, nebulisers. Arrange batteries, a car charger or a generator run outdoors, and a relocation plan for anyone whose equipment keeps them alive.
+  5. Mobility: half of people over 85 have trouble walking, climbing stairs or rising from a chair. Keep the cane, walker or wheelchair by the exit with the kit, add a bright torch (an older eye needs about three times the light of a young one), and remember that wet tiles are the floor most likely to cause a fall. Decide who helps on the stairs when the lift stops and how the person gets to a vehicle or shelter.
+  6. Heat and cold hit older people first, and their dehydration shows as tiredness rather than thirst. Check on them, keep them drinking, and move them somewhere warm or cool early.
+  7. Keep them doing what they can do, with supervision if needed, rather than taking over. Independence preserves function and morale, and losing it is what older adults fear most.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Elderly care
+    sections: [Promoting independence, Improving physical mobility, Improving personal mobility]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Polypharmacy
+    sections: [Risks of polypharmacy]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Dehydration
+    sections: [Signs and symptoms]
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "14-15"
+    heading: "Power outage: medical equipment, charging and refrigerated medicines (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "17"
+    heading: "Emergency supply kit: items for seniors and people with medical needs (NWS)"
+related: [staying-warm-indoors, winter-storm-and-extreme-heat, evacuation-planning, go-bag]

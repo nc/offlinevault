@@ -1,0 +1,41 @@
+# Xcode / SwiftPM, plus scripts/release.sh output under build/release
+.build/
+DerivedData/
+/build/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+.swiftpm/
+Core/.build/
+Core/Package.resolved
+# Bundled helper binaries (fetched by scripts/fetch_binaries.sh)
+OfflineVault/Resources/bin/*
+!OfflineVault/Resources/bin/README.md
+# Map web assets (fetched by scripts/fetch_web_assets.sh)
+OfflineVault/Resources/web/*
+!OfflineVault/Resources/web/map.html
+!OfflineVault/Resources/web/README.md
+# Generated fixture server content (scripts/make_fixture_server.sh)
+fixture/out/
+fixture/cache/
+fixture/.venv/
+# Local dev libraries created while testing
+LibraryDev/
+.DS_Store
+publish-test/
+/content/
+.wrangler/
+.env
+**/.env
+scripts/content/.venv/
+__pycache__/
+
+# Content publisher: venv symlink, source cache, per-run reports, dry-run output
+scripts/content/.venv
+scripts/content/reports/*
+!scripts/content/reports/latest.json
+
+# ovsync editable install metadata
+*.egg-info/
+.agents/
+.claude/skills/

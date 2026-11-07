@@ -1,0 +1,457 @@
+[
+ {
+  "id": "first-aid-burn-hand",
+  "question": "burned my hand on the stove what do i put on it",
+  "gold": "burns",
+  "mustLead": false,
+  "passages": [
+   {
+    "keywords": [
+     "camp stove",
+     "camping stove",
+     "cooking without power",
+     "canister stove",
+     "propane grill",
+     "charcoal grill indoors",
+     "carbon monoxide stove"
+    ],
+    "label": 1,
+    "slug": "camp-stove-cooking",
+    "text": "1. Outdoors only. Camp stoves, charcoal and gas grills and propane patio heaters stay outside, at least 6 metres (20 ft) from windows, doors and vents, with any exhaust pointing away. Not in the garage with the door open, not on a covered porch, not in a tent or caravan awning. Carbon monoxide is odourless; headache, dizziness and nausea in several people at once is the warning.\n2. Set the stove on a level, stable, non-flammable surface clear of dry grass, overhanging branches and tent fabric. Keep a lid, a bucket of water or a fire blanket in reach.\n3. Canister (butane or propane) stoves: screw the canister on in the open air with the valve shut, listen and smell for a leak before lighting, and have the match or lighter ready before you open the gas. Change canisters outdoors away from any flame, and never put a spent one in a fire.\n4. Liquid-fuel (white gas, petrol, kerosene) stoves: fill and prime only when the stove is cold and away from other flames; expect a brief flare while priming. Wipe up spills before lighting. Never refuel a hot stove.\n5. Alcohol stoves burn with a nearly invisible flame in daylight; assume a stove is lit until it is cool. Do not refill until you are sure it is out.\n6. Keep children and pets back, turn pot handles inward, and never leave a lit stove. Let it cool fully before packing.\n7. Store fuel outside the living space, upright, capped and away from heat.\nThe temptation in a power cut is to bring the camp stove or grill inside \"just for ten minutes\". People die that way every winter. A cold meal is safer.",
+    "title": "Cooking safely on camp stoves and grills"
+   },
+   {
+    "keywords": [
+     "burn",
+     "scald",
+     "cool running water",
+     "blister",
+     "dressing",
+     "thermal injury"
+    ],
+    "label": 2,
+    "slug": "burns",
+    "text": "Get medical care for\nAny burn larger than the person's palm, any deep burn (white, leathery or painless), burns to the face, hands, feet, genitals or across a joint, all chemical and electrical burns, any burn in a child, an older adult or a pregnant woman, and any smoke inhalation.",
+    "title": "Burns and scalds"
+   },
+   {
+    "keywords": [
+     "firecraft",
+     "start a fire",
+     "tinder",
+     "kindling",
+     "ferro rod",
+     "fire lay",
+     "campfire safety",
+     "put out a campfire"
+    ],
+    "label": 3,
+    "slug": "firecraft",
+    "text": "Bank the coals under ash to keep them alive overnight. Never leave a fire unattended.\nTo put it out: douse with plenty of water until the hissing stops, stir the ashes, add more water, and check that everything is cold to the touch. Where water is short, smother with sand or soil and then wet it. Never bury hot coals; they smoulder in roots for days.\nFire in a closed shelter makes carbon monoxide. Always leave a vent, and never sleep with a fire or stove burning in an unvented space.",
+    "title": "Firecraft: building and lighting a fire that stays lit"
+   }
+  ]
+ },
+ {
+  "id": "hazards-tornado-where-in-house",
+  "question": "tornado warning just went off, no basement in our house, where do we go",
+  "gold": "tornado",
+  "mustLead": false,
+  "passages": [
+   {
+    "keywords": [
+     "tornado",
+     "tornado warning",
+     "tornado watch",
+     "safe room",
+     "storm cellar",
+     "mobile home",
+     "funnel cloud"
+    ],
+    "label": 1,
+    "slug": "tornado",
+    "text": "1. A watch means tornadoes are possible: stay close to a sturdy building and keep NOAA Weather Radio or local broadcasts on. A warning means one is occurring or minutes away: take shelter at once.\n2. Know the signs, because some tornadoes form too fast to warn: a rotating funnel, an approaching cloud of debris, large hail, a dark and often greenish sky, or a roar like a freight train.\n3. Best shelter: an underground shelter, a basement or storm cellar, or a safe room built to FEMA P-361 or ICC 500. Next best: a small, windowless interior room or hallway on the lowest floor, with as many walls as possible between you and outside. Get under something sturdy, cover your head and neck, and wear a helmet if one is to hand. Leave the windows shut; opening them does nothing.\n4. Mobile homes are not safe, even tied down. Leave for the nearest sturdy building now, and decide before the season which building that is.",
+    "title": "Tornado: where to shelter in the seconds you have"
+   },
+   {
+    "keywords": [
+     "NOAA weather radio",
+     "weather radio",
+     "SAME code",
+     "Emergency Alert System",
+     "EAS",
+     "Wireless Emergency Alerts",
+     "WEA",
+     "tornado warning",
+     "watch versus warning",
+     "hand crank radio"
+    ],
+    "label": 2,
+    "slug": "weather-radio-and-alerts",
+    "text": "3. The station tests the alarm weekly, normally on Wednesday late morning, postponed in bad weather. If the test does not sound, check the batteries and the channel.\n4. Learn the words. A watch means conditions favour the hazard: stay alert and check the sky. A warning means it is happening or imminent: act now.\n5. Hand-crank and solar radios that cover the weather band plus AM/FM belong in every go-bag; a car radio works while there is fuel.\nEmergency Alert System\nThe screeching tones on radio and TV are the EAS, relayed by every broadcaster and cable system. The same data bursts drive weather radio alarms. It carries weather warnings, civil emergencies and Amber alerts, and it only reaches you while you are tuned in and the station is on the air.\nWireless Emergency Alerts on phones\nWEA messages come by cell broadcast to every phone on a tower, free, with their own alarm tone even when the ringer is off. They cover tornado, flash flood, hurricane, extreme wind, tsunami and destructive thunderstorm warnings, Amber alerts and local emergencies. You can switch off most categories in the phone's settings; National Alerts cannot be disabled. Leave them on. They need a working tower and a charged phone, which is exactly what you may not have.\nElsewhere\nOutside the United States, find your national weather service's warning channel (broadcast radio, an app, SMS or cell broadcast) and a battery radio that carries it. The watch and warning logic is the same.",
+    "title": "NOAA Weather Radio, EAS and phone alerts"
+   },
+   {
+    "keywords": [
+     "generator safety",
+     "portable generator",
+     "backfeed",
+     "transfer switch",
+     "inverter generator",
+     "generator carbon monoxide",
+     "extension cord"
+    ],
+    "label": 3,
+    "slug": "generator-safety",
+    "text": "Placement\n1. Run it outdoors only, at least 6 metres (20 ft) from any window, door or vent, exhaust pointed away from the house and from neighbours. A garage with the door open, a basement, a crawl space, a shed or a porch is not outdoors; opening windows does not make it safe. A 5.5 kW generator makes as much carbon monoxide as six cars.\n2. Fit battery carbon monoxide alarms on each floor and near bedrooms before the first storm. If anyone gets a headache, dizziness or nausea, get everyone into fresh air and call for help.\n…\nConnection\n1. Never plug a generator into a wall outlet. That backfeeds the street and can electrocute the line workers restoring your power, and it is illegal. If you must feed the house wiring, have an electrician fit a transfer switch or interlock, and switch the main breaker off before you start the generator.\n2. Otherwise run heavy-duty, outdoor-rated extension cords straight from the generator to each appliance. Check that the cord's rating covers the load and that it has no cuts.\n…\nFuel and upkeep\nTurn the generator off and let it cool before refuelling; petrol spilled on a hot engine ignites. Store fuel outside the house in approved containers, and rotate it (see the fuel storage article).\nRun it for a few minutes every month, keep spare oil and a spark plug, and keep the manual with it.",
+    "title": "Running a portable generator without hurting anyone"
+   }
+  ]
+ },
+ {
+  "id": "hazards-tick-removal",
+  "question": "tick stuck in my leg, should i burn it off with a match",
+  "gold": null,
+  "mustLead": false,
+  "passages": [
+   {
+    "keywords": [
+     "burn",
+     "scald",
+     "cool running water",
+     "blister",
+     "dressing",
+     "thermal injury"
+    ],
+    "label": 1,
+    "slug": "burns",
+    "text": "1. Stop the burning: get the person away from the heat, smother flames with a blanket or water, turn off electricity before touching an electrical casualty, brush off dry chemicals then flood with water.\n2. Cool the burn under cool (not iced) running water for 20 minutes. This works for up to three hours after the injury. Keep the rest of the body warm.\n3. Remove rings, watches and clothing near the burn before it swells, but leave anything stuck to the skin.\n4. Cover loosely with cling film laid on (not wrapped), a clean plastic bag, or a clean non-fluffy dressing. No butter, oils, toothpaste or ice.\n5. Do not burst blisters. Give paracetamol or ibuprofen for pain if the person normally takes them.\n6. Watch for shock and treat it (lie down, warm, nothing to drink). Burns around the face, neck or from smoke can swell the airway; get help fast.\nGet medical care for\nAny burn larger than the person's palm, any deep burn (white, leathery or painless), burns to the face, hands, feet, genitals or across a joint, all chemical and electrical burns, any burn in a child, an older adult or a pregnant woman, and any smoke inhalation.",
+    "title": "Burns and scalds"
+   },
+   {
+    "keywords": [
+     "hemorrhage",
+     "haemorrhage",
+     "direct pressure",
+     "pressure dressing",
+     "tourniquet",
+     "wound packing"
+    ],
+    "label": 2,
+    "slug": "bleeding-control",
+    "text": "1. Keep yourself safe (gloves or a plastic bag over your hands), expose the wound and find exactly where the blood is coming from.\n2. Press hard and directly on the bleeding point with a clean dressing, cloth or your hand. Do not lift it to look. Add more cloth on top if it soaks through.\n3. For a deep wound in the arm, leg, neck, armpit or groin, pack gauze or clean cloth tightly into the wound and keep pressing on it.\n4. Hold a pressure dressing in place with a bandage wrapped firmly, then keep checking that it is still working.\n5. If an arm or leg keeps bleeding heavily, apply a tourniquet 5 to 8 cm (2 to 3 inches) above the wound, not over a joint. Tighten until the bleeding stops, then secure it and write the time on the tourniquet or the skin. A belt rarely works; use a commercial tourniquet or a wide cloth band tightened with a stick (windlass).\n6. Do not loosen or remove a tourniquet once it is on; that is for medical staff. Treat for shock, keep the person warm, and get them to care.\nA tourniquet hurts a lot. That is expected and is not a reason to loosen it.",
+    "title": "Stopping severe bleeding: pressure, packing, tourniquet"
+   },
+   {
+    "keywords": [
+     "firecraft",
+     "start a fire",
+     "tinder",
+     "kindling",
+     "ferro rod",
+     "fire lay",
+     "campfire safety",
+     "put out a campfire"
+    ],
+    "label": 3,
+    "slug": "firecraft",
+    "text": "Kindling: pencil to finger thick dry sticks. Dead branches still on the tree are drier than wood lying on the ground.\nFuel: wrist thick and up. Seasoned, non-resinous hardwood burns longest. Gather more than you think you need and keep it dry; dry damp wood beside the fire.\nLay and light\n1. Tepee: a cone of kindling around a fist of tinder; light the centre; it burns even damp wood. Lean-to: a green stick pushed into the ground at 30 degrees pointing into the wind, tinder under it, kindling leaned against it. Pyramid: layers of logs, each at right angles to and smaller than the one below, lit on top; it burns down unattended through the night.\n2. Light from the upwind side. Shield the flame with your body. Feed small pieces as it catches; smothering a young fire with big wood is the usual failure.\n3. Igniters: waterproof matches in a waterproof case with a striker; a lighter; a ferrocerium rod scraped with the back of a knife so the sparks land on tinder laid on a dry leaf; a magnifying lens or binocular lens in bright sun; a battery with two wires touched together over tinder. Flint on carbon steel (not stainless) works with practice. Friction methods (bow drill, fire plough) exhaust you; practise them at home, not in an emergency.\nKeep it, then kill it\n…\nTo put it out: douse with plenty of water until the hissing stops, stir the ashes, add more water, and check that everything is cold to the touch. Where water is short, smother with sand or soil and then wet it. Never bury hot coals; they smoulder in roots for days.\nFire in a closed shelter makes carbon monoxide. Always leave a vent, and never sleep with a fire or stove burning in an unvented space.",
+    "title": "Firecraft: building and lighting a fire that stays lit"
+   }
+  ]
+ },
+ {
+  "id": "hazards-hazmat-shelter-in-place",
+  "question": "chemical plant down the road had an explosion, they said shelter in place. what do i actually do with the house, which room",
+  "gold": "hazmat-and-chemical-release",
+  "mustLead": false,
+  "passages": [
+   {
+    "keywords": [
+     "shelter in place",
+     "seal the room",
+     "interior room",
+     "chemical release",
+     "tornado shelter"
+    ],
+    "label": 1,
+    "slug": "shelter-in-place",
+    "text": "1. Go inside and bring pets. Lock doors, close windows, vents and fireplace dampers. Turn off fans, air conditioning and forced-air heating.\n2. For high winds or tornado: an interior room on the lowest level, away from windows and doors and not subject to flooding; a basement or storm cellar is best. Get under something sturdy and protect your head.\n3. For a chemical or radiological release: choose an interior room above ground with as few windows as possible, and take your emergency supplies, radio and phone. Seal the door, windows and vents with plastic sheeting and duct tape; a damp towel at the door gap helps. Ten square feet of floor per person gives enough air for about five hours.\n4. Listen to local radio, TV or alerts for the all-clear, which for a chemical release comes within hours. When it does, open windows and vents and go outside to air out.\n5. Do not go out to pick children up from school; schools shelter them in place too. Phone or text rather than travel.\nSealing a room is for short chemical events. Never run a generator, stove or heater inside a sealed room.",
+    "title": "Sheltering in place"
+   },
+   {
+    "keywords": [
+     "hurricane",
+     "tropical cyclone",
+     "typhoon",
+     "storm surge",
+     "evacuation zone",
+     "hurricane shutters"
+    ],
+    "label": 2,
+    "slug": "hurricane",
+    "text": "Before the season\n1. Learn whether you live in an evacuation zone. Zones are drawn for storm surge, the rise in sea level that has caused about nine in ten tropical cyclone deaths. Plan to leave if officials say so, if you live in a mobile home or on a floodplain, if your house has no storm strengthening, or if past storms brought surge damage.\n2. Plan both options: a destination and route tens of kilometres inland if you leave, and a small, interior, windowless room on the lowest level that will not flood if you stay.\n3. Gather at least three days of supplies, including medicines and what pets need. Keep documents somewhere safe or as password-protected copies. Buy flood insurance; standard policies do not include it.\n4. Prepare the house for wind and water: clear drains and gutters, fit check valves to stop backups, consider shutters, trim or remove damaged limbs, and check the roof, windows and doors.\nWhen a storm is coming\n1. Track the forecast and expect it to change. Fill the car, charge phones, and if you are leaving, leave early. If you are not in a zone and not in a mobile home, staying put keeps you out of the gridlock that shadow evacuations cause.\n2. If told to evacuate, go immediately and never drive around barricades.\n3. Public shelters are the last resort. They are first come, first served, built to protect life from wind and water and not always stocked with food, water or bedding, and they usually take only service animals.\nDuring and after\n1. Stay in your safe room through the storm. If flooding traps you, go up, but not into a closed attic.\n2. Afterwards, treat floodwater, downed lines and debris as in Flood, and the house as in Returning home.",
+    "title": "Hurricane and storm surge"
+   }
+  ]
+ },
+ {
+  "id": "first-aid-childbirth-cord",
+  "question": "baby just came out in the car and is crying. what do i do with the cord and the afterbirth",
+  "gold": "emergency-childbirth",
+  "mustLead": false,
+  "passages": [
+   {
+    "keywords": [
+     "infant formula",
+     "breastfeeding",
+     "baby bottle",
+     "powdered formula",
+     "safe water for formula",
+     "sterilise bottles",
+     "Cronobacter"
+    ],
+    "label": 1,
+    "slug": "infant-feeding-without-power",
+    "text": "2. Pack formula, bottles, teats and nappies in the kit; a baby cannot wait for the shops to reopen. Powder has to be made up with water, so when the water is doubtful use ready-to-feed liquid if you have it.\n3. Make up powdered formula only with safe water: bottled, or boiled and cooled (see Boil, bleach, filter). Measure the powder exactly as the tin says. Diluting formula to stretch it starves the baby.\n4. Powder is not sterile and can carry Cronobacter, which is most dangerous to young and premature babies. Without refrigeration, mix each feed fresh and throw away what the baby leaves rather than keeping it.\n…\n6. Nothing else goes in the bottle. Formula and breast milk are the only milks that are nutritionally acceptable under one year; no cow's milk, no watered-down formula, no honey.\n7. A sick or injured baby still needs feeding, and a standard powdered infant formula is the right one if formula is all there is. Keep a parent close; it calms the child.\nWatch for dehydration: fewer wet nappies, a dry mouth and unusual drowsiness. See Fever and dehydration in children.",
+    "title": "Feeding a baby when the power and clean water are off"
+   },
+   {
+    "keywords": [
+     "emergency childbirth",
+     "labour",
+     "labor",
+     "delivery",
+     "crowning",
+     "umbilical cord",
+     "placenta",
+     "breech",
+     "postpartum bleeding",
+     "newborn"
+    ],
+    "label": 2,
+    "slug": "emergency-childbirth",
+    "text": "Is there time to travel?\n…\n2. Set up. Do not let her go to the toilet; straining will deliver the baby there. Lie her on a sturdy bed or table with a folded sheet under her buttocks and a clean surface extending at least 60 cm (2 ft) beyond them, because newborns are very slippery. Remove clothing below the waist, knees bent and apart, drape her legs with clean towels. Wash your hands thoroughly and put on gloves if you have them. Gather clean towels and a blanket, a bulb syringe if there is one, clean scissors or a knife, and clean string, tape or cord clamps. Put nothing into the birth canal.\nThe birth\n…\n2. When the head appears, slow it down. Rest a hand against the head so it emerges gradually rather than popping out. As the head comes, feel for the cord around the neck; slip it over the head or shoulder, and if it is too tight, tie or clamp it in two places 5 cm (2 inches) apart and cut between.\n…\n5. The cord: there is no hurry. When pulsing stops, tie or clamp it 15 to 20 cm (6 to 8 inches) from the baby's navel and again 5 cm further along, cut between, and for safety put a second tie 2.5 cm (1 inch) closer to the navel with a square knot. Clean string or shoelaces work if boiled or at least clean.\nThe placenta and the first hours\n1. The placenta usually delivers itself in 10 to 20 minutes, up to 30: the uterus rises, the cord lengthens and there is a gush of blood. Do not pull on the cord; pulling can turn the uterus inside out and cause fatal bleeding. Gentle massage of the lower abdomen helps. Wrap the placenta and keep it for the hospital to check.\n…\nWhen it goes wrong\n1. Bottom or legs first (breech): support the body as it comes, keep it at or below the level of the birth canal, never pull. If the head has not come within 3 minutes of the body, slide two fingers into the vagina to hold the wall away from the baby's face and open its mouth so it can breathe, and get help urgently. A hand or foot alone: hospital immediately. Cord coming before the baby: cover it with moist clean cloth, put her head down and hips up, and with a gloved hand hold the baby off the cord all the way to hospital. Head out but shoulders stuck (the head pulls back like a turtle): pull her thighs tightly up onto her belly while a helper presses down just above the pubic bone; never yank the head.",
+    "title": "Emergency childbirth"
+   },
+   {
+    "keywords": [
+     "grief",
+     "bereavement",
+     "mourning",
+     "loss",
+     "death of a loved one",
+     "grief support"
+    ],
+    "label": 3,
+    "slug": "grief",
+    "text": "1. Expect grief to be messy and personal rather than a tidy set of stages. It is a long adaptation to living without someone, not a path to \"recovery\" by a date.\n2. Crying is normal. Not crying is also normal and can be a sign of resilience. Laughter, celebrating the person, odd ways of coping, and even a sense of having seen or heard them are common, and most people find them comforting.\n3. Do not press a grieving person to cry, to talk or to retell the loss; forced or excessive retelling can harm. Be there, listen when they want to talk, do not put down their grief or worry, give practical help, and put feelings into perspective gently.",
+    "title": "Grief"
+   }
+  ]
+ },
+ {
+  "id": "shelter-chemical-release-room",
+  "question": "chemical leak at the plant down the road, radio says shelter in place. which room and how do i seal it",
+  "gold": "shelter-in-place",
+  "mustLead": true,
+  "passages": [
+   {
+    "keywords": [
+     "returning home",
+     "after the disaster",
+     "damage inspection",
+     "insurance claim",
+     "boil water notice",
+     "disaster fraud"
+    ],
+    "label": 1,
+    "slug": "returning-home",
+    "text": "1. Go back only when local authorities say it is safe. On the way, watch for washed-out roads, downed lines and debris, and report chemical spills, smouldering insulation, downed wires and dead animals to the authorities.\n2. Outside first. Walk around the building with a torch, never a flame, looking for loose or downed power lines, the smell of gas, floodwater around the building, and structural damage: cracks in walls, doors and windows out of square, a shifted foundation, chimney damage. If you find any of these, or the house had fire damage that no official has inspected, do not go in; ask for a building inspector or structural engineer.\n3. Gas. If you smell gas or hear hissing or blowing, open a window and leave immediately. Only professionals turn the supply back on. No smoking, candles, oil or gas lanterns or flame torches until you are sure there is no leaking gas.\n4. Electricity. Do not touch the electrical system if you are wet, standing in water or unsure. Turn off the main breaker if you can do it safely, unplug wet appliances and let them dry, and have an electrician check the wiring and the appliances before the power goes back on.\n5. Water and food. Expect a boil-water notice and check with the water authority. Fridge food is safe after an outage of up to four hours if the door stayed shut; throw away perishables that have been above 4 °C (40 °F) for more than two hours, anything that touched floodwater or fire, and refrigerated medicines after more than a day without power unless the label says otherwise.\n6. Pump out a flooded basement slowly, about a third of the water a day; walls can collapse and floors buckle if you empty it while the ground outside is still saturated. Open cupboards carefully, and expect mice, rats, snakes and insects that came in with the water.",
+    "title": "Returning home after a disaster"
+   },
+   {
+    "keywords": [
+     "shelter in place",
+     "seal the room",
+     "interior room",
+     "chemical release",
+     "tornado shelter"
+    ],
+    "label": 2,
+    "slug": "shelter-in-place",
+    "text": "1. Go inside and bring pets. Lock doors, close windows, vents and fireplace dampers. Turn off fans, air conditioning and forced-air heating.\n2. For high winds or tornado: an interior room on the lowest level, away from windows and doors and not subject to flooding; a basement or storm cellar is best. Get under something sturdy and protect your head.\n3. For a chemical or radiological release: choose an interior room above ground with as few windows as possible, and take your emergency supplies, radio and phone. Seal the door, windows and vents with plastic sheeting and duct tape; a damp towel at the door gap helps. Ten square feet of floor per person gives enough air for about five hours.\n4. Listen to local radio, TV or alerts for the all-clear, which for a chemical release comes within hours. When it does, open windows and vents and go outside to air out.\n5. Do not go out to pick children up from school; schools shelter them in place too. Phone or text rather than travel.\nSealing a room is for short chemical events. Never run a generator, stove or heater inside a sealed room.",
+    "title": "Sheltering in place"
+   },
+   {
+    "keywords": [
+     "hazmat",
+     "chemical spill",
+     "toxic gas",
+     "chlorine",
+     "ammonia",
+     "decontamination",
+     "upwind",
+     "placard"
+    ],
+    "label": 3,
+    "slug": "hazmat-and-chemical-release",
+    "text": "1. Signs of a release: coloured smoke or mist, oily dark patches on leaves or ground, a strange taste in food or water, sick or dying animals and birds, and in people watering eyes, coughing, choking, dizziness, itching or burning skin. Many agents have no colour or smell, and if you can smell chlorine or ammonia you are already breathing a harmful dose.\n2. Outdoors, leave crosswind first, then upwind, on high ground. Most toxic gases are heavier than air and pool in cellars, ditches, gullies and valleys, and woods and tall grass hold the vapour.\n3. If officials say shelter in place: go inside, shut windows, vents and dampers, turn off fans and air conditioning, and seal an interior room above ground (see Sheltering in place). A chemical plume disperses within hours.\n4. If anything got on you, take off the contaminated clothing away from other people, bag it, and rinse skin and hair with plenty of water and soap. Vapour trapped in cloth keeps gassing off onto whoever stands nearby. For a vapour exposure the first treatment is fresh air.\n5. A wet T-shirt or cloth over the nose and mouth is an escape filter only; it is not protection to stay in.\n6. Breathing trouble can be delayed. Chlorine, ammonia and phosgene (made when solvents, foam plastics and non-stick coatings burn) can swell the airway or fill the lungs hours after the exposure. Anyone with chest tightness or shortness of breath afterwards should rest, avoid exertion and get medical care.\n7. Do not use wood or plants from a contaminated area for fire, food or water. Check water sources for oil films, odd smells and dead fish, and keep food and water covered.\n8. On a tanker or rail car the diamond placard gives the hazard class (flammable, toxic gas, corrosive and so on) and a UN number that responders look up. Read it from a distance; do not approach to read it.",
+    "title": "Hazmat and chemical releases"
+   }
+  ]
+ },
+ {
+  "id": "first-aid-cpr-rate-depth",
+  "question": "doing cpr on my husband how fast and how deep do i push",
+  "gold": "cpr-and-choking",
+  "mustLead": true,
+  "passages": [
+   {
+    "keywords": [
+     "cardiopulmonary resuscitation",
+     "chest compressions",
+     "rescue breaths",
+     "Heimlich",
+     "abdominal thrusts",
+     "back blows",
+     "choking"
+    ],
+    "label": 1,
+    "slug": "cpr-and-choking",
+    "text": "Someone collapses and is not breathing normally\n1. Check for a response and breathing (no more than 10 seconds). Shout for help and have someone call emergency services and fetch a defibrillator (AED) if one exists.\n2. Kneel beside them, heel of one hand on the centre of the chest, other hand on top. Push hard and fast: 5 to 6 cm deep, 100 to 120 per minute, letting the chest come fully back up.\n3. If trained, give 30 compressions then 2 breaths (tilt head, lift chin, pinch nose, one-second breaths that make the chest rise). If not trained or unwilling, do compressions only without stopping.\n4. When an AED arrives, turn it on and follow its voice prompts; keep compressing while the pads go on.\n5. Swap rescuers every two minutes. Stop only when they breathe normally, help takes over, or you cannot continue.\nChoking\n1. If they can cough or speak, encourage coughing and stay with them.\n2. If they cannot breathe, cough or speak: give 5 back blows between the shoulder blades with the heel of your hand, then 5 abdominal thrusts (stand behind, fist just above the navel, pull sharply in and up). Alternate until the object comes out.\n3. For a pregnant or very large person use chest thrusts instead of abdominal thrusts. For an infant under one year, use 5 back blows and 5 chest thrusts with two fingers; never abdominal thrusts.\n4. If they become unresponsive, start CPR. Look in the mouth before each set of breaths and remove anything you can see.",
+    "title": "CPR and choking"
+   },
+   {
+    "keywords": [
+     "recovery position",
+     "unconscious",
+     "airway",
+     "breathing check",
+     "head tilt chin lift",
+     "log roll",
+     "unresponsive but breathing"
+    ],
+    "label": 2,
+    "slug": "airway-and-recovery-position",
+    "text": "3. Check breathing. Put your ear over the mouth and nose, watch the chest, listen for air and feel for it on your cheek, for no more than 10 seconds. Bluish or grey lips and nail beds mean the brain is not getting oxygen; brain cells start dying after 4 to 6 minutes without it.\n4. Not breathing, or only gasping: start CPR now (see CPR and choking).\n5. Breathing, unresponsive, no sign of injury: put them in the recovery position. Kneel beside them, straighten the legs, place the near arm out at a right angle, bring the far arm across the chest, bend the far knee, then roll them towards you so the head, shoulders and body turn together without twisting. Tilt the head back and slightly down so fluid can drain from the mouth, and rest the bent knee on the ground so the position is stable.\n6. The point of the position: on their back, the relaxed tongue falls against the back of the throat, and stomach contents can flow up and into the lungs. On their side, gravity pulls the tongue clear and lets vomit drain out instead of being inhaled.\n7. Keep watching. Check breathing every minute or two until they wake or help arrives. If breathing stops, roll them onto their back and start CPR. If you must leave an unconscious person for a moment, leave them on their side, never on their back.\n8. If injury is possible (unconscious after a fall, crash or head blow), treat them as having a spinal injury: do not move them unless the airway is blocked by vomit or blood, and then roll them as a unit with helpers keeping head, neck and body in a straight line (see Head and spine injuries).",
+    "title": "Airway and the recovery position"
+   },
+   {
+    "keywords": [
+     "burn",
+     "scald",
+     "cool running water",
+     "blister",
+     "dressing",
+     "thermal injury"
+    ],
+    "label": 3,
+    "slug": "burns",
+    "text": "1. Stop the burning: get the person away from the heat, smother flames with a blanket or water, turn off electricity before touching an electrical casualty, brush off dry chemicals then flood with water.\n2. Cool the burn under cool (not iced) running water for 20 minutes. This works for up to three hours after the injury. Keep the rest of the body warm.\n3. Remove rings, watches and clothing near the burn before it swells, but leave anything stuck to the skin.\n4. Cover loosely with cling film laid on (not wrapped), a clean plastic bag, or a clean non-fluffy dressing. No butter, oils, toothpaste or ice.\n5. Do not burst blisters. Give paracetamol or ibuprofen for pain if the person normally takes them.\n6. Watch for shock and treat it (lie down, warm, nothing to drink). Burns around the face, neck or from smoke can swell the airway; get help fast.\nGet medical care for\nAny burn larger than the person's palm, any deep burn (white, leathery or painless), burns to the face, hands, feet, genitals or across a joint, all chemical and electrical burns, any burn in a child, an older adult or a pregnant woman, and any smoke inhalation.",
+    "title": "Burns and scalds"
+   }
+  ]
+ },
+ {
+  "id": "hazards-gas-smell-what-to-do",
+  "question": "smell rotten eggs in the kitchen and theres a hissing noise, what do i do",
+  "gold": "gas-leaks",
+  "mustLead": true,
+  "passages": [
+   {
+    "keywords": [
+     "gas leak",
+     "natural gas",
+     "propane",
+     "rotten egg smell",
+     "gas shut-off valve",
+     "hissing sound"
+    ],
+    "label": 1,
+    "slug": "gas-leaks",
+    "text": "1. Natural gas has no smell of its own; suppliers add an odorant so a leak smells of rotten eggs. Learn now where the gas meter and the main shut-off valve are, and keep the wrench it needs beside it.\n2. If you smell gas or hear hissing or blowing from a pipe or appliance: do not switch anything on or off, do not light anything, and do not use a phone indoors. Open a window if it is on your way, get everyone out, and leave the door open behind you.\n3. Call the gas utility or emergency services from outside, well away from the building, and do not go back in until they say so.\n4. Turn the gas off at the meter only if you can do it safely and you know how. Once it is off, leave it off. Only the utility or a professional should turn the supply back on and relight appliances.\n5. After an earthquake, flood or fire, check for the smell of gas before you go inside. No smoking and no candles, oil or gas lanterns or flame torches for light until you are sure there is no leaking gas or other flammable material.\n6. Bottled propane and butane are odorised the same way. Treat the smell the same way, and keep cylinders outdoors.\nA gas detector does not replace your nose, and carbon monoxide is a different hazard with a different alarm (see Carbon monoxide).",
+    "title": "Gas leaks: smell it, leave, call from outside"
+   },
+   {
+    "keywords": [
+     "backyard chickens",
+     "hens",
+     "chicken coop",
+     "poultry",
+     "bird flu",
+     "salmonella",
+     "predators"
+    ],
+    "label": 2,
+    "slug": "backyard-poultry",
+    "text": "1. A sound coop is the preparation: predator-proof wire mesh, dry, ventilated, with perches and nest boxes, on well-drained ground sheltered from the prevailing wind. Shut the birds in at night; predators take free-ranging birds.\n2. Water first. Excess heat, cold or damp all harm the birds, so check and refill drinkers often, break ice in a freeze and give shade and extra water in heat.\n3. Store feed dry in sealed bins that rodents cannot open. Free-ranging hens find much of their own food, and village hens have lived for months on scavenging and still laid an egg or two a week, so a short gap in bought feed is survivable; expect laying to fall.\n4. Keep wild birds away from the flock's feed and water. Avian influenza passes from wild birds, and a closed run cuts the risk. If several birds die suddenly, report it and do not handle them bare-handed.\n5. Salmonella: wash hands after handling birds, eggs or the coop, keep coop boots and tools out of the house, keep children's hands washed, collect eggs daily and cook them well.\n6. Lead and other metals in soil end up in eggs. Do not site a run beside old painted buildings or on suspect ground.\n7. If you evacuate, a ventilated box carries a few hens; otherwise leave them shut in the coop with as much feed and water as you can set out.\n8. After a wildfire or flood keep the birds penned off burned or flooded ground; ash holds heat pockets and floodwater carries contamination.",
+    "title": "Backyard poultry in an emergency"
+   },
+   {
+    "keywords": [
+     "fuel storage",
+     "gasoline storage",
+     "petrol storage",
+     "fuel stabilizer",
+     "fuel stabiliser",
+     "propane cylinder",
+     "kerosene storage",
+     "jerry can",
+     "rotate fuel"
+    ],
+    "label": 3,
+    "slug": "fuel-storage-and-rotation",
+    "text": "Where\n1. Never inside the house, the basement or any room with a furnace, water heater or pilot light. A detached shed or a ventilated outbuilding, out of the sun, away from the dwelling and from anything that sparks.\n2. Follow your local fire code and insurer on quantity; many limit what may be kept at a home. Keep an extinguisher nearby and nothing flammable stacked around the fuel.\nPetrol (gasoline)\nStored well, petrol stays good for about six months, and a year-old can will usually still run an engine. Stale fuel gums carburettors and injectors.\nUse approved fuel containers only, kept more than half full and tightly capped so the light fractions cannot evaporate and moisture cannot get in. Fuel with ethanol absorbs water from the air and can separate into layers; keep it sealed and use it sooner.\nAdd a fuel stabiliser when you fill the can, and run any stored engine for ten minutes afterwards so treated fuel reaches the carburettor. Run stored engines at intervals to purge stale fuel.\nRotate: label each can with the date, pour the oldest into the car on a schedule, and refill. Fill cans on the ground, never in a vehicle or on a truck bed. Petrol vapour ignites at any temperature you will meet and spreads along the ground.\nPropane (LPG)\nPropane is stored as a liquid under pressure; the hazards are leaks and heat, not staleness. Store cylinders outdoors, upright, valve closed, out of direct sun and never in a basement, garage or vehicle. Propane is heavier than air: a leak drifts across the floor to the nearest pilot light.\nIt smells of rotten eggs by design. If you smell it, no switches, no flames; get out and close the valve from outside if you can. Cylinders are filled only to about 80 percent so the liquid can expand in heat; never overfill one.\nCheck hoses and fittings for leaks with soapy water each season. Retire rusty or dented cylinders.\nKerosene\nStore only clear 1-K kerosene for heaters and lamps, in a container never used for petrol. Even a trace of petrol in kerosene can make a heater or lamp explode.",
+    "title": "Storing fuel: petrol, propane and kerosene"
+   }
+  ]
+ },
+ {
+  "id": "water-well-shock-dose",
+  "question": "well got flooded, how much bleach to shock it and how long before we can drink from it",
+  "gold": "well-shock-chlorination",
+  "mustLead": true,
+  "passages": [
+   {
+    "keywords": [
+     "water sources",
+     "rainwater",
+     "dew",
+     "solar still",
+     "collect water"
+    ],
+    "label": 1,
+    "slug": "finding-water",
+    "text": "Look first at what you already have\n1. The water heater tank, toilet cisterns (not the bowl), ice cubes and the pipes (open the highest tap, then drain the lowest) hold tens of litres.\n2. Rain is the cleanest free source. Put out every clean container, and run a tarp or gutter downspout into a covered barrel. Discard the first flush off a dirty roof.\nIn the open\n1. Move downhill and towards greener vegetation; streams, springs and seeps collect in valleys. Flowing water beats standing water.\n2. Collect dew before sunrise by dragging an absorbent cloth through grass and wringing it into a container.\n3. Melt snow or ice in small amounts added to a little water already in the pot; eating snow cools you and costs energy.\n4. Build a solar still where there is sun but no surface water: a plastic sheet over a pit with a container under the sag point.\nNever drink seawater, urine, blood or water from near latrines, dumps or downstream of livestock. Treat everything you collect (see Boil, bleach, filter), including rainwater that has run over a roof.",
+    "title": "Finding water when the taps are dry"
+   },
+   {
+    "keywords": [
+     "well water",
+     "shock chlorination",
+     "flooded well",
+     "coliform",
+     "bleach well"
+    ],
+    "label": 2,
+    "slug": "well-shock-chlorination",
+    "text": "1. Do not drink from a flooded well until it has been disinfected and tested. Use stored, bottled or boiled water meanwhile.\n2. Turn off power to the pump. Remove the well cap or vent plug and clear debris from around the casing. If the pump or wiring was under water, have an electrician check it first.\n3. Mix plain unscented bleach with water in a clean bucket. The amount depends on the casing diameter and water depth: a common rule is about 1 litre (1 quart) of 5 to 9 percent bleach per 100 US gallons of water in the well, and your state or county health department publishes exact tables.\n4. Pour the mix into the well, then run a garden hose from an outside tap back into the casing until the water smells strongly of chlorine, washing down the inside of the casing.\n5. Open every tap in the house until chlorine is smelled at each, then close them. Replace the cap and let the system stand 12 to 24 hours. Do not drink, bathe in or give animals this water.\n6. Flush through an outside hose away from the septic system, lawn and streams until the chlorine smell is gone, then flush the indoor taps.\n7. Have the water tested for bacteria one to two weeks later and again a month on. Keep treating or using an alternative supply until two clean tests.\nChlorine does not fix chemical contamination (fuel, pesticides, nitrate). A well that was submerged by flood water carrying fuel needs professional assessment.",
+    "title": "Shock-chlorinating a private well after a flood"
+   },
+   {
+    "keywords": [
+     "water purification",
+     "disinfect water",
+     "rolling boil",
+     "household bleach",
+     "water filter"
+    ],
+    "label": 3,
+    "slug": "boil-bleach-filter",
+    "text": "If you can boil\n1. Let cloudy water settle, then pour it through a clean cloth, paper towel or coffee filter.\n2. Bring it to a rolling boil for one minute. Above 2,000 m (6,500 ft), boil for three minutes.\n3. Let it cool covered and store it in clean, covered containers. A pinch of salt per litre improves the flat taste.\nIf you cannot boil, use bleach\n1. Use plain, unscented household bleach (5 to 9 percent sodium hypochlorite). No splashless, scented or colour-safe products.\n2. Add 2 drops per litre (8 drops, a little under 1/8 teaspoon, per US gallon) of clear water. Double the dose for cloudy water.\n3. Stir and wait 30 minutes. A faint chlorine smell means the dose was enough. If there is no smell, repeat the dose and wait 15 more minutes.\nFilters\nMost portable filters remove parasites and bacteria. Only filters labelled for viruses remove them, so pair a filter with boiling or bleach when sewage may be in the water.\nBoiling, bleach and filters do not remove fuel, pesticides, heavy metals or other chemicals. If water smells of chemicals or an authority says it is chemically contaminated, use bottled or stored water instead.",
+    "title": "Boil, bleach, filter: making water safe to drink"
+   }
+  ]
+ }
+]

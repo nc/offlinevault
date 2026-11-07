@@ -1,0 +1,27 @@
+title: "Pediatric trauma basics"
+summary: Children are not small adults; they get cold fast, hide shock until late, and arrest from breathing failure before anything else, so airway, warmth and bleeding control come first.
+keywords: [pediatric trauma, injured child, child airway, hypothermia in children, capillary refill, shock in children, Broselow tape]
+procedure: |
+  1. Look at the child first. A child who looks abnormal, is floppy, pale or unusually quiet is seriously ill or injured until proved otherwise. Slow breathing or a slow pulse in a child is an ominous sign, not a reassuring one.
+  2. **Airway and breathing first.** The commonest cause of cardiac arrest in children is breathing failure. Lay the child on the back with the head in a neutral sniffing position; an infant's large head tips the chin down, so a rolled towel under the shoulders helps. Clear and support the airway, and use a jaw thrust rather than tilting the head if the neck may be injured. If they are not breathing, start CPR (see CPR and choking).
+  3. Fast breathing for age means trouble: more than 60 breaths a minute in an infant, more than 40 under five, more than 30 in older children. Sucking in between the ribs, grunting, stridor or wheeze are signs of distress.
+  4. **Stop the bleeding** with direct pressure, packing and if needed a tourniquet (see Stopping severe bleeding). A child can lose a quarter of their blood volume and still have a normal blood pressure. Cool hands and feet, a capillary refill longer than two to three seconds (press a fingernail, let go and count), a weak pulse and drowsiness are the early signs of shock. A low blood pressure is a late sign and means collapse is near.
+  5. **Keep them warm.** Children lose heat far faster than adults through a large surface area and a big head. Get them off cold ground, cover the head, uncover only the part you are working on, and warm anything you give them. Cold worsens bleeding and in infants causes breathing pauses and low blood sugar.
+  6. Children's bones bend. Broken ribs are rare but the bruised lung under them is common; the belly organs sit far forward and are easily injured; the spinal cord can be hurt without a fracture to show for it. Assume a neck injury in any head injury or big fall and keep the head in line with the body.
+  7. Head injury: headache, vomiting, drowsiness, unequal pupils, or irregular breathing with a slow pulse mean pressure is rising inside the skull. Get help fast and keep them breathing and warm on the way.
+  8. Every drug dose for a child is by weight; a Broselow tape reads doses and equipment sizes from the child's length. Do not guess fractions of an adult dose. Involve a parent: it calms the child and gives you the history.
+  > This article is first aid for a parent or carer. The Borden handbook chapters cited are written for clinicians in the field; read them for the resuscitation detail.
+sources:
+  - kind: pdf
+    document: pediatric-surgery-hostile-environments
+    pages: "27-36"
+    heading: "Basic approach to pediatric trauma (Pediatric Surgery and Medicine for Hostile Environments, chapter 1)"
+  - kind: pdf
+    document: pediatric-surgery-hostile-environments
+    pages: "37-41"
+    heading: "Anesthesia: anatomical and physiological considerations, normal vital signs by age (Pediatric Surgery and Medicine for Hostile Environments, chapter 2)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Trauma in children
+    sections: [Anatomic and physiologic differences, Management]
+related: [bleeding-control, cpr-and-choking, shock, fractures-and-splinting, burns, fever-and-dehydration-in-children]

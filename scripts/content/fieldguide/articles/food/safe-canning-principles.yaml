@@ -1,0 +1,22 @@
+title: "Principles of safe home canning"
+summary: Low-acid foods need a pressure canner, high-acid foods a boiling-water canner, and both need tested times adjusted for your altitude.
+keywords: [home canning, pressure canner, boiling-water canner, low-acid food, headspace, jar seal, botulism]
+procedure: |
+  1. Decide the method by acidity. **Low-acid foods** (all vegetables except most tomatoes, meat, poultry, seafood, soups, beans) must go in a **pressure canner**. **High-acid foods** (most fruit, jams, jellies, pickles, acidified tomatoes) can use a **boiling-water canner**.
+  2. Use only tested recipes and process times from the USDA guide or a university extension. Do not invent recipes, shorten times, or can in an oven, microwave, dishwasher or slow cooker.
+  3. Adjust for altitude: above 1,000 ft (300 m) boiling-water times get longer and pressure-canner pressures get higher. Know your elevation.
+  4. Use canning jars with new two-piece lids. Wash jars; sterilise them for boiling-water processes under 10 minutes. Leave the headspace the recipe says.
+  5. Wipe the rim, put the lid on, tighten the band fingertip tight, and process for the full time at the correct pressure or at a full boil.
+  6. Cool jars 12 to 24 hours undisturbed, then check the seal (lid curved down and does not move). Refrigerate and eat anything that did not seal, or reprocess with a new lid within 24 hours.
+  7. Remove the bands, label and date, and store at 10 to 21 °C (50 to 70 °F), dry and dark. Use within a year.
+  > If there is any doubt a low-acid or tomato food was processed correctly, boil it for 10 minutes (plus 1 minute per 1,000 ft above 1,000 ft) before eating, and never taste food from a jar that bulges, leaks, spurts or smells wrong.
+sources:
+  - kind: pdf
+    document: usda-complete-guide-home-canning-2015
+    pages: "16-31"
+    heading: "Principles of home canning (USDA Guide 1)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Home canning
+    sections: [Techniques, Safety]
+related: [botulism, storing-water]

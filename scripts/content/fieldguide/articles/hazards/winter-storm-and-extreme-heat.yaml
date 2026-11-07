@@ -1,0 +1,33 @@
+title: "Winter storms and extreme heat"
+summary: Cold and heat kill quietly, mostly the old, the young and the alone; prepare the house, limit exposure, and check on neighbours.
+keywords: [winter storm, blizzard, extreme heat, heat wave, heat stroke, frostbite, check on neighbours]
+procedure: |
+  ### Winter storm
+  1. Insulate, caulk and weather-strip now. Put warm clothing and blankets in the kits, and fit battery smoke and carbon monoxide alarms on every floor and outside bedrooms.
+  2. Keep a car kit with jumper cables, sand, a torch, water and snacks, and keep the tank full. Avoid driving; if you are trapped, stay in the vehicle.
+  3. Limit time outside and dress in layers when you must go out. Watch for frostbite and hypothermia (see Staying warm indoors).
+  4. Generators and grills stay outdoors and away from windows, and a gas oven or hob is never a heater. If the house loses power or heat for more than a few hours and you cannot stay warm overnight, go to family or friends, or to a public shelter.
+  ### Extreme heat
+  1. Stay somewhere with working air conditioning if you can. Shade the windows, wear light, loose clothing and a wide-brimmed hat, drink before you are thirsty (dark urine means drink more), avoid alcohol and caffeine, and skip hard work in the hottest part of the day.
+  2. Never leave a child, an adult or an animal in a parked vehicle on a warm day.
+  3. Cramps and exhaustion come first. **Heat stroke** is a medical emergency: a very high body temperature, hot red skin, dizziness or confusion, and a rapid strong pulse, sometimes with vomiting, collapse or a fit.
+  4. For heat stroke, call for help and cool the person fast: move them somewhere cool, strip outer clothing, immerse them in a cool bath if they are awake, otherwise sponge, spray and fan them and use ice packs or cold wet sheets. Give a confused person nothing to drink, and watch their breathing until help arrives.
+  5. Check on older neighbours and anyone living alone in both extremes; they are the ones who die.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "17"
+    heading: "Wildfire and winter storm (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "11"
+    heading: "Extreme heat (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Heat stroke
+    sections: [Signs and symptoms, Prevention, Treatment]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Winter storm
+    sections: [Preparing for winter storms]
+related: [staying-warm-indoors, carbon-monoxide, medication-and-mobility-for-older-adults, vehicle-kit]

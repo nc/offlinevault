@@ -1,0 +1,38 @@
+title: "Stockpiling and managing prescription medicines"
+summary: Build a rolling reserve by refilling early, keep an up-to-date list, store medicines cool and dry, and know which few drugs cannot be trusted past their date.
+keywords: [prescription medicines, medication supply, stockpile medicine, expiry date, expired drugs, medication list, pill organizer, storing medicines]
+procedure: |
+  1. **Aim for a rolling reserve.** Ready.gov and FEMA put prescription medicines and glasses in the emergency kit and say essential medicines belong in **every** kit: home, work and car. Ask your prescriber for the longest supply allowed and refill at the earliest permitted date, using the oldest pack first so the reserve never ages. A month ahead is a realistic target for most drugs; a week is the minimum worth having.
+  2. **Write the list.** Every medicine, dose, timing, the reason for it, allergies, the prescriber and pharmacy, and the pharmacy's phone number. One copy in the kit, one in the wallet, one with your out-of-area contact. Many people with chronic conditions wear a medical ID; a corpsman's first move with a sudden illness is to look for one. Keep the original labelled containers: unlabelled bottles should never be used, and a label is what lets a stranger help you.
+  3. **Store them right.** Cool, dry and dark, in the original packaging; heat speeds the chemical breakdown of nearly every drug, and the rough rule is that each 10 °C rise roughly doubles the rate. Not the bathroom, not the car, not the windowsill. Refrigerated drugs (insulin, some eye drops, some liquid antibiotics) go in an insulated box the moment the power fails; FEMA says to discard them after an outage longer than a day unless the label says otherwise, so read those labels now (see Insulin when the fridge is off).
+  4. **Expiry dates are conservative for most tablets.** The expiry date is the date the maker guarantees full potency. In a US FDA study of more than 100 drugs, about 90 percent were still safe and effective up to 15 years past their dates, and the military routinely uses tested stock past its date. The named exceptions are **nitroglycerin, insulin and some liquid antibiotics**, which do lose potency. In an emergency, a correctly stored tablet past its date is far better than no tablet; a drug that has changed colour, consistency or smell, or a liquid that has gone cloudy, is not to be used.
+  5. **Take them right.** The five rights the Ship's Medicine Chest teaches: right drug, right dose, right route, right time, right patient. Keep to the usual intervals (twice a day is 6 am and 6 pm; three times is 6, 2 and 10), because many drugs only work when their blood level is held steady. A pill organiser and a tick sheet prevent double doses when routine collapses.
+  6. **Know what you cannot stop.** Insulin, heart and blood pressure tablets, anti-seizure drugs, steroids taken long term, thyroid tablets, antidepressants and anticoagulants are among the medicines whose sudden stop can cause harm; prioritise these in the reserve and in any rationing decision, and seek advice by phone, radio or any clinic before changing a dose.
+  7. **The over-the-counter shelf** for a household: paracetamol and ibuprofen, an antihistamine, oral rehydration salts, loperamide for adults, antacid, hydrocortisone cream, antiseptic, plus anything a family member depends on (reliever inhaler, adrenaline auto-injector, glucose). Check the kit every six months and when the clocks change: dates, counts, and whether the list is still true.
+  > Pharmacies may reopen before clinics; a current list and labelled containers let a pharmacist help you faster than anything else you could carry.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "21"
+    heading: "Gather emergency supplies: medications in every kit, check every six months (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "15"
+    heading: "Power outage: refrigerated medication (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: ready-supply-kit-checklist
+    pages: "1"
+    heading: "Additional items: prescription medications (Ready.gov)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Shelf life
+    sections: [Background, Temperature control]
+  - kind: pdf
+    document: usphs-ships-medicine-chest-2003
+    pages: "53-54"
+    heading: "Medication administration: checking the drug and the rights of administration (Ship's Medicine Chest, chapter 1)"
+  - kind: pdf
+    document: navedtra-14295-hospital-corpsman
+    pages: "206"
+    heading: "Common medical emergencies: medical identification devices (Hospital Corpsman, chapter 4)"
+related: [insulin-without-refrigeration, go-bag, hypertension-and-heart-disease, asthma-and-copd, wound-care-supplies]

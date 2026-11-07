@@ -1,0 +1,552 @@
+{
+  "_comment": "Source of truth for what the real OfflineVault update service publishes. scripts/content/fetch_content.sh downloads it, scripts/content/make_manifest.py turns the downloaded files into manifest.json + catalogue.json. Kiwix URLs without a date resolve (via redirect) to the latest monthly edition; the resolved filename becomes the artefact path and the dated id suffix. Document sources: `url` (direct), `page`+`match` (PDF link discovered on the agency page with the WebKit downloader, survives file moves), or `archive`+`archive_file` (Internet Archive item holding the public-domain scan). `maps` entries are built with scripts/content/make_map_extract.sh (pmtiles CLI) into content/maps/ and published as kind \"map\".",
+  "version": "2026.10",
+  "zims": [
+    {
+      "id": "zim-wikipedia-medicine",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/wikipedia/wikipedia_en_medicine_nopic.zim",
+      "title": "Wikipedia – Medicine (WikiMed)",
+      "description": "Every WikiProject Medicine article: conditions, drugs, procedures. Text only.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Wikipedia contributors; ZIM by Kiwix"
+    },
+    {
+      "id": "zim-wikem",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/other/wikem_en_all_maxi.zim",
+      "title": "WikEM – Emergency medicine",
+      "description": "Point-of-care emergency medicine reference written by clinicians.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "WikEM contributors"
+    },
+    {
+      "id": "zim-post-disaster",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/other/zimgit-post-disaster_en.zim",
+      "title": "Post-disaster reference set",
+      "description": "Curated manuals for the first weeks after a disaster: water, sanitation, shelter, medicine.",
+      "language": "eng",
+      "licence": "Mixed open licences (see each document)",
+      "attribution": "Kiwix zimgit collection"
+    },
+    {
+      "id": "zim-medicine-set",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/other/zimgit-medicine_en.zim",
+      "title": "Field medicine texts",
+      "description": "Open-licence field and village medicine texts.",
+      "language": "eng",
+      "licence": "Mixed open licences",
+      "attribution": "Kiwix zimgit collection"
+    },
+    {
+      "id": "zim-water",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/other/zimgit-water_en.zim",
+      "title": "Water treatment",
+      "description": "Finding, treating and storing water.",
+      "language": "eng",
+      "licence": "Mixed open licences",
+      "attribution": "Kiwix zimgit collection"
+    },
+    {
+      "id": "zim-food-preparation",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/other/zimgit-food-preparation_en.zim",
+      "title": "Food preparation and storage",
+      "description": "Preserving, storing and preparing food without infrastructure.",
+      "language": "eng",
+      "licence": "Mixed open licences",
+      "attribution": "Kiwix zimgit collection"
+    },
+    {
+      "id": "zim-knots",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/other/zimgit-knots_en.zim",
+      "title": "Knots",
+      "description": "Illustrated knot tying.",
+      "language": "eng",
+      "licence": "Mixed open licences",
+      "attribution": "Kiwix zimgit collection"
+    },
+    {
+      "id": "zim-appropedia",
+      "tier": "core",
+      "role": "reference",
+      "url": "https://download.kiwix.org/zim/other/appropedia_en_all_maxi.zim",
+      "title": "Appropedia",
+      "description": "Appropriate technology: off-grid water, energy, building, agriculture.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Appropedia contributors"
+    },
+    {
+      "id": "zim-wikipedia-top",
+      "tier": "core",
+      "role": "encyclopaedic",
+      "url": "https://download.kiwix.org/zim/wikipedia/wikipedia_en_top_maxi.zim",
+      "title": "Wikipedia – Top 50,000 articles",
+      "description": "The most-read English articles with images.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Wikipedia contributors; ZIM by Kiwix"
+    },
+    {
+      "id": "zim-ifixit",
+      "tier": "full",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/ifixit/ifixit_en_all.zim",
+      "title": "iFixit repair manuals",
+      "description": "Step-by-step repair guides for tools, vehicles and electronics.",
+      "language": "eng",
+      "licence": "CC BY-NC-SA 3.0",
+      "attribution": "iFixit"
+    },
+    {
+      "id": "zim-osm-wiki",
+      "tier": "full",
+      "role": "reference",
+      "url": "https://download.kiwix.org/zim/other/openstreetmap-wiki_en_all_nopic.zim",
+      "title": "OpenStreetMap wiki",
+      "description": "Mapping and navigation know-how.",
+      "language": "eng",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "OpenStreetMap contributors"
+    },
+    {
+      "id": "zim-wikipedia-nopic",
+      "tier": "full",
+      "role": "encyclopaedic",
+      "url": "https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_nopic.zim",
+      "title": "Wikipedia – all articles (text)",
+      "description": "Every English Wikipedia article, full text, no images (~49 GB).",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Wikipedia contributors; ZIM by Kiwix"
+    },
+    {
+      "id": "zim-wikipedia-maxi",
+      "tier": "complete",
+      "role": "encyclopaedic",
+      "url": "https://download.kiwix.org/zim/wikipedia/wikipedia_en_all_maxi.zim",
+      "title": "Wikipedia – all articles with images",
+      "description": "Every English Wikipedia article with images (~119 GB). External SSD recommended.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Wikipedia contributors; ZIM by Kiwix",
+      "replaces": "zim-wikipedia-nopic"
+    },
+    {
+      "id": "zim-mdwiki",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/other/mdwiki_en_all_maxi.zim",
+      "title": "MDWiki – medical encyclopedia",
+      "description": "Curated medical articles with images, written for offline use.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "MDWiki / WikiProject Medicine"
+    },
+    {
+      "id": "zim-military-medicine",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/other/irp.fas.org_en_military-medicine.zim",
+      "title": "US military medicine manuals",
+      "description": "Field medical publications mirrored by FAS.",
+      "language": "eng",
+      "licence": "Public domain (US Government)",
+      "attribution": "US Department of Defense; mirror by FAS"
+    },
+    {
+      "id": "zim-ready-gov",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/other/www.ready.gov_en_all.zim",
+      "title": "Ready.gov (FEMA)",
+      "description": "Hazard-by-hazard preparedness guidance.",
+      "language": "eng",
+      "licence": "Public domain (US Government)",
+      "attribution": "FEMA"
+    },
+    {
+      "id": "zim-cd3wd",
+      "tier": "full",
+      "role": "reference",
+      "url": "https://download.kiwix.org/zim/other/cd3wdproject.org_en_all.zim",
+      "title": "CD3WD – appropriate technology library",
+      "description": "Development and self-reliance documents: agriculture, water, construction, health.",
+      "language": "eng",
+      "licence": "Mixed open licences (compilation)",
+      "attribution": "CD3WD project"
+    },
+    {
+      "id": "zim-lowtech",
+      "tier": "full",
+      "role": "reference",
+      "url": "https://download.kiwix.org/zim/other/solar.lowtechmagazine.com_en_all.zim",
+      "title": "Low-tech Magazine",
+      "description": "Low-energy technology and historical techniques.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0 (verify per article)",
+      "attribution": "Low-tech Magazine"
+    },
+    {
+      "id": "zim-gutenberg-medicine",
+      "tier": "full",
+      "role": "reference",
+      "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_medicine.zim",
+      "title": "Project Gutenberg – Medicine",
+      "description": "Public-domain medical texts (historical; use with current references).",
+      "language": "eng",
+      "licence": "Public domain",
+      "attribution": "Project Gutenberg"
+    },
+    {
+      "id": "zim-gutenberg-agriculture",
+      "tier": "full",
+      "role": "reference",
+      "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_agriculture.zim",
+      "title": "Project Gutenberg – Agriculture",
+      "description": "Public-domain farming, gardening and husbandry texts.",
+      "language": "eng",
+      "licence": "Public domain",
+      "attribution": "Project Gutenberg"
+    },
+    {
+      "id": "zim-gutenberg-technology",
+      "tier": "complete",
+      "role": "reference",
+      "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_technology.zim",
+      "title": "Project Gutenberg – Technology",
+      "description": "Public-domain engineering, crafts and trades.",
+      "language": "eng",
+      "licence": "Public domain",
+      "attribution": "Project Gutenberg"
+    },
+    {
+      "id": "zim-gutenberg-fiction",
+      "tier": "full",
+      "role": "encyclopaedic",
+      "url": "https://download.kiwix.org/zim/gutenberg/gutenberg_en_fiction.zim",
+      "title": "Project Gutenberg – Fiction (morale)",
+      "description": "Thousands of public-domain novels and stories. In real outages entertainment is the most-used content.",
+      "language": "eng",
+      "licence": "Public domain",
+      "attribution": "Project Gutenberg"
+    },
+    {
+      "id": "zim-se-sustainable",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/stack_exchange/sustainability.stackexchange.com_en_all.zim",
+      "title": "Sustainable Living Stack Exchange",
+      "description": "Q&A on self-sufficiency, energy, water and food.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Stack Exchange contributors"
+    },
+    {
+      "id": "zim-se-outdoors",
+      "tier": "core",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/stack_exchange/outdoors.stackexchange.com_en_all.zim",
+      "title": "The Great Outdoors Stack Exchange",
+      "description": "Hiking, camping, navigation, wilderness first aid Q&A.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Stack Exchange contributors"
+    },
+    {
+      "id": "zim-se-gardening",
+      "tier": "full",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/stack_exchange/gardening.stackexchange.com_en_all.zim",
+      "title": "Gardening & Landscaping Stack Exchange",
+      "description": "Growing food, soil, pests.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Stack Exchange contributors"
+    },
+    {
+      "id": "zim-se-diy",
+      "tier": "full",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/stack_exchange/diy.stackexchange.com_en_all.zim",
+      "title": "Home Improvement Stack Exchange",
+      "description": "Plumbing, electrical, structural repairs.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Stack Exchange contributors"
+    },
+    {
+      "id": "zim-se-ham",
+      "tier": "full",
+      "role": "procedural",
+      "url": "https://download.kiwix.org/zim/stack_exchange/ham.stackexchange.com_en_all.zim",
+      "title": "Amateur Radio Stack Exchange",
+      "description": "Antennas, propagation, emergency comms.",
+      "language": "eng",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Stack Exchange contributors"
+    },
+    {
+      "id": "zim-factbook",
+      "tier": "full",
+      "role": "reference",
+      "url": "https://download.kiwix.org/zim/other/cia-world-factbook_en_all.zim",
+      "title": "CIA World Factbook (final archive)",
+      "description": "Country reference data.",
+      "language": "eng",
+      "licence": "Public domain (US Government)",
+      "attribution": "CIA"
+    }
+  ],
+  "models": [
+    {
+      "id": "model-qwen3-4b-q4_k_m",
+      "tier": "core",
+      "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/resolve/main/Qwen3-4B-Instruct-2507-Q4_K_M.gguf",
+      "title": "Qwen3-4B-Instruct-2507 (Q4_K_M)",
+      "description": "Default assistant model, ~2.5 GB, runs on 8 GB Macs.",
+      "licence": "Apache-2.0",
+      "attribution": "Alibaba Cloud / Qwen team; GGUF by Unsloth"
+    },
+    {
+      "id": "model-qwen3-8b-q4_k_m",
+      "tier": "full",
+      "url": "https://huggingface.co/Qwen/Qwen3-8B-GGUF/resolve/main/Qwen3-8B-Q4_K_M.gguf",
+      "title": "Qwen3-8B (Q4_K_M)",
+      "description": "Larger assistant model, ~5 GB, needs 16 GB of memory.",
+      "licence": "Apache-2.0",
+      "attribution": "Alibaba Cloud / Qwen team"
+    },
+    {
+      "id": "model-muse-glimmer-30b-q4_k_m",
+      "tier": "complete",
+      "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF/resolve/main/Muse-Glimmer-30B-KQuant-17GB-Q4_K_M.gguf",
+      "title": "Muse Glimmer 30B (Q4_K_M)",
+      "description": "Meta's dense 30B model, ~16.8 GB; needs a 32 GB+ Mac. Stronger reasoning, slower replies.",
+      "licence": "Apache-2.0",
+      "attribution": "Meta Superintelligence Lab"
+    },
+    {
+      "id": "model-muse-glimmer-dflash",
+      "tier": "complete",
+      "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF/resolve/main/dflash-Muse-Glimmer-30B-Q4_K_M.gguf",
+      "title": "Muse Glimmer DFlash drafter",
+      "description": "Speculative-decoding drafter (~1.6 GB) that roughly doubles Muse Glimmer's generation speed. Installed alongside the model.",
+      "licence": "Apache-2.0",
+      "attribution": "Meta Superintelligence Lab"
+    }
+  ],
+  "document_packs": [
+    {
+      "id": "docs-us-gov-preparedness",
+      "tier": "core",
+      "title": "US government preparedness manuals",
+      "summary": "FEMA, Army, USDA, CDC and NWS publications. Public domain (17 USC §105). Sources: agency sites (fetched with the WebKit downloader) and the Internet Archive's public-domain copies.",
+      "documents": [
+        {
+          "file": "fema-are-you-ready.pdf",
+          "url": "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+          "title": "Are You Ready? An In-depth Guide to Citizen Preparedness (FEMA)",
+          "publisher": "FEMA",
+          "licence": "Public domain (US Government)",
+          "role": "procedural",
+          "summary": "Comprehensive preparedness guide: kits, plans, and hazard-specific actions for floods, fires, storms, earthquakes, pandemics and more."
+        },
+        {
+          "file": "ready-supply-kit-checklist.pdf",
+          "page": "https://www.ready.gov/kit",
+          "match": "supply-kit",
+          "title": "Emergency Supply Kit Checklist (Ready.gov)",
+          "publisher": "FEMA / Ready.gov",
+          "licence": "Public domain (US Government)",
+          "role": "procedural"
+        },
+        {
+          "file": "cdc-make-water-safe-during-emergency.pdf",
+          "page": "https://www.cdc.gov/water-emergency/about/index.html",
+          "match": "make-water-safe",
+          "title": "Make Water Safe During an Emergency (CDC)",
+          "publisher": "CDC",
+          "licence": "Public domain (US Government)",
+          "role": "procedural",
+          "summary": "Boiling, disinfecting and filtering water when supplies are compromised."
+        },
+        {
+          "file": "cdc-use-safe-water-one-pager.pdf",
+          "page": "https://www.cdc.gov/water-emergency/about/index.html",
+          "match": "UseSafeWater",
+          "title": "Use Safe Water After an Emergency (CDC one-pager)",
+          "publisher": "CDC",
+          "licence": "Public domain (US Government)",
+          "role": "procedural"
+        },
+        {
+          "file": "nws-weather-safety-guide.pdf",
+          "url": "https://www.weather.gov/media/owlie/ttl6-10.pdf",
+          "title": "Weather safety guide (National Weather Service)",
+          "publisher": "NOAA / NWS",
+          "licence": "Public domain (US Government)",
+          "role": "procedural"
+        },
+        {
+          "file": "army-fm-21-76-survival.pdf",
+          "archive": "Fm21-76SurvivalManual",
+          "archive_file": "FM21-76_SurvivalManual.pdf",
+          "title": "FM 21-76 Survival (US Army)",
+          "publisher": "US Army",
+          "licence": "Public domain (US Government)",
+          "role": "procedural",
+          "summary": "The classic survival manual: psychology, planning, medicine, shelter, water, fire, food, navigation, signalling, dangerous animals, field-expedient weapons."
+        },
+        {
+          "file": "army-atp-3-50-21-survival-2018.pdf",
+          "archive": "survival-atp-3-50-21",
+          "archive_file": "Survival (ATP 3-50-21).pdf",
+          "title": "ATP 3-50.21 Survival, 2018 (US Army)",
+          "publisher": "US Army",
+          "licence": "Public domain (US Government)",
+          "role": "procedural",
+          "summary": "Current Army survival doctrine replacing FM 21-76."
+        },
+        {
+          "file": "army-fm-4-25-11-first-aid.pdf",
+          "archive": "FM4-25.11",
+          "archive_file": "FM4-25.11.pdf",
+          "title": "FM 4-25.11 First Aid (US Army)",
+          "publisher": "US Army",
+          "licence": "Public domain (US Government)",
+          "role": "procedural",
+          "summary": "Field first aid: bleeding, airway, fractures, burns, heat and cold injuries, bites, evacuation."
+        },
+        {
+          "file": "army-fm-21-10-field-hygiene.pdf",
+          "archive": "FM21-10_201212",
+          "archive_file": "FM21-10_201212.pdf",
+          "title": "FM 21-10 Field Hygiene and Sanitation (US Army)",
+          "publisher": "US Army",
+          "licence": "Public domain (US Government)",
+          "role": "procedural",
+          "summary": "Water, waste, food, insect and disease control in the field."
+        },
+        {
+          "file": "usda-complete-guide-home-canning-2015.pdf",
+          "archive": "usda-guide-home-canning",
+          "archive_file": "USDA-Complete-Guide-to-Home-Canning-2015-revision.pdf",
+          "title": "USDA Complete Guide to Home Canning (2015 revision)",
+          "publisher": "USDA / NIFA",
+          "licence": "Public domain (US Government)",
+          "role": "procedural",
+          "summary": "Safe pressure and water-bath canning of vegetables, fruit, meat, poultry, seafood, pickles and jams."
+        },
+        {
+          "file": "epa-emergency-disinfection-drinking-water.pdf",
+          "page": "https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water",
+          "match": "disinfect",
+          "title": "Emergency Disinfection of Drinking Water (EPA)",
+          "publisher": "EPA",
+          "licence": "Public domain (US Government)",
+          "role": "procedural",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "zimit_sites": [
+    {
+      "id": "zim-ready-gov",
+      "tier": "core",
+      "role": "procedural",
+      "name": "ready.gov_en",
+      "title": "Ready.gov (FEMA)",
+      "seeds": [
+        "https://www.ready.gov/"
+      ],
+      "scope": "https://www.ready.gov/",
+      "licence": "Public domain (US Government)",
+      "description": "Hazard-by-hazard preparedness guidance."
+    },
+    {
+      "id": "zim-cdc-emergency",
+      "tier": "core",
+      "role": "procedural",
+      "name": "cdc-emergency_en",
+      "title": "CDC emergency preparedness",
+      "seeds": [
+        "https://www.cdc.gov/water-emergency/",
+        "https://www.cdc.gov/food-safety/",
+        "https://www.cdc.gov/disasters/"
+      ],
+      "scope": "https://www.cdc.gov/",
+      "licence": "Public domain (US Government)",
+      "description": "Water, food and disaster health guidance."
+    },
+    {
+      "id": "zim-medlineplus",
+      "tier": "full",
+      "role": "reference",
+      "name": "medlineplus_en",
+      "title": "MedlinePlus (NIH)",
+      "seeds": [
+        "https://medlineplus.gov/healthtopics.html",
+        "https://medlineplus.gov/encyclopedia.html"
+      ],
+      "scope": "https://medlineplus.gov/",
+      "licence": "Public domain text (US Government); some images licensed",
+      "description": "Consumer health encyclopaedia."
+    },
+    {
+      "id": "zim-fsis-food-safety",
+      "tier": "core",
+      "role": "procedural",
+      "name": "fsis-food-safety_en",
+      "title": "USDA FSIS food safety",
+      "seeds": [
+        "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/keeping-food-safe-during-emergency"
+      ],
+      "scope": "https://www.fsis.usda.gov/food-safety/",
+      "licence": "Public domain (US Government)",
+      "description": "Keeping food safe during power outages, floods and fires."
+    }
+  ],
+  "maps": [
+    {
+      "id": "map-world-low",
+      "tier": "core",
+      "title": "World overview map (zoom 0–7)",
+      "description": "Whole-planet overview for orientation; no street detail. ~1 GB.",
+      "extract": {
+        "source": "https://build.protomaps.com/<build>.pmtiles",
+        "maxzoom": 7
+      },
+      "licence": "ODbL",
+      "attribution": "OpenStreetMap contributors; Protomaps"
+    },
+    {
+      "id": "map-world-full",
+      "tier": "complete",
+      "title": "World map — full street detail",
+      "description": "The entire planet at street level in one file (~130 GB). Mirror of the Protomaps daily planet build; needs an external SSD.",
+      "extract": {
+        "source": "https://build.protomaps.com/<build>.pmtiles",
+        "maxzoom": 15,
+        "note": "download the build file as-is; no extract needed"
+      },
+      "licence": "ODbL",
+      "attribution": "OpenStreetMap contributors; Protomaps"
+    }
+  ]
+}

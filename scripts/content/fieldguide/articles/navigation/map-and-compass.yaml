@@ -1,0 +1,41 @@
+title: "Map and compass: bearings, declination and staying on course"
+summary: A baseplate compass, a map with a declination diagram and a known starting point let you walk a bearing to a place you cannot see; the routine is the same every time.
+keywords: [compass, bearing, azimuth, magnetic declination, baseplate compass, orient the map, lensatic compass, back bearing, aiming off]
+procedure: |
+  ### Know your compass
+  - A **baseplate (orienteering) compass** has a magnetic needle in a rotating housing marked in degrees, an orienting arrow and lines in the housing, and a direction-of-travel arrow on the base. North is 0 or 360 degrees, east 90, south 180, west 270.
+  - Hold it flat and level so the needle swings free, and keep it away from steel, magnets, phones, radios, car bodies and dark metallic rock. If the needle moves when you step away from something, that something was lying to you.
+  ### Declination, once per map
+  - The needle points to **magnetic north**; the map's grid points to grid or true north. The angle between them, the declination, is printed in the map margin as a diagram and changes slowly over the years, so use a recent map.
+  - If your compass has a declination adjustment, set it once and forget the arithmetic. If not: to turn a map bearing into a compass bearing, **subtract an east declination or add a west one** (map bearing 54, declination 14 east: walk 40 on the compass). From compass to map, do the opposite.
+  ### Take a bearing from the map
+  1. Lay the long edge of the baseplate from where you are to where you want to go, direction-of-travel arrow pointing the way.
+  2. Ignore the needle. Turn the housing until its lines run parallel to the map's north-south grid lines, with the housing's N toward the top of the map. Read the bearing at the index.
+  3. Correct for declination if the compass is not preset. Now stand up, hold the compass flat in front of you, and turn your whole body until the red end of the needle sits inside the orienting arrow. The direction-of-travel arrow points the way.
+  ### Walk it
+  1. Sight along the arrow and pick a **steering mark**: a distinct tree, rock or hilltop on that line, as far away as you can see. Walk to it without looking at the compass, then take the next one. In fog or dark, send a companion ahead to be the mark.
+  2. To get around an obstacle, turn 90 degrees, count paces until you are clear, turn back to the bearing, pass the obstacle, then turn 90 degrees the other way and walk the same number of paces back onto your line.
+  3. When the target lies on a road, stream or ridge, **aim off** deliberately about 10 degrees to one side so that when you reach the line you know which way to turn. Each degree of offset moves you about 18 metres sideways per kilometre walked.
+  4. **Orient the map** whenever you stop: compass edge along a grid line, rotate map and compass together until the needle agrees with the declination diagram, and the map now matches the ground. Then compare what you see with what it shows.
+  ### Where am I
+  - Take a bearing to a landmark you can identify on the map, convert it to a map bearing, add or subtract 180 for the back bearing, and draw that line from the landmark. Do the same from a second landmark; you are where the lines cross.
+  ### Military lensatic compass
+  - Open fully, thumb through the loop, elbows in, and read the azimuth under the black index line (centre-hold), or sight through the lens for precision. The bezel clicks in 3 degree steps so you can set a bearing by count in the dark.
+sources:
+  - kind: pdf
+    document: fm-3-25-26-map-reading-land-navigation
+    pages: "96-100"
+    heading: "Compass handling and use (FM 3-25.26, chapter 9)"
+  - kind: pdf
+    document: fm-3-25-26-map-reading-land-navigation
+    pages: "126-131"
+    heading: "Orienting the map and finding your location (FM 3-25.26, chapter 11)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Compass
+    sections: [Use]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Magnetic declination
+    sections: [Compass declination adjustment]
+related: [reading-a-topographic-map, pace-count-and-dead-reckoning, direction-without-a-compass, offlinevault-offline-map]

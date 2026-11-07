@@ -1,0 +1,11 @@
+{
+  "version": "2026.10.08",
+  "publishedAt": "2026-10-08T12:00:00.000Z",
+  "catalogueVersion": "2",
+  "artefacts": [
+    { "id": "catalogue", "kind": "catalogue", "path": "catalogue/catalogue-2026.10.08.json", "sizeBytes": 600, "sha256": "ABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABABAB", "minAppVersion": "1.0.0" },
+    { "id": "zim-fieldguide-2026-10", "kind": "zim", "path": "zim/fieldguide_en_2026-10.zim", "sizeBytes": 2097152, "sha256": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee", "minAppVersion": "1.0.0", "replaces": ["zim-fieldguide-2026-09"], "title": "Field Guide (October)" },
+    { "id": "model-tiny", "kind": "model", "path": "models/tiny.gguf", "sizeBytes": 2048, "sha256": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc", "minAppVersion": "1.0.0" },
+    { "id": "pages-starter", "kind": "page-pack", "path": "packs/pages-starter.tar.gz", "sizeBytes": 4096, "sha256": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff", "minAppVersion": "1.0.0" }
+  ]
+}

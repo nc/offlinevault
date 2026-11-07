@@ -1,0 +1,33 @@
+title: "Walkie-talkies: FRS, GMRS and CB"
+summary: Licence-free FRS radios reach a kilometre or so through trees and buildings; a cheap GMRS licence buys more power, antennas and repeaters; CB is the old 27 MHz road service.
+keywords: [FRS, GMRS, CB radio, walkie-talkie, two-way radio, family radio, PMR446, repeater, privacy codes]
+procedure: |
+  ### Family Radio Service (FRS), no licence
+  - 22 UHF channels around 462 and 467 MHz, FM, with a fixed antenna. Up to 2 watts on channels 1 to 7 and 15 to 22, half a watt on 8 to 14.
+  - Real range with buildings or trees in the way is about **0.5 to 1.5 km**, whatever the box says. Hilltop to hilltop or across water it can reach tens of kilometres. Height beats power: go to a window, a roof or a ridge.
+  - "Privacy codes" (CTCSS and DCS) only mute other people's chatter on your channel; anyone on the channel can still hear you.
+  ### General Mobile Radio Service (GMRS), licence, no exam
+  - The same 22 channels plus eight repeater input channels. A US licence costs $35, lasts ten years, needs no test, and covers you and your immediate family. Apply online with the FCC; you must be 18 or over.
+  - With it you may run up to 50 watts (1 to 5 is usual in handhelds), use detachable and roof antennas, and use **repeaters**, which with a high antenna can stretch range to around 30 km. FRS and GMRS users can talk to each other on the shared channels.
+  - Say your call sign at the end of a conversation and every 15 minutes during one. Channel 1 is the usual default and a reasonable place to call for help; many groups treat channel 20 as a travellers' channel.
+  ### Citizens Band (CB)
+  - 40 channels near 27 MHz, AM and single sideband, 4 watts (12 on SSB), no licence in the US since 1983. Channel 9 is reserved for emergencies and roadside help; channel 19 is the highway channel truckers monitor. Range is short and noisy, but it is what passing trucks and many rural homes still carry.
+  ### Make it work for your family
+  1. Agree a **channel and code**, a backup channel, and times to call (for example on the hour) with everyone on the plan. Write it on the wallet card.
+  2. Keep radios charged, spare batteries in the kit, and practise on a walk; learn what "out of range" sounds like.
+  3. Listen before you transmit, keep it short, and say who you are calling and who you are. Everyone shares these channels and emergencies take priority.
+  4. Outside North America the equivalents are PMR446 in Europe and UHF CB in Australia; US radios are illegal there and will not talk to them.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Family Radio Service
+    sections: [Technical information, FRS/GMRS hybrid radios]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: General Mobile Radio Service
+    sections: [Licensing, Range, Frequency assignments]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Citizens band radio
+    sections: [Current use]
+related: [family-communication-plan, weather-radio-and-alerts, go-bag]

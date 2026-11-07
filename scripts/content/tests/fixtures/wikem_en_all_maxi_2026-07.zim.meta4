@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <generator>MirrorBrain/2.19.0</generator>
+  <origin dynamic="true">https://lb.download.kiwix.org/zim/other/wikem_en_all_maxi_2026-07.zim.meta4</origin>
+  <published>2026-10-19T10:51:51Z</published>
+  <publisher>
+    <name>Kiwix project</name>
+    <url>https://kiwix.org</url>
+  </publisher>
+
+  <file name="wikem_en_all_maxi_2026-07.zim">
+    <size>374632362</size>
+
+    <!-- <mtime>1785406840</mtime> -->
+
+    <!-- internal id: 8852 -->
+    <hash type="md5">ce27e058e8f417f1dc64452a009745a4</hash>
+    <hash type="sha-1">1baed94951d031c3939bb933f810ce550ae61c3e</hash>
+    <hash type="sha-256">7bbdd705544616df1ff37f8b4e0e5382e7b4d92532feecea42227af4169fbd7f</hash>
+    <pieces length="4194304" type="sha-1">
+    </pieces>
+
+
+    <!-- Found 10 mirrors: 0 in the same network prefix, 0 in the same autonomous system,
+         0 handling this country, 6 in the same region, 2 elsewhere -->
+
+    <!-- Mirrors in the same network (unknown): -->
+
+    <!-- Mirrors in the same AS (unknown): -->
+
+    <!-- Mirrors which handle this country (GB): -->
+
+    <!-- Mirrors in the same continent (EU): -->
+    <url location="nl" priority="1">https://ftp.nluug.nl/pub/kiwix/zim/other/wikem_en_all_maxi_2026-07.zim</url>
+    <url location="fr" priority="2">https://mirror.download.kiwix.org/zim/other/wikem_en_all_maxi_2026-07.zim</url>
+    <url location="dk" priority="3">https://mirrors.dotsrc.org/kiwix/zim/other/wikem_en_all_maxi_2026-07.zim</url>
+    <url location="se" priority="4">https://mirror.accum.se/mirror/kiwix.org/zim/other/wikem_en_all_maxi_2026-07.zim</url>
+    <url location="de" priority="5">https://ftp.fau.de/kiwix/zim/other/wikem_en_all_maxi_2026-07.zim</url>
+    <url location="fr" priority="6">https://mirror-sites-fr.mblibrary.info/mirror-sites/download.kiwix.org/zim/other/wikem_en_all_maxi_2026-07.zim</url>
+
+    <!-- Mirrors in the rest of the world: -->
+    <url location="us" priority="7">https://wi.mirror.driftle.ss/kiwix/zim/other/wikem_en_all_maxi_2026-07.zim</url>
+    <url location="aq" priority="8">https://mirror-sites-in.mblibrary.info/mirror-sites/download.kiwix.org/zim/other/wikem_en_all_maxi_2026-07.zim</url>
+  </file>
+</metalink>

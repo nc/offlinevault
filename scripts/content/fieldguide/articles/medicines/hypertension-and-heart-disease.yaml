@@ -1,0 +1,38 @@
+title: "High blood pressure and heart disease without a clinic"
+summary: Keep taking the tablets, keep a cuff and a log, know which chest pain is the heart, and treat it with rest, chewed aspirin, the person's own nitroglycerin and a fast call for help.
+keywords: [high blood pressure, hypertension, blood pressure cuff, heart attack, angina, chest pain, aspirin, nitroglycerin, heart failure, stroke]
+procedure: |
+  ### Blood pressure
+  1. **Do not stop the tablets.** Hypertension has no symptoms; half the people who have it do not know. Lowering the diastolic pressure by 5 mmHg cuts stroke by about a third, and most people need more than one drug to stay controlled. If supplies run short, ask a clinician by any channel which drug to keep; do not guess, and do not take potassium supplements or "low-sodium" potassium salt if you are on an ACE inhibitor or ARB.
+  2. **Measure it properly.** Sit quietly for five minutes, arm supported at heart level, no smoking for 30 minutes, cuff snug on the bare upper arm about 2.5 cm above the elbow crease and 20 to 25 percent wider than the arm (a cuff too narrow reads high). Deflate 2 to 3 mmHg per second. Record the reading and the time; a single high reading means retake it, and a diagnosis needs several high readings. A battery cuff is fine if it has been calibrated.
+  3. **What the numbers mean:** treatment targets for most adults are below about 140/90. **180/120 or higher is a hypertensive crisis**; with headache, confusion, drowsiness, chest pain, breathlessness or weakness it is an emergency, and even without symptoms it needs medical advice within hours. Nosebleeds are a classic sign of pressure running high.
+  4. **Lifestyle is a medicine too:** less salt, more fibre and potassium-rich plants, the DASH-style diet, daily walking, less alcohol, weight loss where needed. Their effect rivals a single tablet.
+  ### Chest pain
+  5. **Angina** is a squeezing or pressure in the chest brought on by exertion or stress and relieved by rest within about 5 minutes; it may spread to the left arm or jaw. **A heart attack** is the same pain lasting 30 minutes or more, not relieved by rest or nitroglycerin, often with sweating, nausea, weakness, breathlessness and a feeling of doom. Women more often get breathlessness, extreme tiredness, indigestion or back pain than crushing chest pain. Pain that lasts seconds, is sharp to a fingertip, or hurts with movement is usually the chest wall.
+  6. **Treat angina:** stop, sit or lie down, loosen clothing, one of the person's own nitroglycerin tablets or sprays under the tongue, repeated at 5-minute intervals up to three times. Relief within minutes is expected.
+  7. **Treat a suspected heart attack:** call for help immediately. Semi-sitting, loosen clothing, reassure, nothing but sips of water. **One adult aspirin (300 to 325 mg) chewed**, unless allergic or bleeding; a single aspirin halves the risk of angina going on to a heart attack or death. Nitroglycerin as in step 6 if they have it. Do not let them walk. Be ready for CPR and have the defibrillator (AED) brought to them; most deaths in the first hours are from a heart rhythm the AED can fix.
+  8. **Heart failure** (a weak or strained heart): swelling of the ankles and legs, breathlessness lying flat, waking breathless at night, pink frothy sputum and a rattling chest in a severe episode. Sit them bolt upright with legs down, loosen clothing, keep calm, do not give extra fluids, and get help. People with heart failure must keep their water tablets and weigh themselves daily; a gain of a kilogram or two in a couple of days means fluid.
+  9. **Stroke** (sudden face droop, arm weakness, slurred speech) is the same disease in a different artery: note the time it started, lay the person on the paralysed side or semi-reclining, keep the airway clear, nothing to eat or drink, and get them to hospital fast.
+  > Most people with heart disease carry their own tablets and know their own warning pattern; ask them, read the medical ID, and follow the plan their doctor gave them. The Hospital Corpsman and SOF pages below have the clinical detail.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Hypertension
+    sections: [Signs and symptoms, Management]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Coronary artery disease
+    sections: [Signs and symptoms, Treatment]
+  - kind: pdf
+    document: navedtra-14295-hospital-corpsman
+    pages: "207-209"
+    heading: "Cerebrovascular accident, anaphylaxis and heart conditions: angina, myocardial infarction, congestive heart failure (Hospital Corpsman, chapter 4)"
+  - kind: pdf
+    document: sof-medical-handbook-2001
+    pages: "65-67"
+    heading: "Symptom: chest pain (SOF Medical Handbook, chapter 3)"
+  - kind: pdf
+    document: usphs-ships-medicine-chest-2003
+    pages: "33-35"
+    heading: "Physical examination: measuring blood pressure and pulse (Ship's Medicine Chest, chapter 1)"
+related: [cpr-and-choking, shock, stockpiling-prescriptions, airway-and-recovery-position]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.offlinevault.publish</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/namitchadha/Workspace/offline-vault/scripts/content/.venv/bin/python</string>
+    <string>/Users/namitchadha/Workspace/offline-vault/scripts/content/publish.py</string>
+    <string>publish</string>
+    <string>--tier</string>
+    <string>complete</string>
+  </array>
+  <!-- Kiwix publishes most monthly editions in the first two weeks; the 20th catches them. A failed run leaves the
+       previous manifest live, and the next run reuses every object already confirmed in R2. The lock commit is manual:
+       review scripts/content/catalogue.lock.json and reports/latest.json, then commit. -->
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Day</key>
+    <integer>20</integer>
+    <key>Hour</key>
+    <integer>2</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+  <key>WorkingDirectory</key>
+  <string>/Users/namitchadha/Workspace/offline-vault</string>
+  <key>StandardOutPath</key>
+  <string>/Users/namitchadha/Library/Logs/offlinevault/publish.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/namitchadha/Library/Logs/offlinevault/publish.log</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    <key>HOME</key>
+    <string>/Users/namitchadha</string>
+  </dict>
+  <key>ProcessType</key>
+  <string>Background</string>
+  <key>LowPriorityIO</key>
+  <true/>
+</dict>
+</plist>

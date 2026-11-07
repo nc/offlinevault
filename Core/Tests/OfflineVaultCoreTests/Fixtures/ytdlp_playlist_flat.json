@@ -1,0 +1,69 @@
+{
+ "_type": "playlist",
+ "id": "PLbpi6ZahtOH6Blw3RGYpWkSByi_T7Rygb",
+ "title": "Top Trending Videos of the Week",
+ "description": "For more of the latest trending videos go to youtube.com/trending",
+ "uploader": "by YouTube",
+ "channel": "by YouTube",
+ "webpage_url": "https://www.youtube.com/playlist?list=PLbpi6ZahtOH6Blw3RGYpWkSByi_T7Rygb",
+ "playlist_count": 19,
+ "entries": [
+  {
+   "_type": "url",
+   "ie_key": "Youtube",
+   "id": "Vh4O04Bpovw",
+   "url": "https://www.youtube.com/watch?v=Vh4O04Bpovw",
+   "title": "I Explored A $200,000,000 Forgotten Space Colony",
+   "duration": 969,
+   "channel": "Yes Theory",
+   "uploader": "Yes Theory",
+   "channel_id": "UCvK4bOhULCpmLabd2pDMtnA",
+   "view_count": 7400000,
+   "thumbnails": [
+    {
+     "url": "https://i.ytimg.com/vi/Vh4O04Bpovw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCyKqtJnwS-Cmbxj1CewkRqzjrZ1A",
+     "height": 188,
+     "width": 336
+    }
+   ]
+  },
+  {
+   "_type": "url",
+   "ie_key": "Youtube",
+   "id": "5TIp7oVKHq8",
+   "url": "https://www.youtube.com/watch?v=5TIp7oVKHq8",
+   "title": "I spent a day with REALITY TV STARS",
+   "duration": 1158,
+   "channel": "Smosh Alike",
+   "uploader": "Smosh Alike",
+   "channel_id": "UCPJHQ5_DLtxZ1gzBvZE99_g",
+   "view_count": 1200000,
+   "thumbnails": [
+    {
+     "url": "https://i.ytimg.com/vi/5TIp7oVKHq8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDeo7R1f-GP9uU1eab_LLKFXjv5lg",
+     "height": 188,
+     "width": 336
+    }
+   ]
+  },
+  {
+   "_type": "url",
+   "ie_key": "Youtube",
+   "id": "7u43Zlj9KK8",
+   "url": "https://www.youtube.com/watch?v=7u43Zlj9KK8",
+   "title": "I Surprised Him With His Least Favorite TikToker",
+   "duration": 942,
+   "channel": "Dolan Twins",
+   "uploader": "Dolan Twins",
+   "channel_id": "UCITqR49EAUY8i1vZtXTwe-A",
+   "view_count": 4400000,
+   "thumbnails": [
+    {
+     "url": "https://i.ytimg.com/vi/7u43Zlj9KK8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCUL8NxncDMn2PYay-FmX7jNtpDlA",
+     "height": 188,
+     "width": 336
+    }
+   ]
+  }
+ ]
+}

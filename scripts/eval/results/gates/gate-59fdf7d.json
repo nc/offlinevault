@@ -1,0 +1,35 @@
+{
+ "commit": "59fdf7d",
+ "created": "2026-11-07T14:38:45+00:00",
+ "passed": true,
+ "failures": [],
+ "retrieval": {
+  "goldArticles": 86,
+  "fieldguideQuestions": 101,
+  "goldCovered": 434,
+  "goldFacts": 480,
+  "fullCoverage": {
+   "first-aid-childbirth-cord": "5/5",
+   "shelter-chemical-release-room": "5/5",
+   "hazards-hazmat-shelter-in-place": "5/5"
+  },
+  "leadChosen": 38,
+  "leadGold": 38,
+  "leadPrecision": 1,
+  "leadRecall": 0.37623762376237624,
+  "leadOnCatalogue": 0
+ },
+ "app": {
+  "runId": "gate-59fdf7d-qwen3-4b-q4_k_m",
+  "models": [
+   "qwen3-4b-q4_k_m"
+  ],
+  "questions": 92,
+  "outcomes": {
+   "supported": 44,
+   "wrong": 2,
+   "refused-correctly": 10,
+   "partial": 36
+  }
+ }
+}

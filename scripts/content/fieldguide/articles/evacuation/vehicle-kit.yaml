@@ -1,0 +1,37 @@
+title: "The vehicle kit"
+summary: A smaller kit lives in the car for the day you are stranded, or must leave from work rather than from home.
+keywords: [car kit, vehicle emergency kit, stranded, jumper cables, winter driving, get-home bag]
+procedure: |
+  1. You will not necessarily be at home when it happens, so keep a smaller set of supplies in each vehicle and at work, enough for at least 24 hours, with any essential medicines in every kit.
+  ### In the car
+  - Water and non-perishable snacks, a torch with spare batteries, a first aid kit.
+  - Jumper cables, sand for traction, a blanket or sleeping bag, warm layers, gloves, sturdy shoes and rain gear, swapped for the season.
+  - A phone charger and power bank, a local paper map, a whistle, cash and coins, copies of ID, insurance and contact numbers.
+  - A battery or hand-crank radio, N95 masks, work gloves, and a tool to turn off utilities at home if you are the one coming back to do it.
+  ### Using it
+  1. Keep the tank at least half full at all times.
+  2. Stranded in a winter storm, stay in the vehicle. Never run the engine in a garage, a snowed-in or otherwise closed space; the exhaust fills the car with carbon monoxide.
+  3. In a tornado or a flash flood the car is a trap, not a shelter; see those articles for what to do instead.
+  4. Check the kit every six months with the home kit: rotate water and food, change the clothing for the season, test the torch and radio.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "20-21"
+    heading: "Gather emergency supplies: home, office and vehicle kits (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "17"
+    heading: "Winter storm: car kit (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "14"
+    heading: "Power outage: charging devices from a car (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "17-18"
+    heading: "Emergency supply kit (NWS, Thunderstorms, Tornadoes, Lightning)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Survival kit
+    sections: [Types of survival kits]
+related: [go-bag, evacuation-planning, winter-storm-and-extreme-heat, carbon-monoxide]

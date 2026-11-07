@@ -1,0 +1,24 @@
+title: "Using the OfflineVault offline map"
+summary: The Maps tab draws OpenStreetMap data from files on your Mac with no internet at all; download the regions you will need while you still have a connection, then navigate by coordinates and by eye.
+keywords: [offline map, OfflineVault map, download map region, pmtiles, coordinates, latitude longitude, OpenStreetMap, locate me, home location]
+procedure: |
+  ### Before the emergency (needs internet once)
+  1. Open the **Maps** tab. The world overview (coastlines, countries, major roads and cities) arrives with Library updates; if the map says there is no world overview yet, choose **Map Data > Get the World Overview**.
+  2. Street-level detail is downloaded per area, because the whole planet at that level is over 100 GB. Zoom to a city or county and choose **Download Detail Here**, or choose **Map Data > Download a Region** and type the box yourself. A city or county is about 100 to 400 MB; a US state 2 to 6 GB. Pick "Streets (zoom 14)" for most uses and "Full street detail (zoom 15)" for footpaths and buildings.
+  3. Download your home area, where the family works and goes to school, the meeting places in your family plan, and the routes between them. Add a wider region at "Towns and roads (zoom 10)" so you can see beyond the edge. If you have the disk, the **Full-Detail World Map** is a single download of about 130 GB.
+  4. Set **Home**: locate yourself or click the map to drop a marker on your house, then **Home > Set Home to Marker**. Offline, with no location fix, **Go Home** still centres the map there.
+  5. You can also drop any `.pmtiles` file on the window to import it, and share a region with another Mac by copying the file (Map Data lists each region with **Show in Finder**).
+  ### During
+  - **Locate Me** uses the Mac's location services, which depend on nearby Wi-Fi networks and may fail when the neighbourhood is dark. If it fails, the map falls back to the last fix.
+  - Click the map to drop a **marker**; the subtitle shows its coordinates and **Copy Marker** puts them on the clipboard for a text message or radio call. Read coordinates to another person as decimal degrees, for example "39.74, -104.99", north and east positive.
+  - **Go to lat, lon** accepts decimal degrees or degrees-minutes-seconds, so a position from a GPS, a radio message or a paper map goes straight in.
+  - Drag to pan, scroll or pinch to zoom. Dark mode follows the system.
+  ### What it will not do
+  - There is **no address search and no routing**. Find places by panning, by reading the map, and by coordinates. Plan routes with the road layers and your own judgement, and carry a paper map for the car and the go-bag; a screen needs a working Mac.
+  - Outside a downloaded region the map only shows the world overview. Check coverage before you need it: the subtitle lists which regions have street detail.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: OpenStreetMap
+    sections: [Content]
+related: [map-and-compass, reading-a-topographic-map, family-communication-plan, go-bag, pace-count-and-dead-reckoning]

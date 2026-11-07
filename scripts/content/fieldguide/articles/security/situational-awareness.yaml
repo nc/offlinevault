@@ -1,0 +1,21 @@
+title: "Situational awareness"
+summary: Notice, understand, anticipate; the habit that gets you out of trouble before it starts, in a crowd, on the road or at an accident.
+keywords: [situational awareness, assess the situation, stay or go, two exits, hazards, awareness]
+procedure: |
+  1. Awareness has three levels: **perceive** what is around you, **understand** what it means, and **project** what happens next. People who do all three make decisions before events force them. Practise the three on purpose until they are habit.
+  2. When something happens without warning, take a few seconds before you move. What kind of event is this, and is there immediate danger: fire, a damaged building, downed lines, a shooter? Then decide whether to stay or to change location. In a tornado you stay inside; in an active shooter situation you run if you can.
+  3. Every time you enter a building, note two exits. Know where you would hide: a room without windows, behind a solid door that locks, under heavy furniture. When police arrive, keep your hands visible and empty and follow their instructions.
+  4. Before you help an injured person, look for what hurt them: traffic, wires, gas, water, fire, an attacker. The first rule of first aid is not to become the second casualty, and knowing what happened is what other rescuers need from you by radio or phone.
+  5. Watch your own state as closely as the scene. Tiredness, hunger, cold, anger and alcohol all narrow attention, and a loss of awareness, not a lack of information, is behind many transport accidents.
+  6. Keep the inputs coming: alerts you have signed up for, a radio in the kit, and conversations with neighbours about what they are seeing.
+  7. If you see something or someone acting suspiciously, report it to local law enforcement.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Situation awareness
+    sections: [Definition, On-the-job examples]
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "8-9"
+    heading: "Basic protective actions: assess the situation, decide to stay or change location (FEMA, Are You Ready?)"
+related: [avoiding-civil-unrest, home-security-basics, family-communication-plan]

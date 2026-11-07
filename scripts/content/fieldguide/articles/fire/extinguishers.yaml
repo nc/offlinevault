@@ -1,0 +1,19 @@
+title: "Fire extinguishers and kitchen fires"
+summary: Which extinguisher for which fire, how to use one (PASS), and when to stop fighting and leave.
+keywords: [fire extinguisher, PASS, fire class, grease fire, kitchen fire, ABC extinguisher]
+procedure: |
+  1. Only fight a fire that is smaller than a wastebasket, with your back to an exit, when everyone else is already out and someone has called the fire service. If it grows, drop the extinguisher and leave; close doors behind you.
+  2. Match the extinguisher to the fire. **A** ordinary solids (wood, paper, cloth), **B** flammable liquids, **C** energised electrical, **D** metals, **K** (F in Europe) cooking oils and fats. A home **ABC dry powder** unit covers most rooms; keep a **K/F or a fire blanket** in the kitchen.
+  3. Use it with **PASS**: **P**ull the pin, **A**im at the base of the flames from 2 to 3 metres, **S**queeze the handle, **S**weep side to side. A household unit empties in about 10 seconds.
+  4. **Grease or oil fire in a pan**: turn off the heat, slide a lid or metal tray over the pan, leave it covered until cold. **Never pour water** on burning oil; it explodes into a fireball. No flour, no carrying the pan outside.
+  5. Oven or microwave fire: keep the door shut, turn it off, and watch it until the flames die.
+  6. Afterwards, ventilate, and replace or recharge the extinguisher. Check the gauge monthly and replace units past their date.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Fire extinguisher
+    sections: [Classification, Types of extinguishing agents]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Fire class
+related: [burns, carbon-monoxide]

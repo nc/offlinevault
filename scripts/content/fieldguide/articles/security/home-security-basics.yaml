@@ -1,0 +1,29 @@
+title: "Home security basics"
+summary: Locks, lights, sightlines and neighbours do most of the work; alarms and cameras add a layer for as long as the power and the network are up.
+keywords: [home security, locks, burglary, alarm system, door and window sensors, neighbourhood watch]
+procedure: |
+  1. Start with the doors. A proper deadlock or mortice lock on a solid door, an anti-snap cylinder on a uPVC door, and locks used every time, including when you evacuate.
+  2. Make the house look occupied when you are away: timers or presence simulation that put lights and sound on at the hours you would normally be home.
+  3. An alarm system is a control panel plus sensors: door and window contacts, glass-break detectors, motion sensors and a siren loud enough for the neighbours to hear. It needs power and a working connection to reach a monitoring company, so a long outage may leave only the siren.
+  4. Cameras deter and record, but they stream over your network. Change the default passwords, use two-factor authentication where offered, and keep the firmware updated, the same hygiene as for any connected device.
+  5. Join or start a neighbourhood watch. Neighbours who know each other notice strangers, and they are the ones who check on you in a crisis.
+  6. Keep valuables and documents in a fire- and waterproof safe, and a photo inventory of the house somewhere off site.
+  7. After a disaster, people posing as inspectors and contractors go door to door. Ask for official photo ID and give no financial information at the door.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Home security
+    sections: [Security hardware]
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "10"
+    heading: "Cyberattack: passwords, two-factor authentication and updates (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "28"
+    heading: "Take part in your community: Neighborhood Watch (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "34"
+    heading: "Protect yourself from disaster-related fraud and scams (FEMA, Are You Ready?)"
+related: [situational-awareness, documents-and-cash, returning-home]

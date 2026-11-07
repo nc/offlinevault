@@ -1,0 +1,41 @@
+title: "Dental emergencies"
+summary: Toothache, abscess and knocked-out teeth when no dentist is open; what relieves pain safely, what buys time, and which swellings are a true emergency.
+keywords: [toothache, dental abscess, knocked out tooth, avulsed tooth, broken tooth, temporary filling, clove oil, dry socket, dental pain relief]
+procedure: |
+  ### Toothache
+  1. **Work out the type.** Short, sharp pain set off by cold, heat or sweets that fades quickly is an irritated but recoverable nerve or exposed root. Pain that lingers, comes on by itself or wakes you means the nerve is dying. A tooth that aches constantly, throbs, feels "high" when you bite and hurts when tapped, with swollen gum, is an **abscess**. Pain in upper back teeth can be sinusitis; jaw pain with exertion or chest tightness can be the heart.
+  2. **Pain relief that is safe:** ibuprofen 400 mg (one or two 200 mg tablets) every 4 to 6 hours, or paracetamol 650 mg every 4 to 6 hours, if you normally tolerate them. Anti-inflammatories work as well as aspirin plus codeine for toothache. Toothache drives people to exceed the maximum dose; count tablets. **Never hold an aspirin or clove oil against the gum**; both burn the mouth lining. If you use clove oil (eugenol), touch it to the tooth only.
+  3. **Remove the cause you can reach.** Floss out trapped food and rinse with warm salt water. Cover a cavity or broken edge with a pharmacy **temporary filling kit** (zinc oxide-eugenol, or glass ionomer which bonds to tooth) or dental wax, and do not chew on that side. Do not pack zinc oxide-eugenol onto a visibly exposed pink or bleeding nerve; it kills the nerve. Keep brushing and flossing the rest.
+  ### Abscess
+  4. **Signs:** constant throbbing pain, a tooth that feels raised, swelling of the gum, cheek or face, a bad taste if it starts draining, fever and tender neck glands. **Emergency signs:** swelling spreading under the tongue or into the neck, drooling, difficulty swallowing or breathing, or fever above 38.5 °C (101 °F). These can close the airway. Go to emergency care at once.
+  5. **Where there is pus, drain it.** That is what gives relief, and it is a dentist's job (through the tooth, the socket or a small cut over a soft bulging spot on the gum). Rinse hourly with warm salt water in the meantime. Antibiotics only hold an infection down until drainage or extraction; they are justified when there is fever, feeling unwell, spreading swelling or no access to a dentist soon. The Ship's Medicine Chest regimen is penicillin V 500 mg four times a day for 7 days, or clindamycin 300 mg four times a day for a penicillin-allergic person; use them only with a prescriber's say-so.
+  ### Knocked-out, loose or broken teeth
+  6. **Adult tooth knocked out:** pick it up by the crown, never the root; do not scrub it. If dirty, rinse it for ten seconds in cold water, saline or milk. **Put it straight back in its socket**, right way round, and bite gently on a handkerchief or gauze to hold it. The sooner the better: within 40 to 60 minutes gives it a good chance, longer and the root is usually lost. If you cannot replant it, carry it in milk, saline, or the person's own saliva (inside the cheek, not for small children), never in water, and never let it dry. Then see a dentist urgently for a splint. **Do not replant a baby tooth**; clean the area and see a dentist.
+  7. **Loose or displaced tooth:** push it gently back into line with finger pressure, bite on gauze to steady it, soft foods only, dentist as soon as possible.
+  8. **Broken tooth:** rinse with warm salt water. Smooth a sharp edge with an emery board. Cover exposed dentin with temporary filling material or wax; a chipped tooth with no pain can wait, a tooth sensitive to air and cold should be seen within days, and a large pink exposure may need a root treatment or extraction later.
+  ### After an extraction
+  9. **Dry socket** (severe ache 2 to 3 days after a tooth is pulled, with a grey socket and bad smell): rinse the socket gently with saline, place gauze moistened with eugenol into it and change it daily for 3 days, take pain relief, see the dentist.
+  10. **Painful bleeding ulcerated gums with bad breath** (trench mouth): brush and floss thoroughly even though it hurts, rinse with chlorhexidine twice daily for a week, stop smoking, rest and eat well, and see a dentist.
+  > Prevention is the real emergency plan: have dental work done before a crisis, and keep a temporary filling kit, dental wax, floss, chlorhexidine rinse, salt and pain relief in the kit. The Ship's Medicine Chest chapter below lists each condition with its treatment.
+sources:
+  - kind: pdf
+    document: usphs-ships-medicine-chest-2003
+    pages: "121-127"
+    heading: "Dental care and emergencies (Ship's Medicine Chest, chapter 5)"
+  - kind: pdf
+    document: sof-medical-handbook-2001
+    pages: "278-284"
+    heading: "Dentistry: toothaches, fractures, abscesses, displaced and avulsed teeth (SOF Medical Handbook, chapter 10)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Toothache
+    sections: [Causes, Management]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Dental abscess
+    sections: [Signs and symptoms, Treatment]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Dental trauma
+    sections: [Management]
+related: [wounds-and-infection, bleeding-control]

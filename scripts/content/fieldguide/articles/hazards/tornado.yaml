@@ -1,0 +1,33 @@
+title: "Tornado: where to shelter in the seconds you have"
+summary: A watch means be ready and a warning means go now; underground or a safe room is best, an interior room on the lowest floor is next, and a mobile home is never safe.
+keywords: [tornado, tornado warning, tornado watch, safe room, storm cellar, mobile home, funnel cloud]
+procedure: |
+  1. A **watch** means tornadoes are possible: stay close to a sturdy building and keep NOAA Weather Radio or local broadcasts on. A **warning** means one is occurring or minutes away: take shelter at once.
+  2. Know the signs, because some tornadoes form too fast to warn: a rotating funnel, an approaching cloud of debris, large hail, a dark and often greenish sky, or a roar like a freight train.
+  3. Best shelter: an underground shelter, a basement or storm cellar, or a safe room built to FEMA P-361 or ICC 500. Next best: a small, windowless interior room or hallway on the lowest floor, with as many walls as possible between you and outside. Get under something sturdy, cover your head and neck, and wear a helmet if one is to hand. Leave the windows shut; opening them does nothing.
+  4. **Mobile homes are not safe**, even tied down. Leave for the nearest sturdy building now, and decide before the season which building that is.
+  5. Caught outside or in a car, drive to the closest sturdy shelter if you can. If debris starts flying, pull over and park. Then either stay belted in with your head below the windows under your hands and a blanket, or if you can get noticeably lower than the road, lie in that spot with your hands over your head. Never shelter under an overpass.
+  6. Rooms with wide roofs such as gyms, halls and large shops give little protection, and rooms with outside walls are not shelters. Move to small interior rooms.
+  7. Afterwards wear thick-soled shoes, long trousers and work gloves, and watch for downed lines, gas leaks, contaminated water and carbon monoxide from generators.
+sources:
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "13"
+    heading: "Tornado safety rules (NWS, Thunderstorms, Tornadoes, Lightning)"
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "6"
+    heading: "Tornado fiction and fact (NWS)"
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "15"
+    heading: "What to listen for: watches and warnings (NWS)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "15-16"
+    heading: "Tornado (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Tornado preparedness
+    sections: [Steps when expecting storms to arrive, Actions taken during tornadoes, Actions taken after tornadoes]
+related: [shelter-in-place, gas-leaks, carbon-monoxide]

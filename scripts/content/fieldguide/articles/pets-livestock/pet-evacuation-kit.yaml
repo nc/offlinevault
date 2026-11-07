@@ -1,0 +1,32 @@
+title: "Pet evacuation kit"
+summary: Three days of food and water, records, ID and a carrier for each animal, packed where you can grab it with the family bag.
+keywords: [pet go bag, pet emergency kit, pet carrier, microchip, pet food, pet records, leash]
+procedure: |
+  ### Pack
+  - Food: at least three days in an airtight, waterproof container, rotated so it stays fresh, and a manual can opener if it is tinned.
+  - Water: at least three days for the animals, on top of what the family needs.
+  - Medicines and records: a spare supply of regular medicines, vaccination papers, registration or adoption papers and medical records in a waterproof bag.
+  - A first aid kit as your vet recommends (see Pet first aid).
+  - A collar with rabies tag and ID worn at all times, plus a backup collar, lead and tag in the kit. Talk to the vet about a microchip and register it in a recovery database.
+  - A sturdy crate or carrier per animal, big enough for it to stand, turn around and lie down.
+  - Sanitation: litter and tray, newspapers, paper towels, bin bags and plain household bleach, which diluted 1 part to 9 parts water disinfects, and which treats drinking water as in Boil, bleach, filter.
+  - A photo of you with each pet, with species, breed, age, sex, colour and markings written on it, to prove ownership and help others identify a lost animal.
+  - Familiar things: a toy, treats, bedding.
+  ### Plan
+  1. Take the animals whenever it is practical; the carrier is what makes it practical.
+  2. Know where they can go. Public shelters usually take only service animals (see Sheltering with pets).
+  3. Check the kit every six months with the family kit.
+sources:
+  - kind: pdf
+    document: nws-weather-safety-guide
+    pages: "18-19"
+    heading: "Pet supplies (NWS, Thunderstorms, Tornadoes, Lightning)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "20-21"
+    heading: "Evacuation guidelines and emergency supplies: pets (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Tropical cyclone preparedness
+    sections: [Individual preparedness]
+related: [sheltering-with-pets, pet-first-aid, go-bag, evacuation-planning]

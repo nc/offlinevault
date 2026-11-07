@@ -1,0 +1,22 @@
+title: "Cooking safely on camp stoves and grills"
+summary: Every fuel stove and grill makes carbon monoxide; cook outdoors well away from the house, on a stable base, and handle canisters and liquid fuel with the flame out.
+keywords: [camp stove, camping stove, cooking without power, canister stove, propane grill, charcoal grill indoors, carbon monoxide stove]
+procedure: |
+  1. **Outdoors only.** Camp stoves, charcoal and gas grills and propane patio heaters stay outside, at least 6 metres (20 ft) from windows, doors and vents, with any exhaust pointing away. Not in the garage with the door open, not on a covered porch, not in a tent or caravan awning. Carbon monoxide is odourless; headache, dizziness and nausea in several people at once is the warning.
+  2. Set the stove on a **level, stable, non-flammable surface** clear of dry grass, overhanging branches and tent fabric. Keep a lid, a bucket of water or a fire blanket in reach.
+  3. **Canister (butane or propane) stoves**: screw the canister on in the open air with the valve shut, listen and smell for a leak before lighting, and have the match or lighter ready before you open the gas. Change canisters outdoors away from any flame, and never put a spent one in a fire.
+  4. **Liquid-fuel (white gas, petrol, kerosene) stoves**: fill and prime only when the stove is cold and away from other flames; expect a brief flare while priming. Wipe up spills before lighting. Never refuel a hot stove.
+  5. **Alcohol stoves** burn with a nearly invisible flame in daylight; assume a stove is lit until it is cool. Do not refill until you are sure it is out.
+  6. Keep children and pets back, turn pot handles inward, and never leave a lit stove. Let it cool fully before packing.
+  7. Store fuel outside the living space, upright, capped and away from heat.
+  > The temptation in a power cut is to bring the camp stove or grill inside "just for ten minutes". People die that way every winter. A cold meal is safer.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Portable stove
+    sections: [Uses, Pressurized liquid fuel stoves]
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "15"
+    heading: "Power outage guidance on generators, stoves and grills (FEMA, Are You Ready?)"
+related: [carbon-monoxide, firecraft, extinguishers, staying-warm-indoors]

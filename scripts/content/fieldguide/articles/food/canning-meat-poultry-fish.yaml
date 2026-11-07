@@ -1,0 +1,22 @@
+title: "Canning meat, poultry and fish"
+summary: Meat, poultry and fish take the longest pressure-canner times in the book; precook, pack with headspace, and never shorten the time or skip the venting.
+keywords: [canning meat, canning chicken, canning venison, canning fish, pressure canner, hot pack, raw pack, meat stock]
+procedure: |
+  1. Meat, poultry, game and seafood are **low-acid** foods: **pressure canner only**, at the pressure for your altitude (weighted gauge 10 lb up to 1,000 ft and 15 lb above; dial gauge 11 lb up to 2,000 ft, then 12, 13 and 14 lb for each 2,000 ft higher).
+  2. Start with fresh, healthy, **chilled** meat. Chill dressed chicken 6 to 12 hours before canning. Soak rabbit and strong-flavoured wild meat for 1 hour in brine (1 tablespoon of salt per quart) and rinse. Trim off excess fat and remove large bones. For venison, add one part pork fat to three or four parts venison before grinding.
+  3. **Hot pack is preferred** because it gives better liquid cover. Chicken or rabbit: boil, steam or bake until about two-thirds done. Strips, cubes or chunks: roast, stew or brown until rare. Ground meat: shape into patties or balls (or sauté loose), cook until lightly browned and drain the fat. Fill hot jars with the pieces and boiling broth, drippings, water or tomato juice.
+  4. Headspace: **1 inch** for red meat, ground meat and stock; **1-1/4 inch** for chicken or rabbit. Raw pack: fill loosely with raw pieces and **add no liquid**. Salt is optional, 1 teaspoon per quart. Remove air bubbles, wipe rims (use a dry towel after a damp one to lift any fat), fit lids.
+  5. Process times at the correct pressure (pints / quarts): chicken or rabbit **without bones 75 / 90 minutes**, with bones 65 / 75; ground or chopped meat 75 / 90; strips, cubes or chunks 75 / 90; meat stock 20 / 25. Vent the canner 10 minutes before pressurising, start timing when the pressure is reached, and restart from zero if the pressure drops.
+  6. **Fish** (salmon, trout, mackerel and other fatty fish except tuna): bleed and gut within 2 hours of the catch and keep on ice. Remove head, tail, fins and scales; skin and bones can stay. Cut into 3-1/2 inch lengths, pack raw into pint jars with 1 inch of headspace, **no liquid**, optional 1 teaspoon of salt. Process **100 minutes**. Quart jars need the special 160-minute process with a 30-minute heat-and-vent start described in the guide; read it before trying.
+  7. Let the canner cool and depressurise by itself, wait 10 minutes after removing the weight, then lift the jars out and leave them undisturbed for 12 to 24 hours. Check seals before storing.
+  > Mixed dishes such as chile con carne must follow the USDA recipe exactly; the guide warns not to thicken them. Treat any jar that spurts, foams, bulges or smells wrong as poisonous and see Botulism and spoiled canned food.
+sources:
+  - kind: pdf
+    document: usda-complete-guide-home-canning-2015
+    pages: "135-142"
+    heading: "Chicken or rabbit, meats, meat stock, chile con carne, clams, crab and fish with process tables (USDA Guide 5)"
+  - kind: pdf
+    document: usda-complete-guide-home-canning-2015
+    pages: "30-34"
+    heading: "Pressure canners and using them (USDA Guide 1)"
+related: [pressure-canning-vegetables, safe-canning-principles, botulism, drying-jerky-root-cellaring]

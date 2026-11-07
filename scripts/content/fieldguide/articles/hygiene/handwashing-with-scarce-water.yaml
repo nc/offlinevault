@@ -1,0 +1,30 @@
+title: "Handwashing when water is scarce"
+summary: Soap, twenty seconds of scrubbing and a trickle of poured water are what count; a jerry can with a pinhole or a tin with four holes makes a wash station from almost nothing.
+keywords: [handwashing, hand washing, soap, hand sanitizer, tippy tap, hygiene, 20 seconds, diarrhoea prevention]
+procedure: |
+  1. **When it matters most:** after using the toilet or latrine, after cleaning a child's bottom or changing a nappy, before feeding a child, before eating, and before and after preparing food or handling raw meat, fish or poultry. Also before and after treating a wound, after sneezing or coughing, after handling animals or their waste, and after touching garbage. Washing with soap cuts diarrhoeal illness by roughly 30 to 48 percent, which in a disaster is the difference between a nuisance and an outbreak.
+  2. **How:** wet the hands, lather well with soap over the backs, between the fingers and under the nails, **scrub for at least 20 seconds**, rinse under running or poured water, and dry with a clean towel or in the air. The spots most often missed are the thumbs, wrists, between the fingers and under the nails. Water temperature makes no difference; the scrubbing does.
+  3. **Never share a basin.** Hands dipped in standing water pick up what the last person left. Pour instead: have someone tip a jug over your hands, or build a station that pours for you.
+  4. **Two stations from scrap** (FM 21-10): hang a 5-litre jerry can or water can from a frame with a small hole punched in the cap, so it pours when tipped (a "tippy tap" worked by a foot string is the same idea). Or mount a large tin with **four small holes in the bottom**; dip a cupful of water into it from a covered container and wash both hands in the four streams. Either uses very little water. Keep a bar of soap on a tin-lid dish, keep the container filled, put a pit of stones underneath so water does not puddle, and cover the water when not in use so mosquitoes cannot breed in it.
+  5. **Where:** one station just outside the latrine, one at the kitchen. The rule that nobody handles food after the toilet without washing where others can see is older than any pandemic and still the most effective one.
+  6. **Soap:** plain soap works as well as "antibacterial" soap. A bar is fine; germs rinse off with the foam. If you have no soap, the WHO lists ash or clean sand as a stand-in; the evidence for them is weak, but they are better than water alone. Never use soil or ash that may itself be contaminated.
+  7. **Hand sanitiser** needs at least 60 percent alcohol, enough to wet both hands, rubbed for about 30 seconds until dry. It is good for a quick clean when there is no water at all, but it does not remove dirt, is poor against the stomach viruses (norovirus) that cause most outbreaks, and should not replace soap when hands are visibly dirty.
+  8. Use treated water for handwashing when you can. Do not share towels, toothbrushes or cups, and keep fingers out of your mouth between washes.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Hand washing
+    sections: [Steps and duration, Substances used]
+  - kind: pdf
+    document: army-fm-21-10-field-hygiene
+    pages: "19-21"
+    heading: "Rules for avoiding illness in the field and improvised hand-washing devices (FM 21-10, chapter 3)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "14"
+    heading: "Pandemics: wash hands for 20 seconds, sanitiser at least 60 percent alcohol (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Diarrhea
+    sections: [Prevention]
+related: [diarrhoea-and-oral-rehydration, latrines-and-human-waste, boil-bleach-filter, waterborne-illness]

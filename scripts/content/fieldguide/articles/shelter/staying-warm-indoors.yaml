@@ -1,0 +1,22 @@
+title: "Staying warm indoors without power"
+summary: Shrink the house to one room, layer up, and never heat with anything that burns fuel indoors; know the signs of hypothermia.
+keywords: [power outage, winter storm, keep warm, hypothermia, frostbite, warming shelter]
+procedure: |
+  1. Pick one room, ideally south-facing with few windows, and move everyone into it. Close other doors. Hang blankets over windows and doorways, and stuff gaps with towels.
+  2. Dress in loose layers with a hat; wear a hat and socks to bed. Share body heat and sleeping bags. Eat and drink regularly; the body needs fuel to make heat.
+  3. Open south-facing curtains by day, close them at dusk. Trap heat from cooking (gas hob briefly, with a window cracked) but **never heat with a gas oven or stovetop left on**.
+  4. Run generators, grills, camp stoves and propane heaters **outdoors only**, 6 metres (20 ft) from windows, doors and vents. Indoors they make carbon monoxide, which has killed many people in cold snaps. Keep a battery carbon monoxide alarm.
+  5. Protect the pipes: let taps drip, open cabinet doors under sinks, know where the main shut-off is.
+  6. Check on older neighbours and anyone alone. If the house drops below about 10 °C (50 °F) for more than a few hours and you cannot stay warm, go to a friend's house or a warming shelter.
+  ### Hypothermia
+  - Shivering, clumsiness, slurred speech, confusion, then drowsiness. Get the person dry and insulated from the ground, warm the trunk first with blankets and body heat, give warm sweet drinks only if fully awake. No alcohol, no rubbing of limbs, and handle gently.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "17"
+    heading: "Winter storm (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Hypothermia
+    sections: [Signs and symptoms, Prevention, Management]
+related: [carbon-monoxide, shelter-in-place, go-bag]

@@ -1,0 +1,36 @@
+title: "Heat cramps, heat exhaustion and heatstroke"
+summary: Heat exhaustion is treated with shade, water and rest; heatstroke, with hot skin and confusion, is an emergency where cooling the body fast matters more than anything else.
+keywords: [heatstroke, heat stroke, heat exhaustion, heat cramps, sunstroke, hyperthermia, cooling, hot car]
+procedure: |
+  ### Recognise the stage
+  - **Heat cramps**: painful cramps in the arms, legs or belly with heavy sweating.
+  - **Heat exhaustion**: heavy sweating with pale, cool, clammy skin; headache, weakness, dizziness, nausea, cramps, goosebumps, fast breathing, tingling hands and feet, some confusion. Body temperature is raised but under about 40 degrees C.
+  - **Heatstroke**: body temperature over about 40 degrees C with **confusion, slurred speech, agitation, seizures or collapse**. Skin is hot and red; it may be dry (classic heatstroke in the old, the ill and people in hot rooms or cars) or still sweaty (exertional heatstroke in workers, athletes and soldiers). Heatstroke kills and leaves many survivors with lasting damage.
+  ### Cramps and exhaustion
+  1. Move the person to shade or a cool room, or make shade. Loosen or remove clothing and boots.
+  2. Have them sip at least a litre (a canteen) of cool water slowly. Sports or electrolyte drinks are fine for heat exhaustion if they are awake, alert and not vomiting. Do not give salt tablets or salt solutions.
+  3. Pour water on them and fan them. Lay them down with the legs raised.
+  4. No more hard work that day. Stay with them until the symptoms are gone, and get medical help if they are not improving.
+  ### Heatstroke: cool first, then move
+  1. Send someone for help and **start cooling at once**. Do not stop cooling to go for help yourself.
+  2. Shade, strip to underwear, then soak them: pour or spray water over the whole body and fan hard. If you have a tub, trough or stream and the person is awake, immersion in cold water is the fastest cooling of all; keep the head above water. Ice packs or wet cloths to the neck, armpits and groin add to it but are not enough alone.
+  3. Massage the arms and legs to move cooled blood, and raise the legs. Give sips of water only if fully conscious.
+  4. Keep cooling while you wait and during the journey to care. Aim to get the body below 39 degrees C. If they stop breathing normally, start CPR.
+  ### Prevention
+  - Loose, light, light-coloured clothing and a wide hat. Drink before you are thirsty; dark yellow urine means you are behind. Avoid hard work in the heat of the day and acclimatise over days, not hours.
+  - Never leave a child, an older person or a pet in a parked car. At 21 degrees C outside, the inside passes 49 degrees C quickly, even with a window cracked.
+  - Check on older neighbours and anyone on blood-pressure pills, water pills, antidepressants or some allergy medicines, which reduce heat tolerance. Children under five and adults over 65 are at most risk.
+sources:
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "111-114"
+    heading: "Heat injuries (FM 4-25.11, chapter 5)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Heat exhaustion
+    sections: [Signs and symptoms, Prevention, Treatment]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Heat stroke
+    sections: [Signs and symptoms, Causes, Prevention, Treatment]
+related: [shock, cpr-and-choking, waterborne-illness, staying-warm-indoors]

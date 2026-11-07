@@ -1,0 +1,26 @@
+title: "Fractures and splinting"
+summary: Splint a broken limb in the position you find it, padded and including the joints above and below, and check the circulation before and after.
+keywords: [broken bone, fracture, splint, sling, immobilize, immobilise, swathe]
+procedure: |
+  1. Suspect a fracture when there is deformity, swelling, bruising, grating, loss of use or pain on moving. Treat a suspected fracture as a fracture.
+  2. Control bleeding first. Cover an open fracture (bone through skin) with a clean dressing; do not push the bone back or wash the wound deeply.
+  3. Check circulation and feeling beyond the injury: skin colour, warmth, pulse, can they feel and wiggle fingers or toes. Note it.
+  4. **Splint in the position found.** Do not try to straighten the limb. Use boards, rolled newspaper, a folded blanket, a walking pole, or the uninjured leg.
+  5. Pad the splint, then tie it so it immobilises the **joint above and the joint below** the break. Ties should be snug, never over the break, and knotted away from the skin.
+  6. Re-check circulation after splinting and every 15 minutes; loosen ties if fingers or toes go pale, cold, numb or blue.
+  7. Support an arm in a sling and a swathe (a band around the chest). Elevate the limb when you can and keep the person warm; treat for shock.
+  > Suspected neck or back injury: do not move the person unless they are in danger or must be turned to breathe. Keep the head in line with the body and wait for trained help.
+sources:
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "89-107"
+    heading: "First aid for fractures (FM 4-25.11, chapter 4)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Splint (medicine)
+    sections: [Uses]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Bone fracture
+    sections: [Signs and symptoms, Treatment]
+related: [bleeding-control, shock]

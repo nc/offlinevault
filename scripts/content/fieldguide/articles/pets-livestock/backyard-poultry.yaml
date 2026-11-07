@@ -1,0 +1,30 @@
+title: "Backyard poultry in an emergency"
+summary: Hens need shelter from predators and weather, clean water and dry feed, and you need to keep their germs out of your kitchen.
+keywords: [backyard chickens, hens, chicken coop, poultry, bird flu, salmonella, predators]
+procedure: |
+  1. A sound coop is the preparation: predator-proof wire mesh, dry, ventilated, with perches and nest boxes, on well-drained ground sheltered from the prevailing wind. Shut the birds in at night; predators take free-ranging birds.
+  2. Water first. Excess heat, cold or damp all harm the birds, so check and refill drinkers often, break ice in a freeze and give shade and extra water in heat.
+  3. Store feed dry in sealed bins that rodents cannot open. Free-ranging hens find much of their own food, and village hens have lived for months on scavenging and still laid an egg or two a week, so a short gap in bought feed is survivable; expect laying to fall.
+  4. Keep wild birds away from the flock's feed and water. Avian influenza passes from wild birds, and a closed run cuts the risk. If several birds die suddenly, report it and do not handle them bare-handed.
+  5. Salmonella: wash hands after handling birds, eggs or the coop, keep coop boots and tools out of the house, keep children's hands washed, collect eggs daily and cook them well.
+  6. Lead and other metals in soil end up in eggs. Do not site a run beside old painted buildings or on suspect ground.
+  7. If you evacuate, a ventilated box carries a few hens; otherwise leave them shut in the coop with as much feed and water as you can set out.
+  8. After a wildfire or flood keep the birds penned off burned or flooded ground; ash holds heat pockets and floodwater carries contamination.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Urban chicken keeping
+    sections: [Concerns]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Poultry farming
+    sections: [Chicken coop, Egg-laying chickens]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Animal husbandry
+    sections: [Practices]
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "17"
+    heading: "Wildfire: hot ash and the danger to pets and livestock (FEMA, Are You Ready?)"
+related: [pet-evacuation-kit, waterborne-illness, wildfire]

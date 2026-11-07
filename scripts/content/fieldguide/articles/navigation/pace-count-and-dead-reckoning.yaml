@@ -1,0 +1,32 @@
+title: "Pace count and dead reckoning"
+summary: Know how many of your paces make 100 metres, keep the tally with beads or pebbles, and walk measured legs on measured bearings; then confirm your position against the ground at every chance.
+keywords: [pace count, ranger beads, dead reckoning, measure distance walking, steering mark, navigation legs, 100 metres]
+procedure: |
+  ### Learn your pace
+  1. A pace is one natural step, roughly 75 cm. Measure a course of 100 metres (or walk a known 600 m and divide by 6) on ground like the ground you will travel, and count the paces. Write the number down. The Army manual's example is 120 paces per 100 metres; yours will differ.
+  2. Your count changes: longer paces downhill and with a tail wind, shorter uphill, into wind, in sand, gravel, mud or snow, in rain, fog or dark, with a heavy pack or poor boots. Measure a separate night count, and allow extra on slopes.
+  3. **Never keep the tally in your head.** Move a pebble from one pocket to the other every 100 metres, tie a knot in a cord, slide a ranger bead, or make a tick in a notebook.
+  ### Dead reckoning
+  1. Start from a **known point**. Everything that follows is measured from it, so if you do not know where you are, fix that first by terrain association or resection.
+  2. From the map, take the bearing and the distance to the next checkpoint (one leg). Set the bearing on the compass.
+  3. Pick a **steering mark** on that bearing as far ahead as you can see (a lone tree, a rock, a notch in the skyline), walk to it counting paces, and repeat. Choose the highest, most distant, most distinctive mark; at night choose by silhouette. Where there is nothing to see, send a companion ahead on the bearing and walk to them.
+  4. At each obstacle, detour at right angles and count only the paces that carry you toward the goal; return to the original line as soon as you can.
+  5. At the end of the leg, stop, orient the map, and look for the checkpoint. If it is there, **restart the pace count from zero** and begin the next leg.
+  ### Why it drifts and what to do
+  - Every pace, every compass reading and every detour adds a little error, and the errors **accumulate** the longer you go without checking. Confirm your position against any known feature, use resection from two landmarks when you can, and keep legs short in thick cover, fog or dark.
+  - Combine methods: dead reckoning to hold the line, terrain association to catch mistakes, a handrail where one runs your way. Good navigators use all three.
+  - Time is a check on distance: a loaded walker on easy ground covers about 4 km an hour, much less in hills, snow or thick bush.
+sources:
+  - kind: pdf
+    document: fm-3-25-26-map-reading-land-navigation
+    pages: "52-53"
+    heading: "Pace count (FM 3-25.26, chapter 5)"
+  - kind: pdf
+    document: fm-3-25-26-map-reading-land-navigation
+    pages: "134-141"
+    heading: "Moving by dead reckoning and terrain association (FM 3-25.26, chapter 11)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Dead reckoning
+    sections: [Errors, Pedestrian dead reckoning]
+related: [map-and-compass, reading-a-topographic-map, direction-without-a-compass]

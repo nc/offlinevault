@@ -1,0 +1,20 @@
+title: "Distilling water to remove salt and chemicals"
+summary: Boiling off and condensing the steam is the one home method that also removes salt, heavy metals and most chemicals.
+keywords: [distilled water, desalination, condense, still, salt water]
+procedure: |
+  1. Use distillation when the water is salty, brackish or may carry fuel, pesticides or heavy metals. Boiling, bleach and filters leave those in.
+  2. Kitchen still: half fill a large pot, float a heat-proof cup or bowl in it, and put the lid on **upside down** so its handle points into the cup. Simmer; steam condenses on the lid and drips into the cup. Keep ice or cold water on top of the lid to speed it up.
+  3. Keep the collecting cup above the dirty water line and never let the pot boil dry.
+  4. Field still: a plastic sheet weighted over a pit with the container under the lowest point (the solar still in FM 21-76) distils slowly but needs no fuel.
+  5. Distilled water tastes flat and has no minerals; that is harmless for days or weeks. Store it covered like any treated water.
+  > Alcohol, antifreeze and some solvents boil below water and come across with the steam. Distillation is not a safe answer to water you know is laced with those.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Distilled water
+    sections: [Applications, Health effects]
+  - kind: pdf
+    document: army-fm-21-76-survival
+    pages: "58-60"
+    heading: "Still construction (FM 21-76, chapter 6)"
+related: [boil-bleach-filter, finding-water]

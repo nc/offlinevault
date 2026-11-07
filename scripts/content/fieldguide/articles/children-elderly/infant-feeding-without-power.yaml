@@ -1,0 +1,30 @@
+title: "Feeding a baby when the power and clean water are off"
+summary: Breast milk needs nothing; formula needs safe water, clean bottles and no leftovers, and ready-to-feed liquid beats powder when the water is doubtful.
+keywords: [infant formula, breastfeeding, baby bottle, powdered formula, safe water for formula, sterilise bottles, Cronobacter]
+procedure: |
+  1. If you are breastfeeding, keep going. It is the safest food in an emergency and needs no water, power or clean equipment, and clinicians treating sick or injured infants prefer it to formula for exactly that reason. Stress and exhaustion make feeding harder, so the mother needs food, fluids, rest and a quiet place first.
+  2. Pack formula, bottles, teats and nappies in the kit; a baby cannot wait for the shops to reopen. Powder has to be made up with water, so when the water is doubtful use ready-to-feed liquid if you have it.
+  3. Make up powdered formula only with safe water: bottled, or boiled and cooled (see Boil, bleach, filter). Measure the powder exactly as the tin says. Diluting formula to stretch it starves the baby.
+  4. Powder is not sterile and can carry Cronobacter, which is most dangerous to young and premature babies. Without refrigeration, mix each feed fresh and throw away what the baby leaves rather than keeping it.
+  5. Everything that touches the milk gets washed in soap and safe water and sterilised before each use; boiling is the sterilising you can still do without power. A clean cup works for feeding when bottles cannot be cleaned.
+  6. Nothing else goes in the bottle. Formula and breast milk are the only milks that are nutritionally acceptable under one year; no cow's milk, no watered-down formula, no honey.
+  7. A sick or injured baby still needs feeding, and a standard powdered infant formula is the right one if formula is all there is. Keep a parent close; it calms the child.
+  > Watch for dehydration: fewer wet nappies, a dry mouth and unusual drowsiness. See Fever and dehydration in children.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Infant formula
+    sections: [Preparation and content, Health risks and controversies]
+  - kind: pdf
+    document: pediatric-surgery-hostile-environments
+    pages: "479-480"
+    heading: "Breast-feeding and formula for sick or injured infants (Pediatric Surgery and Medicine for Hostile Environments, chapter 35)"
+  - kind: pdf
+    document: cdc-use-safe-water-one-pager
+    pages: "1"
+    heading: "Use safe water after an emergency (CDC)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "21"
+    heading: "Emergency supply kit: infant formula and diapers (FEMA, Are You Ready?)"
+related: [boil-bleach-filter, storing-water, fever-and-dehydration-in-children, botulism]

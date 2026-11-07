@@ -1,0 +1,32 @@
+title: "Pickles and sauerkraut: fermenting and quick pickling"
+summary: Fermented pickles and sauerkraut make their own acid over weeks under brine; quick pickles borrow it from 5 percent vinegar; both are then canned in a boiling-water bath.
+keywords: [pickles, sauerkraut, fermentation, brine, dill pickles, quick pickles, pickling salt, vinegar 5 percent, lactic acid]
+procedure: |
+  ### What keeps pickles safe
+  1. Two routes to a safe pickle. **Fermentation**: salt brine favours lactic acid bacteria, which sour the vegetable over 3 to 6 weeks and make it too acid for botulism to grow. **Quick (fresh-pack) pickling**: the acid comes from **5 percent vinegar**; never dilute the vinegar below what the recipe says.
+  2. Use canning or pickling salt. Table salt works but its anti-caking agents cloud the brine; flake salt is not recommended; reduced-sodium salt must not be used in fermented recipes.
+  3. Container: allow **1 gallon per 5 lb of vegetables**; a stone crock, glass or food-grade plastic (never garbage bags). Keep the vegetables **1 to 2 inches under the brine** with a plate weighted by sealed jars of water, or a sealed food-grade bag holding 3 quarts of water and 4-1/2 tablespoons of salt. Cover the top with a clean heavy towel. Wash container, plate and weights in hot soapy water and rinse with very hot water.
+  ### Fermented dill pickles
+  4. Per gallon of container: 4 lb of 4-inch cucumbers (slice 1/16 inch off the blossom end, leave 1/4 inch of stem), 2 tablespoons dill seed or 4 to 5 dill heads, **1/2 cup salt, 1/4 cup vinegar, 8 cups water**, plus garlic, dried red peppers or pickling spice if you like. Dissolve the salt in the vinegar and water and pour it over.
+  5. Keep at **70 to 75 °F (21 to 24 °C) for 3 to 4 weeks** (55 to 65 °F takes 5 to 6 weeks; above 80 °F the pickles go soft). Check several times a week and skim scum or mould promptly. **Discard the batch if the pickles turn soft, slimy or smell bad.**
+  6. Store fully fermented pickles in the fridge for 4 to 6 months, or can them: heat the brine to a boil, simmer 5 minutes, fill hot jars with pickles and brine leaving 1/2 inch headspace, and process in boiling water **10 minutes for pints, 15 for quarts** (0 to 1,000 ft; add 5 minutes at 1,001 to 6,000 ft and 10 above). Or use the low-temperature pasteurisation the guide describes (180 to 185 °F for 30 minutes), only where a recipe allows it.
+  ### Sauerkraut
+  7. **3 tablespoons of salt per 5 lb of shredded cabbage** (3/4 cup for 25 lb). Shred to the thickness of a coin, mix the salt in with clean hands and pack firmly until juice rises; repeat until the container is full with 4 to 5 inches to spare. If juice does not cover the cabbage, add boiled and cooled brine (1-1/2 tablespoons salt per quart of water). Weight, cover and keep at 70 to 75 °F: **3 to 4 weeks** (5 to 6 weeks at 60 to 65 °F; below 60 °F it may not ferment; above 75 °F it goes soft). Done when bubbling stops.
+  8. Keep finished kraut covered in the fridge for months, or can it: hot pack (heat slowly to a boil) 10 minutes pints, 15 quarts; raw pack 20 / 25, both with 1/2 inch headspace.
+  ### Quick pickles
+  9. Quick fresh-pack dills: soak 8 lb of cucumbers 12 hours in brine (3/4 cup salt in 2 gallons water), drain, pack into hot jars with dill and mustard seed, cover with a boiling solution of 1-1/2 quarts of 5 percent vinegar, 1/2 cup salt, 1/4 cup sugar and 2 quarts water (spices tied in a cloth), 1/2 inch headspace, and process 10 minutes for pints, 15 for quarts. Bread-and-butter pickles: salt the slices under ice 3 to 4 hours, drain, heat in the vinegar-sugar syrup, and process 10 minutes; they need 4 to 5 weeks on the shelf to develop flavour.
+  > A white film of kahm yeast on a ferment is mostly harmless and can be skimmed; fuzzy mould, softness, slime or a bad smell mean the batch is lost. When in doubt, throw it out.
+sources:
+  - kind: pdf
+    document: usda-complete-guide-home-canning-2015
+    pages: "150-157"
+    heading: "Cucumbers, pasteurisation, fermentation containers, salts, dill pickles, sauerkraut and quick pickles (USDA Guide 6)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Pickling
+    sections: [Process]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Sauerkraut
+    sections: [Production]
+related: [safe-canning-principles, canning-fruit-and-tomatoes, jams-and-jellies, botulism]

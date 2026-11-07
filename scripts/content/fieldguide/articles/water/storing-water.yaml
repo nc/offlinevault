@@ -1,0 +1,24 @@
+title: "Storing water: how much, in what, for how long"
+summary: One gallon per person per day, in food-grade containers you have sanitised, rotated every six months.
+keywords: [water storage, emergency water supply, containers, rotate water, gallon per person]
+procedure: |
+  1. Plan **one US gallon (about 4 litres) per person per day**, half for drinking and half for cooking and hygiene. Store three days as a minimum and two weeks if you can. Add more for hot climates, children, nursing mothers, the sick and pets.
+  2. Commercially bottled water is the safest choice; keep it sealed, out of sunlight and away from fuel or chemicals, and respect the date on the bottle.
+  3. To fill your own, use food-grade containers (never ones that held milk, juice or chemicals). Wash with soap, rinse, then sanitise with 1 teaspoon of unscented bleach in a quart (1 litre) of water: cap, shake so it touches every surface, wait 30 seconds, empty and air dry.
+  4. Fill from a treated tap supply, cap tightly, label the date and store in a cool, dark place. Replace self-filled water every six months.
+  5. Keep a smaller supply in the car and at work. If the supply is interrupted, fill the bathtub and every clean pot while pressure lasts.
+  > Water that smells or looks wrong after storage can still be treated by boiling or bleach before use (see Boil, bleach, filter).
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "20-21"
+    heading: "Gather emergency supplies (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: ready-supply-kit-checklist
+    pages: "1-2"
+    heading: "Emergency supply list (Ready.gov)"
+  - kind: pdf
+    document: cdc-use-safe-water-one-pager
+    pages: "1"
+    heading: "Use safe water after an emergency (CDC)"
+related: [boil-bleach-filter, go-bag, finding-water]

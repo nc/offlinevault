@@ -1,0 +1,25 @@
+title: "Stopping severe bleeding: pressure, packing, tourniquet"
+summary: Life-threatening bleeding kills in minutes; firm direct pressure stops most of it, and a tourniquet stops the rest.
+keywords: [hemorrhage, haemorrhage, direct pressure, pressure dressing, tourniquet, wound packing]
+procedure: |
+  1. Keep yourself safe (gloves or a plastic bag over your hands), expose the wound and find exactly where the blood is coming from.
+  2. Press **hard and directly** on the bleeding point with a clean dressing, cloth or your hand. Do not lift it to look. Add more cloth on top if it soaks through.
+  3. For a deep wound in the arm, leg, neck, armpit or groin, pack gauze or clean cloth tightly into the wound and keep pressing on it.
+  4. Hold a pressure dressing in place with a bandage wrapped firmly, then keep checking that it is still working.
+  5. If an arm or leg keeps bleeding heavily, apply a **tourniquet** 5 to 8 cm (2 to 3 inches) above the wound, not over a joint. Tighten until the bleeding stops, then secure it and **write the time** on the tourniquet or the skin. A belt rarely works; use a commercial tourniquet or a wide cloth band tightened with a stick (windlass).
+  6. Do not loosen or remove a tourniquet once it is on; that is for medical staff. Treat for shock, keep the person warm, and get them to care.
+  > A tourniquet hurts a lot. That is expected and is not a reason to loosen it.
+sources:
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "38-48"
+    heading: "Stop the bleeding and protect the wound (FM 4-25.11, chapter 2 section II)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Emergency bleeding control
+    sections: [External wound management]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Tourniquet
+    sections: [Risks]
+related: [shock, burns, fractures-and-splinting]

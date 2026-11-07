@@ -1,0 +1,23 @@
+title: "Finding water when the taps are dry"
+summary: Where water hides in each environment, how to collect rain and dew, and why every source still needs treatment.
+keywords: [water sources, rainwater, dew, solar still, collect water]
+procedure: |
+  ### Look first at what you already have
+  1. The water heater tank, toilet cisterns (not the bowl), ice cubes and the pipes (open the highest tap, then drain the lowest) hold tens of litres.
+  2. Rain is the cleanest free source. Put out every clean container, and run a tarp or gutter downspout into a covered barrel. Discard the first flush off a dirty roof.
+  ### In the open
+  1. Move downhill and towards greener vegetation; streams, springs and seeps collect in valleys. Flowing water beats standing water.
+  2. Collect dew before sunrise by dragging an absorbent cloth through grass and wringing it into a container.
+  3. Melt snow or ice in small amounts added to a little water already in the pot; eating snow cools you and costs energy.
+  4. Build a solar still where there is sun but no surface water: a plastic sheet over a pit with a container under the sag point.
+  > Never drink seawater, urine, blood or water from near latrines, dumps or downstream of livestock. Treat everything you collect (see Boil, bleach, filter), including rainwater that has run over a roof.
+sources:
+  - kind: pdf
+    document: army-fm-21-76-survival
+    pages: "53-62"
+    heading: "Water procurement (FM 21-76, chapter 6)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Rainwater harvesting
+    sections: [Technologies, Limitations]
+related: [boil-bleach-filter, storing-water, distillation]

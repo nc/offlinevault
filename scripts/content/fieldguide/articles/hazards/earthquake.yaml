@@ -1,0 +1,30 @@
+title: "Earthquake: drop, cover and hold on"
+summary: The shaking lasts seconds; what you do in those seconds, and in the first hour after, decides most of the harm.
+keywords: [earthquake, drop cover hold on, aftershock, tsunami, secure furniture, utility shut-off]
+procedure: |
+  ### Before
+  1. Fix bookcases, water heaters, mirrors, televisions, refrigerators and heavy pictures to the walls and keep heavy things low. Know where the gas, water and electricity shut-offs are and keep the tools for them; every responsible person in the house should be able to turn off the gas.
+  2. Have a professional check whether the house or workplace needs strengthening against falling debris and collapse.
+  ### During
+  1. **Drop** to your hands and knees, **cover** your head and neck with your arms, crawl under sturdy furniture if it is close without crossing debris, and **hold on** until the shaking stops. Walking or running exposes you to falling and flying objects, so do not run outside.
+  2. In bed, stay there and cover your head and neck with a pillow. In a high-rise, expect fire alarms and sprinklers to go off; do not use the lifts.
+  3. In a vehicle, stop in a clear area away from buildings, trees, overpasses, underpasses and wires. Near slopes and cliffs, watch for falling rocks and landslides.
+  ### After
+  1. Expect aftershocks after the largest shock. If you are in a damaged building and there is a safe way out through the debris, leave for an open space and do not go back in until an authority says it is safe.
+  2. If you are trapped, send a text, bang on a pipe or wall, or blow a whistle rather than shouting, and cover your mouth against dust.
+  3. Near the coast, go inland or to high ground as soon as the shaking stops; a tsunami can follow. Refuges should be 30 m (100 ft) above sea level or 1.5 km (1 mile) inland.
+  4. Check for gas leaks, damaged wiring and structural cracks before you use the house again (see Gas leaks and Returning home).
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "10-11"
+    heading: "Earthquake (FEMA, Are You Ready?)"
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "16"
+    heading: "Tsunami (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Earthquake preparedness
+    sections: [Types of preparedness]
+related: [gas-leaks, returning-home, go-bag, family-communication-plan]

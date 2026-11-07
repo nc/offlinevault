@@ -1,0 +1,35 @@
+title: "Defensible space: preparing a home for wildfire"
+summary: Clear the first metre and a half to bare mineral ground, keep everything within 30 metres lean and green, thin fuel to 100 metres, and leave early when told.
+keywords: [defensible space, wildfire, bushfire, firescaping, embers, fuel ladder, evacuate wildfire, N95]
+procedure: |
+  ### Zone 0: the first 1.5 metres (5 ft) from the walls
+  - Nothing that burns against the house: gravel, pavers or stone mulch instead of bark or plants, no wood piles, doormats, wooden furniture, propane cylinders or fuel cans. Clear gutters and the roof of leaves and needles. Embers blow far ahead of the flames and land in exactly these places.
+  ### Zone 1: to 30 metres (100 ft)
+  - "Low, lean and green". Remove dead plants, dry grass and leaf litter. Keep grass short and watered. Prune trees so no branch hangs over the roof or comes within 3 metres (10 ft) of the house, and keep tree crowns 3 metres apart.
+  - Move firewood, petrol, propane, oil, rubbish and yard waste at least 10 metres (30 ft) from the house.
+  ### Zone 2: 30 to 100 metres (100 to 300 ft)
+  - Thin and separate fuels. Grass under 10 cm; trees spaced 3 metres on flat ground and twice that on slopes; shrubs spaced twice their height on flat ground, four times on slopes.
+  - Break the **fuel ladder**: remove lower limbs so there is at least 2 metres (6 ft) between the ground and the lowest branches, and keep a gap of three times a shrub's height between it and the branches above. Leaf and needle litter no deeper than 8 cm.
+  - Work with neighbours to break up continuous tree canopy within 60 metres (200 ft) of any structure.
+  ### The house and the way out
+  - When you renovate, use fire-resistant roofing and siding, and check local codes. Keep a hose on an outside tap that reaches every corner of the property.
+  - Clear the driveway at least 3 metres (10 ft) wide and 4 metres (13.5 ft) high so a fire engine can reach you, and post a house number that is readable from the road.
+  - Keep N95 masks in the kit for smoke, fit-tested to seal on each face.
+  ### When fire threatens
+  1. Listen for warnings. **Leave as soon as you are told**; routes close behind the fire and a late evacuation in smoke is how people die. Take the go-bag and pets.
+  2. Afterwards, go back only when authorities say so. Watch for hot ash pits, smouldering stumps, live embers and weakened trees, keep pets and livestock off hot ground, and check whether the water supply is safe before drinking.
+  > Firefighters often do not defend a house without defensible space. The work above is what lets them, and it is what lets the house survive without them.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Defensible space (fire control)
+    sections: [Criteria, Landscape use]
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "17"
+    heading: "Wildfire (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Wildfire
+    sections: [Spread]
+related: [firecraft, extinguishers, go-bag, shelter-in-place, family-communication-plan]

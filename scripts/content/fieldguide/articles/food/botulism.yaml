@@ -1,0 +1,26 @@
+title: "Botulism and spoiled canned food"
+summary: Botulism is rare, comes from improperly canned low-acid food, and is a medical emergency; learn the warning signs on the jar and in the patient.
+keywords: [botulism, Clostridium botulinum, toxin, bulging lid, spoiled canned food, double vision]
+procedure: |
+  ### On the shelf
+  - Do not open, taste or even smell closely a jar or can whose lid bulges or is loose, that leaks, spurts liquid when opened, has rising bubbles, cloudy liquid, mould, or an off smell. Treat the contents as toxic.
+  - Low-acid home-canned food of doubtful processing: boil it **10 minutes** (add 1 minute per 1,000 ft above 1,000 ft) before eating. Boiling destroys the toxin but is not a licence to eat food you know was underprocessed.
+  - To discard suspect jars safely, place sealed jars in a bag in the rubbish; boil opened suspect jars and contents for 30 minutes before disposal, and wipe spills with a bleach solution (1 part bleach to 5 parts water) left for 30 minutes.
+  ### In a person
+  - Symptoms begin 12 to 36 hours (up to several days) after eating: double or blurred vision, drooping eyelids, slurred speech, trouble swallowing, dry mouth, then weakness spreading down from the shoulders. No fever. Breathing can stop.
+  - **This is an emergency.** Get the person to a hospital; antitoxin and breathing support save lives. Keep any suspect food and its container for testing.
+  - Never give honey to an infant under one year; honey can carry the spores.
+sources:
+  - kind: pdf
+    document: usda-complete-guide-home-canning-2015
+    pages: "5"
+    heading: "For safety's sake (USDA)"
+  - kind: pdf
+    document: usda-complete-guide-home-canning-2015
+    pages: "17-19"
+    heading: "Ensuring safe canned foods (USDA Guide 1)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Botulism
+    sections: [Signs and symptoms, Cause, Prevention, Treatment]
+related: [safe-canning-principles, waterborne-illness]

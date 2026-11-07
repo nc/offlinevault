@@ -1,0 +1,30 @@
+title: "Snow shelters: trench, cave and quinzhee"
+summary: Snow is an excellent insulator; a small, ventilated snow shelter with a raised sleeping platform can hold around freezing inside when the air outside is far below.
+keywords: [snow cave, snow trench, quinzhee, igloo, tree pit shelter, winter survival shelter]
+procedure: |
+  1. Decide early, while you still have daylight and energy. Digging snow is slow, hard work and you will get wet doing it; shed a layer, work in short turns and put dry clothing back on afterwards. In woods, a fallen tree or the pit under a bushy evergreen is faster than anything built from snow.
+  2. **Tree-pit shelter**: dig the snow out around the trunk of a thick evergreen down to the depth you need, pack the walls, lay boughs on the floor and more boughs across the top for a roof.
+  3. **Snow trench** (fastest): dig below the wind and snow level, long enough to lie in, and roof it with snow blocks, a tarp or branches and snow. One entrance only, blocked with a pack or snow block.
+  4. **Snow cave**: needs a firm drift at least 1.2 metres deep (the Army manual looks for about 3 metres), ideally on a slope so the spoil falls away and the entrance tunnel sits lower than the sleeping chamber to trap warm air. Keep the roof arched, the walls and roof at least 30 cm thick, and dig a trench between the raised platform and the wall so meltwater runs down the walls, not under you. Make it high enough to sit up in and no larger. Two or three people with a shovel need three to four hours.
+  5. **Quinzhee** (where there is no drift): pile snow 1.5 to 2 metres high and 3 to 4 metres across, mixing the layers as you shovel, and leave it at least two hours to harden. Push 30 cm sticks in all over as thickness guides, then hollow it out, ceiling first, with someone outside while you dig. Do not build one in weather warmer than about minus 4 degrees C; it may collapse.
+  6. In every snow shelter: **poke a ventilation hole** through the roof and keep it open, scrape the glaze off the inside each night, keep a shovel inside, and leave one outside to mark the door for rescuers. Never fall asleep with a stove or candle burning. Carbon monoxide is odourless and kills.
+  7. Insulate yourself from the snow with boughs, a pad or a pack. Block the entrance against wind but never airtight. Mark the shelter so searchers and your own party can find it under new snow.
+  > Metal (an aircraft fuselage, a vehicle) is a poor shelter in extreme cold; it conducts away the little heat you make. Wooded ground is better than open snow if you have the choice.
+sources:
+  - kind: pdf
+    document: army-fm-21-76-survival
+    pages: "152-155"
+    heading: "Cold weather shelters (FM 21-76, chapter 15)"
+  - kind: pdf
+    document: army-fm-21-76-survival
+    pages: "48-49"
+    heading: "Tree-pit snow shelter (FM 21-76, chapter 5)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Snow cave
+    sections: [Construction, Dangers]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Quinzhee
+    sections: [Construction, Dangers]
+related: [field-shelters, cold-injuries, staying-warm-indoors]

@@ -1,0 +1,3019 @@
+{
+ "acute-stress": {
+  "mediawiki:en.wikipedia.org:Acute stress reaction": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1372418710
+  },
+  "pdf:army-fm-4-25-11-first-aid:173-180": {
+   "pages": "173-180",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "airway-and-recovery-position": {
+  "mediawiki:en.wikipedia.org:Recovery position": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1316139441
+  },
+  "pdf:army-fm-4-25-11-first-aid:21-21": {
+   "pages": "21-21",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  },
+  "pdf:army-fm-4-25-11-first-aid:56-56": {
+   "pages": "56-56",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  },
+  "pdf:navedtra-14295-hospital-corpsman:156-157": {
+   "pages": "156-157",
+   "sha256": "1985609b2b16bbeca4831ff0a19415e330cfc7d30ab297150e3c2c788acdd3f6"
+  }
+ },
+ "amateur-radio-emergencies": {
+  "mediawiki:en.wikipedia.org:Amateur radio emergency communications": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1330203284
+  },
+  "mediawiki:en.wikipedia.org:Amateur radio licensing in the United States": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1380642313
+  }
+ },
+ "anaphylaxis-and-auto-injector": {
+  "mediawiki:en.wikipedia.org:Anaphylaxis": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC0",
+     "path": "I/9f8fcd474d75.svg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/a4569452c6dd.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/fe841221bdcb.jpg"
+    }
+   ],
+   "revision": 1379379454
+  },
+  "mediawiki:en.wikipedia.org:Epinephrine autoinjector": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC0",
+     "path": "I/cb7891a0a9cc.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/9d1f1b40ec41.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/dc705133850a.jpg"
+    }
+   ],
+   "revision": 1372025025
+  },
+  "pdf:army-fm-4-25-11-first-aid:140-140": {
+   "pages": "140-140",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  },
+  "pdf:navedtra-14295-hospital-corpsman:207-208": {
+   "pages": "207-208",
+   "sha256": "1985609b2b16bbeca4831ff0a19415e330cfc7d30ab297150e3c2c788acdd3f6"
+  },
+  "pdf:sof-medical-handbook-2001:517-518": {
+   "pages": "517-518",
+   "sha256": "8af797930c9884a0824fa481a4a4721eb6cb056ae48b051130dab9169a6fd1f7"
+  }
+ },
+ "asthma-and-copd": {
+  "mediawiki:en.wikipedia.org:Asthma": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/35e844ffafad.jpg"
+    }
+   ],
+   "revision": 1378594635
+  },
+  "mediawiki:en.wikipedia.org:Chronic obstructive pulmonary disease": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/f14b353c50ef.svg"
+    }
+   ],
+   "revision": 1380531660
+  },
+  "pdf:sof-medical-handbook-2001:194-197": {
+   "pages": "194-197",
+   "sha256": "8af797930c9884a0824fa481a4a4721eb6cb056ae48b051130dab9169a6fd1f7"
+  }
+ },
+ "avoiding-civil-unrest": {
+  "mediawiki:en.wikipedia.org:Civil disorder": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/b658af88801d.jpg"
+    },
+    {
+     "licence": "CC BY-SA 2.0",
+     "path": "I/8132dc1aad4c.jpg"
+    },
+    {
+     "licence": "CC BY 3.0 br",
+     "path": "I/6fb503e9eaf5.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/a0d3a128f96a.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/3d8958c4cef8.jpg"
+    }
+   ],
+   "revision": 1380588316
+  },
+  "mediawiki:en.wikipedia.org:Crowd collapses and crushes": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 3.0",
+     "path": "I/bfd9f1565c04.jpg"
+    }
+   ],
+   "revision": 1377230705
+  },
+  "pdf:fm-21-76-1-survival-evasion-recovery:7-12": {
+   "pages": "7-12",
+   "sha256": "0c5075666199fa7cbe8ded1e0a6c1832d2b16ae0249230570d1c540b011687ab"
+  }
+ },
+ "backyard-poultry": {
+  "mediawiki:en.wikipedia.org:Animal husbandry": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/13e5b13159af.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/14017ec8d4bd.jpg"
+    },
+    {
+     "licence": "CC BY-SA 2.0",
+     "path": "I/c647d240016b.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/360abf2f8a54.jpg"
+    },
+    {
+     "licence": "CC BY-SA 2.0",
+     "path": "I/1894901bd3bc.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/40bdd9e3f3d8.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/2829cc3cf158.jpg"
+    }
+   ],
+   "revision": 1373636183
+  },
+  "mediawiki:en.wikipedia.org:Poultry farming": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/17b8600eae98.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/36c73cbc2079.jpg"
+    },
+    {
+     "licence": "CC BY-SA 2.0",
+     "path": "I/04047f5a9ee1.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/97924d2778dc.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/fe4d5672fdb0.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/69d73b2e45ae.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/1f14319542ff.jpg"
+    }
+   ],
+   "revision": 1378868714
+  },
+  "mediawiki:en.wikipedia.org:Urban chicken keeping": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1375827339
+  },
+  "pdf:fema-are-you-ready:17-17": {
+   "pages": "17-17",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "bites-and-stings": {
+  "mediawiki:en.wikipedia.org:Arthropod bites and stings": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/bd0c2c79fb43.jpg"
+    }
+   ],
+   "revision": 1369825822
+  },
+  "mediawiki:en.wikipedia.org:Snakebite": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/267866d9b29e.png"
+    },
+    {
+     "licence": "CC BY 2.5",
+     "path": "I/07d82f31b5d4.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/47510ef7e4bf.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/4dda579c9518.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0 de",
+     "path": "I/6c4758944661.jpg"
+    },
+    {
+     "licence": "CC BY-SA 2.5",
+     "path": "I/beee3c72acac.jpg"
+    }
+   ],
+   "revision": 1377307090
+  },
+  "pdf:army-fm-4-25-11-first-aid:129-142": {
+   "pages": "129-142",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  },
+  "pdf:navedtra-14295-hospital-corpsman:223-226": {
+   "pages": "223-226",
+   "sha256": "1985609b2b16bbeca4831ff0a19415e330cfc7d30ab297150e3c2c788acdd3f6"
+  },
+  "pdf:sof-medical-handbook-2001:232-236": {
+   "pages": "232-236",
+   "sha256": "8af797930c9884a0824fa481a4a4721eb6cb056ae48b051130dab9169a6fd1f7"
+  },
+  "pdf:sof-medical-handbook-2001:411-416": {
+   "pages": "411-416",
+   "sha256": "8af797930c9884a0824fa481a4a4721eb6cb056ae48b051130dab9169a6fd1f7"
+  }
+ },
+ "bleeding-control": {
+  "mediawiki:en.wikipedia.org:Emergency bleeding control": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/d367b2046ace.png"
+    }
+   ],
+   "revision": 1372598793
+  },
+  "mediawiki:en.wikipedia.org:Tourniquet": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1377532841
+  },
+  "pdf:army-fm-4-25-11-first-aid:38-48": {
+   "pages": "38-48",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "boil-bleach-filter": {
+  "mediawiki:en.wikipedia.org:Portable water purification": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/9da6769e953a.jpg"
+    }
+   ],
+   "revision": 1379947008
+  },
+  "pdf:cdc-make-water-safe-during-emergency:1-1": {
+   "pages": "1-1",
+   "sha256": "c39b55b4d8f3dd40ecd2b13175f7661b52dfc6e73e4a24ef189de64fb9d513b1"
+  },
+  "pdf:epa-emergency-disinfection-drinking-water:1-2": {
+   "pages": "1-2",
+   "sha256": "b53ca253ed4591ddc91f02fc326f3526fd04df184b0cd5099dd39baaeece6921"
+  }
+ },
+ "botulism": {
+  "mediawiki:en.wikipedia.org:Botulism": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/2cff9d4b7fd5.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/8c5fe3c24d7a.jpg"
+    }
+   ],
+   "revision": 1380481950
+  },
+  "pdf:usda-complete-guide-home-canning-2015:17-19": {
+   "pages": "17-19",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  },
+  "pdf:usda-complete-guide-home-canning-2015:5-5": {
+   "pages": "5-5",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  }
+ },
+ "bucket-and-composting-toilets": {
+  "mediawiki:en.wikipedia.org:Bucket toilet": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/ba17d639502f.jpg"
+    },
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/79a1e28f79c9.jpg"
+    }
+   ],
+   "revision": 1339404781
+  },
+  "mediawiki:en.wikipedia.org:Composting toilet": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/504c140b11c5.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/9739e65bfb7d.jpg"
+    },
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/0e2e81ad417a.jpg"
+    }
+   ],
+   "revision": 1368954565
+  },
+  "pdf:army-fm-21-10-field-hygiene:42-42": {
+   "pages": "42-42",
+   "sha256": "522a4d09d45f84baeccafdc4dd6322748a72cdafd8e9590d9d6d4f831b8cdd31"
+  }
+ },
+ "burns": {
+  "mediawiki:en.wikipedia.org:Burn": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/c8cd8b447a57.svg"
+    }
+   ],
+   "revision": 1381003859
+  },
+  "pdf:army-fm-4-25-11-first-aid:65-68": {
+   "pages": "65-68",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "camp-stove-cooking": {
+  "mediawiki:en.wikipedia.org:Portable stove": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/bf5c2f7d8ebb.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/fac76baca7f4.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/f0d7c6c39ecd.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/1677679f30b2.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/8fd1a51f4091.jpg"
+    },
+    {
+     "licence": "CC BY 2.5",
+     "path": "I/d71a98414090.jpg"
+    }
+   ],
+   "revision": 1380700764
+  },
+  "pdf:fema-are-you-ready:15-15": {
+   "pages": "15-15",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "canning-fruit-and-tomatoes": {
+  "pdf:usda-complete-guide-home-canning-2015:29-29": {
+   "pages": "29-29",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  },
+  "pdf:usda-complete-guide-home-canning-2015:56-62": {
+   "pages": "56-62",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  },
+  "pdf:usda-complete-guide-home-canning-2015:70-70": {
+   "pages": "70-70",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  },
+  "pdf:usda-complete-guide-home-canning-2015:82-83": {
+   "pages": "82-83",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  },
+  "pdf:usda-complete-guide-home-canning-2015:88-92": {
+   "pages": "88-92",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  }
+ },
+ "canning-meat-poultry-fish": {
+  "pdf:usda-complete-guide-home-canning-2015:135-142": {
+   "pages": "135-142",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  },
+  "pdf:usda-complete-guide-home-canning-2015:30-34": {
+   "pages": "30-34",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  }
+ },
+ "carbon-monoxide": {
+  "mediawiki:en.wikipedia.org:Carbon monoxide poisoning": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/8b6392f7cb46.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/aff4460c479e.jpg"
+    }
+   ],
+   "revision": 1379546797
+  },
+  "pdf:fema-are-you-ready:17-17": {
+   "pages": "17-17",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "cold-injuries": {
+  "mediawiki:en.wikipedia.org:Frostbite": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/9b31086ab478.png"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/ff45960eea39.png"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/dfb48ebd522b.png"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/b3a6811a8dfb.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/90a86e24bb89.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/cc5d9e5955f7.jpg"
+    }
+   ],
+   "revision": 1354225950
+  },
+  "mediawiki:en.wikipedia.org:Trench foot": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/864966f6dab5.jpg"
+    }
+   ],
+   "revision": 1380482758
+  },
+  "pdf:army-fm-21-76-survival:150-152": {
+   "pages": "150-152",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  },
+  "pdf:army-fm-4-25-11-first-aid:116-125": {
+   "pages": "116-125",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "cpr-and-choking": {
+  "mediawiki:en.wikipedia.org:Abdominal thrusts": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/736e3db04c29.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/c296b4df6021.jpg"
+    }
+   ],
+   "revision": 1378898776
+  },
+  "mediawiki:en.wikipedia.org:Cardiopulmonary resuscitation": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 2.0 fr",
+     "path": "I/0019745451a9.jpg"
+    },
+    {
+     "licence": "CC BY 3.0",
+     "path": "I/6af8a5b80356.gif"
+    },
+    {
+     "licence": "CC BY 3.0",
+     "path": "I/1065028569b3.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/a27e5d1b0646.svg"
+    }
+   ],
+   "revision": 1373018585
+  },
+  "pdf:army-fm-4-25-11-first-aid:21-37": {
+   "pages": "21-37",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "dental-emergencies": {
+  "mediawiki:en.wikipedia.org:Dental abscess": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/b45135da23c2.jpg"
+    },
+    {
+     "licence": "CC-BY-3.0",
+     "path": "I/1e49a9da83aa.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/2a1f1d134236.png"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/37e6a59363b2.jpg"
+    }
+   ],
+   "revision": 1376541313
+  },
+  "mediawiki:en.wikipedia.org:Dental trauma": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1344207678
+  },
+  "mediawiki:en.wikipedia.org:Toothache": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/f4cf4ee998f7.gif"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/d99f99ac9f9c.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/45fc8a274d69.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/c797b43424dc.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/d5faf406db51.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/3ca9db14a7b1.png"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/6c22efcdaacc.png"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/39b060862078.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/db4e26ae43a5.png"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/b45135da23c2.jpg"
+    }
+   ],
+   "revision": 1370439936
+  },
+  "pdf:sof-medical-handbook-2001:278-284": {
+   "pages": "278-284",
+   "sha256": "8af797930c9884a0824fa481a4a4721eb6cb056ae48b051130dab9169a6fd1f7"
+  },
+  "pdf:usphs-ships-medicine-chest-2003:121-127": {
+   "pages": "121-127",
+   "sha256": "261edcaaa2fb1ae830665b19e4b0122e1ff16a7cec704d0e1dead3f0f815290d"
+  }
+ },
+ "diarrhoea-and-oral-rehydration": {
+  "mediawiki:en.wikipedia.org:Diarrhea": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/1a8404ebf451.jpg"
+    }
+   ],
+   "revision": 1380715552
+  },
+  "mediawiki:en.wikipedia.org:Oral rehydration therapy": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/c9c4715eebe6.svg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/1a8404ebf451.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/341b6940eea4.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/47bcaa03c2e1.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/fd21932b5ba2.jpg"
+    }
+   ],
+   "revision": 1372600924
+  },
+  "pdf:army-fm-21-10-field-hygiene:23-23": {
+   "pages": "23-23",
+   "sha256": "522a4d09d45f84baeccafdc4dd6322748a72cdafd8e9590d9d6d4f831b8cdd31"
+  }
+ },
+ "direction-without-a-compass": {
+  "pdf:army-fm-21-76-survival:194-199": {
+   "pages": "194-199",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  },
+  "pdf:fm-3-25-26-map-reading-land-navigation:101-103": {
+   "pages": "101-103",
+   "sha256": "bf92a942048931c59f2b48b366acd9b5f8f40120b0866d702dec799a4e8be24c"
+  }
+ },
+ "distillation": {
+  "mediawiki:en.wikipedia.org:Distilled water": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/17de4f198165.jpg"
+    }
+   ],
+   "revision": 1380300602
+  },
+  "pdf:army-fm-21-76-survival:58-60": {
+   "pages": "58-60",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  }
+ },
+ "documents-and-cash": {
+  "pdf:fema-are-you-ready:11-12": {
+   "pages": "11-12",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:22-22": {
+   "pages": "22-22",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:25-25": {
+   "pages": "25-25",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:nws-weather-safety-guide:18-18": {
+   "pages": "18-18",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  }
+ },
+ "drying-jerky-root-cellaring": {
+  "mediawiki:en.wikipedia.org:Food drying": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 2.5",
+     "path": "I/be19724d7451.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/f54858083588.jpg"
+    }
+   ],
+   "revision": 1375576160
+  },
+  "mediawiki:en.wikipedia.org:Jerky": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/c815acd3e456.jpg"
+    },
+    {
+     "licence": "CC BY-SA 2.0",
+     "path": "I/7d5c85236465.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/bc96de0010fd.jpg"
+    }
+   ],
+   "revision": 1374634811
+  },
+  "mediawiki:en.wikipedia.org:Root cellar": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 3.0",
+     "path": "I/b58402640d19.jpg"
+    },
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/e4e3da2f2b95.bin"
+    }
+   ],
+   "revision": 1360259161
+  },
+  "pdf:army-fm-21-76-survival:97-98": {
+   "pages": "97-98",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  }
+ },
+ "earthquake": {
+  "mediawiki:en.wikipedia.org:Earthquake preparedness": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/8cc57d44edfd.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/4add50b63b6f.jpg"
+    }
+   ],
+   "revision": 1344490631
+  },
+  "pdf:fema-are-you-ready:10-11": {
+   "pages": "10-11",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:16-16": {
+   "pages": "16-16",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "emergency-childbirth": {
+  "mediawiki:en.wikipedia.org:Childbirth": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/7c4285fb1f11.svg"
+    },
+    {
+     "licence": "CC BY 3.0",
+     "path": "I/1a45ee9a8463.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/c07bede67a54.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0 de",
+     "path": "I/5fdcb804343f.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/037f85822cab.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/dbd2702cea9a.jpg"
+    },
+    {
+     "licence": "CC BY-SA 2.5",
+     "path": "I/de1602036265.svg"
+    }
+   ],
+   "revision": 1377859229
+  },
+  "pdf:navedtra-14295-hospital-corpsman:210-211": {
+   "pages": "210-211",
+   "sha256": "1985609b2b16bbeca4831ff0a19415e330cfc7d30ab297150e3c2c788acdd3f6"
+  },
+  "pdf:sof-medical-handbook-2001:142-148": {
+   "pages": "142-148",
+   "sha256": "8af797930c9884a0824fa481a4a4721eb6cb056ae48b051130dab9169a6fd1f7"
+  }
+ },
+ "evacuation-planning": {
+  "mediawiki:en.wikipedia.org:Emergency evacuation": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/93ab6eba409b.jpg"
+    }
+   ],
+   "revision": 1380196339
+  },
+  "mediawiki:en.wikipedia.org:Hurricane evacuation": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1300240357
+  },
+  "pdf:fema-are-you-ready:19-20": {
+   "pages": "19-20",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "extinguishers": {
+  "mediawiki:en.wikipedia.org:Fire class": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/ac805d31b666.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/e2487f133883.png"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/a745246b5904.png"
+    },
+    {
+     "licence": "CC BY-SA 2.0 fr",
+     "path": "I/6be3b54b2245.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/532a0a15609f.png"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/abfadb151385.png"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/1a5acb280210.png"
+    },
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/68b1b41494c6.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/feb943e9e9be.png"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/a1153bd926fa.jpg"
+    }
+   ],
+   "revision": 1378438525
+  },
+  "mediawiki:en.wikipedia.org:Fire extinguisher": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/0bf7cdc4a842.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/9e58e30adaaa.jpg"
+    }
+   ],
+   "revision": 1379479625
+  }
+ },
+ "family-communication-plan": {
+  "pdf:fema-are-you-ready:18-19": {
+   "pages": "18-19",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "fever-and-dehydration-in-children": {
+  "mediawiki:en.wikipedia.org:Dehydration": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/fd048d5e827b.jpg"
+    }
+   ],
+   "revision": 1372280572
+  },
+  "mediawiki:en.wikipedia.org:Febrile seizure": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1379846083
+  },
+  "mediawiki:en.wikipedia.org:Fever": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1380924847
+  },
+  "mediawiki:en.wikipedia.org:Oral rehydration therapy": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/341b6940eea4.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/47bcaa03c2e1.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/fd21932b5ba2.jpg"
+    }
+   ],
+   "revision": 1372600924
+  },
+  "pdf:pediatric-surgery-hostile-environments:297-298": {
+   "pages": "297-298",
+   "sha256": "7bf010532424aab9f0c3a72066c3d58a68f0c6411497333d18b5bacebbf2af14"
+  }
+ },
+ "field-shelters": {
+  "pdf:army-fm-21-76-survival:152-153": {
+   "pages": "152-153",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  },
+  "pdf:army-fm-21-76-survival:38-51": {
+   "pages": "38-51",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  }
+ },
+ "finding-water": {
+  "mediawiki:en.wikipedia.org:Rainwater harvesting": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1376028262
+  },
+  "pdf:army-fm-21-76-survival:53-62": {
+   "pages": "53-62",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  }
+ },
+ "firecraft": {
+  "mediawiki:en.wikipedia.org:Campfire": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/99ac4e3b9106.jpg"
+    }
+   ],
+   "revision": 1360783642
+  },
+  "mediawiki:en.wikipedia.org:Fire making": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/0b7b14c9a6ab.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/6cfce4514442.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/1e9ab4b44dce.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/34fa31c93ab1.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/a8e5c137ff78.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/fd075fc805d7.jpg"
+    }
+   ],
+   "revision": 1374391486
+  },
+  "pdf:army-fm-21-76-survival:63-71": {
+   "pages": "63-71",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  }
+ },
+ "flood": {
+  "mediawiki:en.wikipedia.org:Flash flood": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1372975861
+  },
+  "mediawiki:en.wikipedia.org:Flood": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC-BY-SA-3.0",
+     "path": "I/4716aca9af79.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/2a163d5f7917.jpg"
+    },
+    {
+     "licence": "CC BY-SA 2.0",
+     "path": "I/354c94c4b965.jpg"
+    },
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/3789ba0e50bc.jpg"
+    },
+    {
+     "licence": "CC BY-SA 2.0",
+     "path": "I/fbc7ab8a275e.jpg"
+    }
+   ],
+   "revision": 1380196283
+  },
+  "pdf:fema-are-you-ready:12-13": {
+   "pages": "12-13",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:25-25": {
+   "pages": "25-25",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:nws-weather-safety-guide:13-13": {
+   "pages": "13-13",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  },
+  "pdf:nws-weather-safety-guide:9-9": {
+   "pages": "9-9",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  }
+ },
+ "fractures-and-splinting": {
+  "mediawiki:en.wikipedia.org:Bone fracture": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/c8dbbc07278f.jpg"
+    },
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/66ba7e8089fa.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/8088341b26d3.jpg"
+    },
+    {
+     "licence": "CC BY 3.0",
+     "path": "I/42ed2c552638.jpg"
+    }
+   ],
+   "revision": 1376984935
+  },
+  "mediawiki:en.wikipedia.org:Splint (medicine)": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC-BY-SA-3.0",
+     "path": "I/fac5b16e97be.jpg"
+    }
+   ],
+   "revision": 1372683285
+  },
+  "pdf:army-fm-4-25-11-first-aid:89-107": {
+   "pages": "89-107",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "frs-gmrs-cb": {
+  "mediawiki:en.wikipedia.org:Citizens band radio": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1374286582
+  },
+  "mediawiki:en.wikipedia.org:Family Radio Service": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/e0ddcd50b273.jpg"
+    }
+   ],
+   "revision": 1380123857
+  },
+  "mediawiki:en.wikipedia.org:General Mobile Radio Service": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/8531965a4786.svg"
+    }
+   ],
+   "revision": 1376340761
+  }
+ },
+ "fuel-storage-and-rotation": {
+  "mediawiki:en.wikipedia.org:Gasoline": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/b9111da5df14.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/ed46670db6dc.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/989cfe23df89.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/9dd982230740.svg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/3d8407b7d98e.webp"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/dcc6e3c62cf2.svg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/50e282236150.png"
+    }
+   ],
+   "revision": 1380996109
+  },
+  "mediawiki:en.wikipedia.org:Kerosene heater": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1306800419
+  },
+  "mediawiki:en.wikipedia.org:Propane": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/c857768b3838.svg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/d241513789da.png"
+    }
+   ],
+   "revision": 1380446825
+  }
+ },
+ "garbage-flies-and-rodents": {
+  "mediawiki:en.wikipedia.org:Housefly": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/51ad594e30fc.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/196a6b54c298.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/a5bb7692ec93.png"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/782d6b77b869.png"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/6601aee35319.jpg"
+    }
+   ],
+   "revision": 1380781184
+  },
+  "mediawiki:en.wikipedia.org:Pest control": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/8ab848e09780.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/798de56e40e0.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/7bbd4dc8ac57.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/e3db5cbb8cde.jpg"
+    }
+   ],
+   "revision": 1377971017
+  },
+  "pdf:army-fm-21-10-field-hygiene:47-48": {
+   "pages": "47-48",
+   "sha256": "522a4d09d45f84baeccafdc4dd6322748a72cdafd8e9590d9d6d4f831b8cdd31"
+  },
+  "pdf:army-fm-21-10-field-hygiene:50-51": {
+   "pages": "50-51",
+   "sha256": "522a4d09d45f84baeccafdc4dd6322748a72cdafd8e9590d9d6d4f831b8cdd31"
+  },
+  "pdf:army-fm-21-10-field-hygiene:60-61": {
+   "pages": "60-61",
+   "sha256": "522a4d09d45f84baeccafdc4dd6322748a72cdafd8e9590d9d6d4f831b8cdd31"
+  },
+  "pdf:army-fm-21-10-field-hygiene:65-65": {
+   "pages": "65-65",
+   "sha256": "522a4d09d45f84baeccafdc4dd6322748a72cdafd8e9590d9d6d4f831b8cdd31"
+  },
+  "pdf:army-fm-21-10-field-hygiene:74-76": {
+   "pages": "74-76",
+   "sha256": "522a4d09d45f84baeccafdc4dd6322748a72cdafd8e9590d9d6d4f831b8cdd31"
+  }
+ },
+ "gas-leaks": {
+  "mediawiki:en.wikipedia.org:Gas leak": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1343577037
+  },
+  "pdf:fema-are-you-ready:31-31": {
+   "pages": "31-31",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "generator-safety": {
+  "mediawiki:en.wikipedia.org:Engine-generator": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/4024fb28c94f.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/81c481c28b61.jpg"
+    }
+   ],
+   "revision": 1378399400
+  },
+  "pdf:fema-are-you-ready:12-12": {
+   "pages": "12-12",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:15-15": {
+   "pages": "15-15",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "go-bag": {
+  "mediawiki:en.wikipedia.org:Bug-out bag": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 2.0",
+     "path": "I/80dba2fb4b42.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/6985c3027f08.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/75e1a2a6a203.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/3722c82a5872.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/7b775c3791bd.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/e80b7418b6b1.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/64ca8afe942f.jpg"
+    }
+   ],
+   "revision": 1374022970
+  },
+  "pdf:fema-are-you-ready:20-21": {
+   "pages": "20-21",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:ready-supply-kit-checklist:1-2": {
+   "pages": "1-2",
+   "sha256": "008baa92f414aaf695d77e2255d91e5fb43504cd809271aefd59b13d7c2493fe"
+  }
+ },
+ "grief": {
+  "mediawiki:en.wikipedia.org:Grief": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/345723f20f46.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/73550bac38c4.jpg"
+    }
+   ],
+   "revision": 1378599691
+  },
+  "pdf:army-fm-4-25-11-first-aid:178-179": {
+   "pages": "178-179",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  },
+  "pdf:fema-are-you-ready:18-18": {
+   "pages": "18-18",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "handwashing-with-scarce-water": {
+  "mediawiki:en.wikipedia.org:Diarrhea": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1380715552
+  },
+  "mediawiki:en.wikipedia.org:Hand washing": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/42fe7bea729f.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/10341d019ed0.png"
+    }
+   ],
+   "revision": 1374841767
+  },
+  "pdf:army-fm-21-10-field-hygiene:19-21": {
+   "pages": "19-21",
+   "sha256": "522a4d09d45f84baeccafdc4dd6322748a72cdafd8e9590d9d6d4f831b8cdd31"
+  },
+  "pdf:fema-are-you-ready:14-14": {
+   "pages": "14-14",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "hazmat-and-chemical-release": {
+  "mediawiki:en.wikipedia.org:Dangerous goods": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1366238548
+  },
+  "pdf:chem-bio-casualties-handbook-2016:43-48": {
+   "pages": "43-48",
+   "sha256": "310a8301f02dc4a2e641c576d627499820e4d396615b5378668a6ccc41be2ff0"
+  },
+  "pdf:fm-21-76-1-survival-evasion-recovery:96-97": {
+   "pages": "96-97",
+   "sha256": "0c5075666199fa7cbe8ded1e0a6c1832d2b16ae0249230570d1c540b011687ab"
+  }
+ },
+ "head-and-spine-injuries": {
+  "mediawiki:en.wikipedia.org:Concussion": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1380858208
+  },
+  "mediawiki:en.wikipedia.org:Head injury": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1378793317
+  },
+  "mediawiki:en.wikipedia.org:Spinal cord injury": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/b00b9dc5e999.png"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/28abaeff3406.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/02bbb34a2e12.jpg"
+    }
+   ],
+   "revision": 1374126590
+  },
+  "pdf:army-fm-4-25-11-first-aid:54-57": {
+   "pages": "54-57",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  },
+  "pdf:army-fm-4-25-11-first-aid:70-70": {
+   "pages": "70-70",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "heat-illness": {
+  "mediawiki:en.wikipedia.org:Heat exhaustion": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/7223b4f84741.png"
+    }
+   ],
+   "revision": 1372137595
+  },
+  "mediawiki:en.wikipedia.org:Heat stroke": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1369667189
+  },
+  "pdf:army-fm-4-25-11-first-aid:111-114": {
+   "pages": "111-114",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "home-security-basics": {
+  "mediawiki:en.wikipedia.org:Home security": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1376890046
+  },
+  "pdf:fema-are-you-ready:10-10": {
+   "pages": "10-10",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:28-28": {
+   "pages": "28-28",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:34-34": {
+   "pages": "34-34",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "hurricane": {
+  "mediawiki:en.wikipedia.org:Hurricane evacuation": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1300240357
+  },
+  "mediawiki:en.wikipedia.org:Storm surge": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1378168909
+  },
+  "mediawiki:en.wikipedia.org:Tropical cyclone preparedness": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/3abdaf7ad13d.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/ba9f54837f8a.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/f0c47dc7ee85.gif"
+    },
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/ddf548a0d682.jpg"
+    }
+   ],
+   "revision": 1377076809
+  },
+  "pdf:fema-are-you-ready:12-13": {
+   "pages": "12-13",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "hypertension-and-heart-disease": {
+  "mediawiki:en.wikipedia.org:Coronary artery disease": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/3e5a4d93bf9d.png"
+    }
+   ],
+   "revision": 1377503550
+  },
+  "mediawiki:en.wikipedia.org:Hypertension": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1379458003
+  },
+  "pdf:navedtra-14295-hospital-corpsman:207-209": {
+   "pages": "207-209",
+   "sha256": "1985609b2b16bbeca4831ff0a19415e330cfc7d30ab297150e3c2c788acdd3f6"
+  },
+  "pdf:sof-medical-handbook-2001:65-67": {
+   "pages": "65-67",
+   "sha256": "8af797930c9884a0824fa481a4a4721eb6cb056ae48b051130dab9169a6fd1f7"
+  },
+  "pdf:usphs-ships-medicine-chest-2003:33-35": {
+   "pages": "33-35",
+   "sha256": "261edcaaa2fb1ae830665b19e4b0122e1ff16a7cec704d0e1dead3f0f815290d"
+  }
+ },
+ "indoor-heating-and-chimney-fires": {
+  "mediawiki:en.wikipedia.org:Chimney fire": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 2.0",
+     "path": "I/255ed12008a3.jpg"
+    }
+   ],
+   "revision": 1366263683
+  },
+  "mediawiki:en.wikipedia.org:Kerosene heater": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1306800419
+  },
+  "mediawiki:en.wikipedia.org:Space heater": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1375629261
+  },
+  "mediawiki:en.wikipedia.org:Wood-burning stove": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/f3ea167f4a80.png"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/1f488ad62194.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/c7aff098a1df.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/520619d7da64.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/6373351dc584.jpg"
+    }
+   ],
+   "revision": 1378390725
+  },
+  "pdf:fema-are-you-ready:17-17": {
+   "pages": "17-17",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "infant-feeding-without-power": {
+  "mediawiki:en.wikipedia.org:Infant formula": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1380685689
+  },
+  "pdf:cdc-use-safe-water-one-pager:1-1": {
+   "pages": "1-1",
+   "sha256": "f7bda1f9e7827ee74278d408001e9cdf4529924fa70144e0696ee0fd4ee39bad"
+  },
+  "pdf:fema-are-you-ready:21-21": {
+   "pages": "21-21",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:pediatric-surgery-hostile-environments:479-480": {
+   "pages": "479-480",
+   "sha256": "7bf010532424aab9f0c3a72066c3d58a68f0c6411497333d18b5bacebbf2af14"
+  }
+ },
+ "insulin-without-refrigeration": {
+  "mediawiki:en.wikipedia.org:Cold chain": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1380238291
+  },
+  "mediawiki:en.wikipedia.org:Insulin (medication)": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/a968f5bff5ba.png"
+    }
+   ],
+   "revision": 1379783551
+  },
+  "mediawiki:en.wikipedia.org:Pot-in-pot refrigerator": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/81b39616b054.png"
+    }
+   ],
+   "revision": 1374642684
+  },
+  "mediawiki:en.wikipedia.org:Shelf life": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/b7eef274a4d4.jpg"
+    }
+   ],
+   "revision": 1378831214
+  },
+  "pdf:fema-are-you-ready:15-15": {
+   "pages": "15-15",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:navedtra-14295-hospital-corpsman:206-207": {
+   "pages": "206-207",
+   "sha256": "1985609b2b16bbeca4831ff0a19415e330cfc7d30ab297150e3c2c788acdd3f6"
+  },
+  "pdf:usphs-ships-medicine-chest-2003:53-56": {
+   "pages": "53-56",
+   "sha256": "261edcaaa2fb1ae830665b19e4b0122e1ff16a7cec704d0e1dead3f0f815290d"
+  }
+ },
+ "jams-and-jellies": {
+  "mediawiki:en.wikipedia.org:Fruit preserves": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1380802151
+  },
+  "pdf:usda-complete-guide-home-canning-2015:185-190": {
+   "pages": "185-190",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  }
+ },
+ "keeping-children-calm": {
+  "mediawiki:en.wikipedia.org:Psychological first aid": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1379796541
+  },
+  "pdf:army-fm-4-25-11-first-aid:170-180": {
+   "pages": "170-180",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  },
+  "pdf:fema-are-you-ready:19-19": {
+   "pages": "19-19",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:pediatric-surgery-hostile-environments:28-29": {
+   "pages": "28-29",
+   "sha256": "7bf010532424aab9f0c3a72066c3d58a68f0c6411497333d18b5bacebbf2af14"
+  }
+ },
+ "latrines-and-human-waste": {
+  "mediawiki:en.wikipedia.org:Pit latrine": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/d42a9d0a3e99.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/44c2ec131fbd.png"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/ea906cc816b3.jpg"
+    },
+    {
+     "licence": "CC BY 3.0",
+     "path": "I/8bffef97ec91.svg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/52202647a36f.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/2eca83c93679.jpg"
+    },
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/c531cb39b9c6.jpg"
+    },
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/862cd8bad670.jpg"
+    }
+   ],
+   "revision": 1369784941
+  },
+  "pdf:army-fm-21-10-field-hygiene:38-44": {
+   "pages": "38-44",
+   "sha256": "522a4d09d45f84baeccafdc4dd6322748a72cdafd8e9590d9d6d4f831b8cdd31"
+  }
+ },
+ "lead-acid-vs-lifepo4": {
+  "mediawiki:en.wikipedia.org:Deep-cycle battery": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/aa84aa6db812.jpg"
+    },
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/cc5df9481bb9.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/ce1ade73a374.jpg"
+    }
+   ],
+   "revision": 1364852762
+  },
+  "mediawiki:en.wikipedia.org:Lead-acid battery": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/f226baee21df.jpg"
+    },
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/8a065f332c21.png"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/80b5db7e3c1d.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/8c8ace6aef28.jpg"
+    },
+    {
+     "licence": "CC BY 3.0",
+     "path": "I/4c11cc56bf37.jpg"
+    },
+    {
+     "licence": "CC BY 3.0",
+     "path": "I/1df9bedd2f64.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/dd21ef22b7b8.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/8f12c9e5e43c.jpg"
+    }
+   ],
+   "revision": 1379664734
+  },
+  "mediawiki:en.wikipedia.org:Lithium iron phosphate battery": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/a10d7328bd83.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/6d5888b3c82f.jpg"
+    }
+   ],
+   "revision": 1379992217
+  }
+ },
+ "low-tech-lighting": {
+  "mediawiki:en.wikipedia.org:Candle": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/d2569d698715.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/3f59c482b776.svg"
+    }
+   ],
+   "revision": 1377728264
+  },
+  "mediawiki:en.wikipedia.org:Flashlight": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/0681aaef53e1.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/dd16e02a0eb9.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/c97cf0187021.jpg"
+    }
+   ],
+   "revision": 1380985541
+  },
+  "mediawiki:en.wikipedia.org:Kerosene lamp": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/37d3f1864743.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/eec809cadf47.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/76d14872f181.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/07665acca88e.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/557fee477e03.jpg"
+    },
+    {
+     "licence": "CC BY 2.5 au",
+     "path": "I/e8cd0e1f3344.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/45bbe6d5e5f2.jpg"
+    }
+   ],
+   "revision": 1376542461
+  },
+  "mediawiki:en.wikipedia.org:Oil lamp": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/df314a5703fc.jpg"
+    }
+   ],
+   "revision": 1361441867
+  }
+ },
+ "map-and-compass": {
+  "mediawiki:en.wikipedia.org:Compass": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/3619dcc648a1.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/e432ce121a68.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/966ff7e1b95f.png"
+    }
+   ],
+   "revision": 1376670463
+  },
+  "mediawiki:en.wikipedia.org:Magnetic declination": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC0",
+     "path": "I/39555b85d0eb.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/3f3246efb428.svg"
+    }
+   ],
+   "revision": 1379078444
+  },
+  "pdf:fm-3-25-26-map-reading-land-navigation:126-131": {
+   "pages": "126-131",
+   "sha256": "bf92a942048931c59f2b48b366acd9b5f8f40120b0866d702dec799a4e8be24c"
+  },
+  "pdf:fm-3-25-26-map-reading-land-navigation:96-100": {
+   "pages": "96-100",
+   "sha256": "bf92a942048931c59f2b48b366acd9b5f8f40120b0866d702dec799a4e8be24c"
+  }
+ },
+ "medication-and-mobility-for-older-adults": {
+  "mediawiki:en.wikipedia.org:Dehydration": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/fd048d5e827b.jpg"
+    }
+   ],
+   "revision": 1372280572
+  },
+  "mediawiki:en.wikipedia.org:Elderly care": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1379499460
+  },
+  "mediawiki:en.wikipedia.org:Polypharmacy": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 3.0",
+     "path": "I/7ae0d464ade4.jpg"
+    }
+   ],
+   "revision": 1379968247
+  },
+  "pdf:fema-are-you-ready:14-15": {
+   "pages": "14-15",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:nws-weather-safety-guide:17-17": {
+   "pages": "17-17",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  }
+ },
+ "nuclear-detonation-and-fallout": {
+  "mediawiki:en.wikipedia.org:Nuclear fallout": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1378634314
+  },
+  "mediawiki:en.wikipedia.org:Potassium iodide": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/c0a20480516d.jpg"
+    }
+   ],
+   "revision": 1375529038
+  },
+  "pdf:fema-are-you-ready:13-14": {
+   "pages": "13-14",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fm-21-76-1-survival-evasion-recovery:90-95": {
+   "pages": "90-95",
+   "sha256": "0c5075666199fa7cbe8ded1e0a6c1832d2b16ae0249230570d1c540b011687ab"
+  },
+  "pdf:nuclear-war-survival-skills-1987:117-122": {
+   "pages": "117-122",
+   "sha256": "7af59ed47e0aa70bf8efb710b91ac629e9a24d6015a5458466f53bf8c2d13509"
+  }
+ },
+ "offlinevault-offline-map": {
+  "mediawiki:en.wikipedia.org:OpenStreetMap": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/03fef6cfb8ec.png"
+    }
+   ],
+   "revision": 1380925856
+  }
+ },
+ "pace-count-and-dead-reckoning": {
+  "mediawiki:en.wikipedia.org:Dead reckoning": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/3260c651a0e6.png"
+    }
+   ],
+   "revision": 1379395037
+  },
+  "pdf:fm-3-25-26-map-reading-land-navigation:134-141": {
+   "pages": "134-141",
+   "sha256": "bf92a942048931c59f2b48b366acd9b5f8f40120b0866d702dec799a4e8be24c"
+  },
+  "pdf:fm-3-25-26-map-reading-land-navigation:52-53": {
+   "pages": "52-53",
+   "sha256": "bf92a942048931c59f2b48b366acd9b5f8f40120b0866d702dec799a4e8be24c"
+  }
+ },
+ "pediatric-trauma-basics": {
+  "mediawiki:en.wikipedia.org:Trauma in children": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1310832997
+  },
+  "pdf:pediatric-surgery-hostile-environments:27-36": {
+   "pages": "27-36",
+   "sha256": "7bf010532424aab9f0c3a72066c3d58a68f0c6411497333d18b5bacebbf2af14"
+  },
+  "pdf:pediatric-surgery-hostile-environments:37-41": {
+   "pages": "37-41",
+   "sha256": "7bf010532424aab9f0c3a72066c3d58a68f0c6411497333d18b5bacebbf2af14"
+  }
+ },
+ "pet-evacuation-kit": {
+  "mediawiki:en.wikipedia.org:Tropical cyclone preparedness": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/ba9f54837f8a.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/f0c47dc7ee85.gif"
+    },
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/ddf548a0d682.jpg"
+    }
+   ],
+   "revision": 1377076809
+  },
+  "pdf:fema-are-you-ready:20-21": {
+   "pages": "20-21",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:nws-weather-safety-guide:18-19": {
+   "pages": "18-19",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  }
+ },
+ "pet-first-aid": {
+  "mediawiki:en.wikipedia.org:Pet first aid": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1357925553
+  },
+  "pdf:fema-are-you-ready:17-17": {
+   "pages": "17-17",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:nws-weather-safety-guide:18-19": {
+   "pages": "18-19",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  }
+ },
+ "pickles-and-sauerkraut": {
+  "mediawiki:en.wikipedia.org:Pickling": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/5121fa7cb345.jpg"
+    }
+   ],
+   "revision": 1376488146
+  },
+  "mediawiki:en.wikipedia.org:Sauerkraut": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/d89695d41cb0.jpg"
+    }
+   ],
+   "revision": 1378909628
+  },
+  "pdf:usda-complete-guide-home-canning-2015:150-157": {
+   "pages": "150-157",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  }
+ },
+ "pressure-canning-vegetables": {
+  "pdf:usda-complete-guide-home-canning-2015:114-119": {
+   "pages": "114-119",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  },
+  "pdf:usda-complete-guide-home-canning-2015:30-37": {
+   "pages": "30-37",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  }
+ },
+ "psychological-first-aid": {
+  "mediawiki:en.wikipedia.org:Psychological first aid": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1379796541
+  },
+  "pdf:army-fm-4-25-11-first-aid:170-180": {
+   "pages": "170-180",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "reading-a-topographic-map": {
+  "mediawiki:en.wikipedia.org:Topographic map": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1374783457
+  },
+  "pdf:fm-3-25-26-map-reading-land-navigation:107-121": {
+   "pages": "107-121",
+   "sha256": "bf92a942048931c59f2b48b366acd9b5f8f40120b0866d702dec799a4e8be24c"
+  },
+  "pdf:fm-3-25-26-map-reading-land-navigation:136-140": {
+   "pages": "136-140",
+   "sha256": "bf92a942048931c59f2b48b366acd9b5f8f40120b0866d702dec799a4e8be24c"
+  }
+ },
+ "refrigeration-loss-food-safety": {
+  "mediawiki:en.wikipedia.org:Food safety": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1375528938
+  },
+  "pdf:fema-are-you-ready:14-15": {
+   "pages": "14-15",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:20-20": {
+   "pages": "20-20",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:31-31": {
+   "pages": "31-31",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "returning-home": {
+  "pdf:fema-are-you-ready:15-15": {
+   "pages": "15-15",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:30-32": {
+   "pages": "30-32",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:34-34": {
+   "pages": "34-34",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "safe-canning-principles": {
+  "mediawiki:en.wikipedia.org:Home canning": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/144fb16ad502.jpg"
+    }
+   ],
+   "revision": 1375842997
+  },
+  "pdf:usda-complete-guide-home-canning-2015:16-31": {
+   "pages": "16-31",
+   "sha256": "82014af73d1d5283ed1a711f7d0940e72a7ea9a10d0c0c4551bc79a1f4092028"
+  }
+ },
+ "shelter-in-place": {
+  "mediawiki:en.wikipedia.org:Shelter in place": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1378374312
+  },
+  "pdf:fema-are-you-ready:19-19": {
+   "pages": "19-19",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "sheltering-with-pets": {
+  "mediawiki:en.wikipedia.org:Pets Evacuation and Transportation Standards Act": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1366891583
+  },
+  "pdf:fema-are-you-ready:14-14": {
+   "pages": "14-14",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:20-20": {
+   "pages": "20-20",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:nws-weather-safety-guide:18-19": {
+   "pages": "18-19",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  }
+ },
+ "shock": {
+  "mediawiki:en.wikipedia.org:Shock (circulatory)": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC0",
+     "path": "I/9f8fcd474d75.svg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/fe841221bdcb.jpg"
+    }
+   ],
+   "revision": 1379849036
+  },
+  "pdf:army-fm-4-25-11-first-aid:49-53": {
+   "pages": "49-53",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "signalling-for-rescue": {
+  "mediawiki:en.wikipedia.org:Distress signal": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/e0d27d3e2b18.png"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/bf80379d8b3e.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/10a9b6443364.png"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/b51642642c22.png"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/725d64d42d71.jpg"
+    }
+   ],
+   "revision": 1376264421
+  },
+  "mediawiki:en.wikipedia.org:Signalling mirror": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/3c8998ec87c9.png"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/7f8e51a690a8.svg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/8c005d4ea8d6.jpg"
+    }
+   ],
+   "revision": 1380769695
+  },
+  "pdf:army-fm-21-76-survival:200-208": {
+   "pages": "200-208",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  }
+ },
+ "situational-awareness": {
+  "mediawiki:en.wikipedia.org:Situation awareness": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1367440049
+  },
+  "pdf:fema-are-you-ready:8-9": {
+   "pages": "8-9",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "sleep-and-routine": {
+  "mediawiki:en.wikipedia.org:Sleep deprivation": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC0",
+     "path": "I/31e146fb0796.svg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/5e44d5c01bc5.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/2e998f63b838.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/7aa58dc1a551.png"
+    }
+   ],
+   "revision": 1380296915
+  },
+  "mediawiki:en.wikipedia.org:Sleep hygiene": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1379154587
+  },
+  "pdf:army-fm-4-25-11-first-aid:175-180": {
+   "pages": "175-180",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  }
+ },
+ "small-solar-system": {
+  "mediawiki:en.wikipedia.org:Photovoltaic system": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/5c9885202dd0.svg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/e28396635edf.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/f671684708a5.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/7b92d63282e9.jpg"
+    },
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/c2a722baa3d6.png"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/5dae499850a7.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/6329c76bf17e.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/f6bc60f47692.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/50ea0df12463.jpg"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/7fd8940d2d4d.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/397d1a288dae.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/de141c7a4d87.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/e08936d5c9ba.gif"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/5bb445dff751.jpg"
+    }
+   ],
+   "revision": 1372535688
+  },
+  "mediawiki:en.wikipedia.org:Power inverter": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/ea7e7f9a1dba.svg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/b312473fb9fb.svg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/31b09e3075e5.png"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/65717a8af69f.svg"
+    }
+   ],
+   "revision": 1371308651
+  },
+  "mediawiki:en.wikipedia.org:Stand-alone power system": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1347106569
+  }
+ },
+ "snow-shelters": {
+  "mediawiki:en.wikipedia.org:Quinzhee": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1358477556
+  },
+  "mediawiki:en.wikipedia.org:Snow cave": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/5812e469c6da.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/5810387ecf80.jpg"
+    }
+   ],
+   "revision": 1359177222
+  },
+  "pdf:army-fm-21-76-survival:152-155": {
+   "pages": "152-155",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  },
+  "pdf:army-fm-21-76-survival:48-49": {
+   "pages": "48-49",
+   "sha256": "8498a427a6338156fa0b7c0ad4aeaeba6ff57106d6cc652efd0df643a688a481"
+  }
+ },
+ "solar-disinfection": {
+  "mediawiki:en.wikipedia.org:Solar water disinfection": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/9da4ad859f8d.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/4017c6e85faf.png"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/923d6eb51859.svg"
+    }
+   ],
+   "revision": 1377278536
+  }
+ },
+ "staying-warm-indoors": {
+  "mediawiki:en.wikipedia.org:Hypothermia": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1378221493
+  },
+  "pdf:fema-are-you-ready:17-17": {
+   "pages": "17-17",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "stockpiling-prescriptions": {
+  "mediawiki:en.wikipedia.org:Shelf life": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/b7eef274a4d4.jpg"
+    }
+   ],
+   "revision": 1378831214
+  },
+  "pdf:fema-are-you-ready:15-15": {
+   "pages": "15-15",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:21-21": {
+   "pages": "21-21",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:navedtra-14295-hospital-corpsman:206-206": {
+   "pages": "206-206",
+   "sha256": "1985609b2b16bbeca4831ff0a19415e330cfc7d30ab297150e3c2c788acdd3f6"
+  },
+  "pdf:ready-supply-kit-checklist:1-1": {
+   "pages": "1-1",
+   "sha256": "008baa92f414aaf695d77e2255d91e5fb43504cd809271aefd59b13d7c2493fe"
+  },
+  "pdf:usphs-ships-medicine-chest-2003:53-54": {
+   "pages": "53-54",
+   "sha256": "261edcaaa2fb1ae830665b19e4b0122e1ff16a7cec704d0e1dead3f0f815290d"
+  }
+ },
+ "storing-water": {
+  "pdf:cdc-use-safe-water-one-pager:1-1": {
+   "pages": "1-1",
+   "sha256": "f7bda1f9e7827ee74278d408001e9cdf4529924fa70144e0696ee0fd4ee39bad"
+  },
+  "pdf:fema-are-you-ready:20-21": {
+   "pages": "20-21",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:ready-supply-kit-checklist:1-2": {
+   "pages": "1-2",
+   "sha256": "008baa92f414aaf695d77e2255d91e5fb43504cd809271aefd59b13d7c2493fe"
+  }
+ },
+ "tornado": {
+  "mediawiki:en.wikipedia.org:Tornado preparedness": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/63f5e8f6033c.jpg"
+    }
+   ],
+   "revision": 1345935852
+  },
+  "pdf:fema-are-you-ready:15-16": {
+   "pages": "15-16",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:nws-weather-safety-guide:13-13": {
+   "pages": "13-13",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  },
+  "pdf:nws-weather-safety-guide:15-15": {
+   "pages": "15-15",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  },
+  "pdf:nws-weather-safety-guide:6-6": {
+   "pages": "6-6",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  }
+ },
+ "vehicle-kit": {
+  "mediawiki:en.wikipedia.org:Survival kit": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/75e1a2a6a203.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/3722c82a5872.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/7b775c3791bd.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/e80b7418b6b1.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/64ca8afe942f.jpg"
+    }
+   ],
+   "revision": 1374022970
+  },
+  "pdf:fema-are-you-ready:14-14": {
+   "pages": "14-14",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:17-17": {
+   "pages": "17-17",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:20-21": {
+   "pages": "20-21",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:nws-weather-safety-guide:17-18": {
+   "pages": "17-18",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  }
+ },
+ "waterborne-illness": {
+  "mediawiki:en.wikipedia.org:Cholera": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/6d7430bae94c.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/4c94f7c74aa4.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/2def16ba9905.jpg"
+    },
+    {
+     "licence": "CC BY 4.0",
+     "path": "I/e6eaf806f5fd.png"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/1a8404ebf451.jpg"
+    }
+   ],
+   "revision": 1379078675
+  },
+  "mediawiki:en.wikipedia.org:Diarrhea": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/034c6949b4dd.svg"
+    },
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/185a360928e5.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/1a8404ebf451.jpg"
+    }
+   ],
+   "revision": 1380715552
+  },
+  "mediawiki:en.wikipedia.org:Giardiasis": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1378361114
+  }
+ },
+ "weather-radio-and-alerts": {
+  "mediawiki:en.wikipedia.org:Emergency Alert System": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/64d8788dc905.jpg"
+    }
+   ],
+   "revision": 1379944471
+  },
+  "mediawiki:en.wikipedia.org:NOAA Weather Radio": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/38615ff64a18.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/2d6c6c2ee2b4.jpg"
+    }
+   ],
+   "revision": 1376243196
+  },
+  "mediawiki:en.wikipedia.org:Wireless Emergency Alerts": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/b99bd2e501d3.gif"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/ecdcc3ac271a.gif"
+    },
+    {
+     "licence": "CC0",
+     "path": "I/14e5b13c0785.gif"
+    }
+   ],
+   "revision": 1370273136
+  },
+  "pdf:nws-weather-safety-guide:11-11": {
+   "pages": "11-11",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  },
+  "pdf:nws-weather-safety-guide:15-15": {
+   "pages": "15-15",
+   "sha256": "ea0c073826bb64386712d322a547bce1592a7f9e9c5edae5cf3ae8261180466a"
+  }
+ },
+ "well-shock-chlorination": {
+  "mediawiki:en.wikipedia.org:Water chlorination": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1372338062
+  },
+  "mediawiki:en.wikipedia.org:Well": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/f11bf75ee66a.png"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/be932b305fa4.jpg"
+    },
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/6b6118e26844.jpg"
+    }
+   ],
+   "revision": 1364742168
+  },
+  "pdf:epa-emergency-disinfection-drinking-water:1-2": {
+   "pages": "1-2",
+   "sha256": "b53ca253ed4591ddc91f02fc326f3526fd04df184b0cd5099dd39baaeece6921"
+  }
+ },
+ "wildfire": {
+  "mediawiki:en.wikipedia.org:Defensible space (fire control)": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1337972124
+  },
+  "mediawiki:en.wikipedia.org:Wildfire": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC0",
+     "path": "I/8a656f8be84b.gif"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/2956cd93ca1d.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/a69ecad69809.jpg"
+    },
+    {
+     "licence": "CC BY 2.0",
+     "path": "I/4baedf2141c7.jpg"
+    }
+   ],
+   "revision": 1380389940
+  },
+  "mediawiki:en.wikipedia.org:Wildfire emergency management": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "Public domain",
+     "path": "I/7400971052fa.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/960b0e1e28bd.jpg"
+    }
+   ],
+   "revision": 1356010377
+  },
+  "pdf:fema-are-you-ready:17-17": {
+   "pages": "17-17",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "wildfire-defensible-space": {
+  "mediawiki:en.wikipedia.org:Defensible space (fire control)": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1337972124
+  },
+  "mediawiki:en.wikipedia.org:Wildfire": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/26c765eef7ee.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/fc58ef4c77e5.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/0c4262467cfe.jpg"
+    }
+   ],
+   "revision": 1380389940
+  },
+  "pdf:fema-are-you-ready:17-17": {
+   "pages": "17-17",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "winter-storm-and-extreme-heat": {
+  "mediawiki:en.wikipedia.org:Heat stroke": {
+   "fetched": "2026-10-19",
+   "images": [],
+   "revision": 1369667189
+  },
+  "mediawiki:en.wikipedia.org:Winter storm": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/59242c57ebc4.jpg"
+    }
+   ],
+   "revision": 1363689311
+  },
+  "pdf:fema-are-you-ready:11-11": {
+   "pages": "11-11",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  },
+  "pdf:fema-are-you-ready:17-17": {
+   "pages": "17-17",
+   "sha256": "3873f8ae7528389adacab72259c37b9ae3c507bd3ae23783122e06586560040c"
+  }
+ },
+ "wound-care-supplies": {
+  "mediawiki:en.wikipedia.org:Dressing (medicine)": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/ca9a2b9edb98.png"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/cc5465361ec3.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/911ff764cd76.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/3dd0d06a8d68.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/639f02739ace.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/bb98f4025a2d.jpg"
+    }
+   ],
+   "revision": 1373620149
+  },
+  "mediawiki:en.wikipedia.org:First aid kit": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/adef8d46ff89.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/2e02eb279a3d.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/672aeda6b87e.jpg"
+    },
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/dae08d6e1f9c.jpg"
+    }
+   ],
+   "revision": 1373774632
+  },
+  "pdf:army-fm-4-25-11-first-aid:39-41": {
+   "pages": "39-41",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  },
+  "pdf:usphs-ships-medicine-chest-2003:65-66": {
+   "pages": "65-66",
+   "sha256": "261edcaaa2fb1ae830665b19e4b0122e1ff16a7cec704d0e1dead3f0f815290d"
+  }
+ },
+ "wounds-and-infection": {
+  "mediawiki:en.wikipedia.org:Cellulitis": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC0",
+     "path": "I/599b4fb52fa8.jpg"
+    }
+   ],
+   "revision": 1378321823
+  },
+  "mediawiki:en.wikipedia.org:Wound": {
+   "fetched": "2026-10-19",
+   "images": [
+    {
+     "licence": "CC BY-SA 3.0",
+     "path": "I/d6b4ca634825.jpg"
+    },
+    {
+     "licence": "CC BY-SA 1.0",
+     "path": "I/fe2942daa8a2.jpg"
+    },
+    {
+     "licence": "CC BY-SA 4.0",
+     "path": "I/808d01d960df.jpg"
+    },
+    {
+     "licence": "Public domain",
+     "path": "I/9d573ef9f650.jpg"
+    }
+   ],
+   "revision": 1372990726
+  },
+  "pdf:army-fm-4-25-11-first-aid:21-21": {
+   "pages": "21-21",
+   "sha256": "f4b7d1e5f3597d81bb185b727bfca3c21377b2e63fd652b1ae7642e635a812f6"
+  },
+  "pdf:usphs-ships-medicine-chest-2003:64-65": {
+   "pages": "64-65",
+   "sha256": "261edcaaa2fb1ae830665b19e4b0122e1ff16a7cec704d0e1dead3f0f815290d"
+  }
+ }
+}

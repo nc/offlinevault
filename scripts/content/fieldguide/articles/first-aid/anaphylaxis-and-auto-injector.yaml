@@ -1,0 +1,39 @@
+title: "Anaphylaxis and the adrenaline auto-injector"
+summary: Hives plus trouble breathing or faintness after a sting, food or drug is anaphylaxis; inject adrenaline into the outer thigh at once and call for help.
+keywords: [anaphylaxis, anaphylactic shock, severe allergic reaction, epinephrine, adrenaline, auto-injector, EpiPen, hives, throat swelling]
+procedure: |
+  1. **Recognise it fast.** Anaphylaxis usually starts within 5 to 30 minutes of a sting or injection and within up to 2 hours of eating a food. Suspect it when two or more of these appear together: **skin** (widespread hives, itching, flushing, swelling of the lips, face, tongue or throat), **breathing** (shortness of breath, wheeze, a high-pitched noise on breathing in, hoarseness, a tight throat, trouble swallowing, coughing), **circulation** (lightheadedness, collapse, pale or blue skin, a racing or sometimes slow pulse), **gut** (cramps, vomiting, diarrhoea), or a sense of dread. Loss of voice and difficulty breathing are the most serious signs. Very low blood pressure can be the only sign.
+  2. **Give adrenaline (epinephrine) immediately.** Use the person's auto-injector on the **middle of the outer thigh**, through clothing if needed, and hold it in place as its instructions say. Delay is what kills; there is no medical reason to withhold it. If they cannot do it themselves, you do it.
+  3. **Call emergency services.** Lie the person flat and raise the legs. If breathing is the main problem and lying flat makes it worse, let them sit up with support. Do not let them stand up or walk about suddenly. If they are pregnant, lie them on their left side.
+  4. **Remove the trigger** where you can: scrape out a stinger, stop the food or drug.
+  5. **No improvement, or it comes back, after 5 to 15 minutes: give a second dose** with a fresh injector. About one in five episodes needs two doses; more than two is rare.
+  6. Antihistamines and steroid tablets are extras at best. They do not relieve throat swelling or shock, so never use them instead of adrenaline. An asthma reliever inhaler may help wheeze that persists after adrenaline.
+  7. If the person becomes unresponsive and is not breathing normally, start CPR.
+  8. **Everyone who has had adrenaline must go to hospital**, even if they recover, because a second wave can follow 2 to 24 hours later.
+  ### Being ready
+  - Carry two auto-injectors, know which end has the needle (most accidental injections go into the helper's thumb), and practise with the trainer device. Children of 10 to 25 kg use the junior dose; above 25 kg, the adult dose.
+  - Check the expiry date; the drug lasts about a year. In an emergency an expired injector whose liquid is still clear and free of particles is better than none.
+  - Wear a medical alert bracelet, have a written action plan, and tell the school or workplace. People on beta-blocker heart tablets may respond poorly to adrenaline, so get help even faster.
+  > The FM 4-25.11 note below says it plainly: if the casualty carries an emergency kit for stings, give the medication in it as the kit's instructions say. The SOF handbook page is written for medics with intravenous drugs; the dose for you is the auto-injector.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Anaphylaxis
+    sections: [Signs and symptoms, Causes, Management]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Epinephrine autoinjector
+    sections: [Medical uses, Design]
+  - kind: pdf
+    document: navedtra-14295-hospital-corpsman
+    pages: "207-208"
+    heading: "Anaphylactic reaction (Hospital Corpsman, chapter 4)"
+  - kind: pdf
+    document: sof-medical-handbook-2001
+    pages: "517-518"
+    heading: "Shock: anaphylactic (SOF Medical Handbook, chapter 30)"
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "140"
+    heading: "Anaphylactic shock warning and emergency kits for stings (FM 4-25.11, chapter 6)"
+related: [bites-and-stings, shock, cpr-and-choking, airway-and-recovery-position]

@@ -1,0 +1,34 @@
+title: "Hurricane and storm surge"
+summary: Decide early whether you will leave or stay, prepare for wind and water at once, and remember that the surge, not the wind, kills most people.
+keywords: [hurricane, tropical cyclone, typhoon, storm surge, evacuation zone, hurricane shutters]
+procedure: |
+  ### Before the season
+  1. Learn whether you live in an evacuation zone. Zones are drawn for storm surge, the rise in sea level that has caused about nine in ten tropical cyclone deaths. Plan to leave if officials say so, if you live in a mobile home or on a floodplain, if your house has no storm strengthening, or if past storms brought surge damage.
+  2. Plan both options: a destination and route tens of kilometres inland if you leave, and a small, interior, windowless room on the lowest level that will not flood if you stay.
+  3. Gather at least three days of supplies, including medicines and what pets need. Keep documents somewhere safe or as password-protected copies. Buy flood insurance; standard policies do not include it.
+  4. Prepare the house for wind and water: clear drains and gutters, fit check valves to stop backups, consider shutters, trim or remove damaged limbs, and check the roof, windows and doors.
+  ### When a storm is coming
+  1. Track the forecast and expect it to change. Fill the car, charge phones, and if you are leaving, leave early. If you are not in a zone and not in a mobile home, staying put keeps you out of the gridlock that shadow evacuations cause.
+  2. If told to evacuate, go immediately and never drive around barricades.
+  3. Public shelters are the last resort. They are first come, first served, built to protect life from wind and water and not always stocked with food, water or bedding, and they usually take only service animals.
+  ### During and after
+  1. Stay in your safe room through the storm. If flooding traps you, go up, but not into a closed attic.
+  2. Afterwards, treat floodwater, downed lines and debris as in Flood, and the house as in Returning home.
+sources:
+  - kind: pdf
+    document: fema-are-you-ready
+    pages: "12-13"
+    heading: "Flood and hurricane protective actions (FEMA, Are You Ready?)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Tropical cyclone preparedness
+    sections: [Potential impacts, Individual preparedness]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Hurricane evacuation
+    sections: [Evacuation]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Storm surge
+    sections: [Impacts]
+related: [flood, evacuation-planning, shelter-in-place, go-bag]

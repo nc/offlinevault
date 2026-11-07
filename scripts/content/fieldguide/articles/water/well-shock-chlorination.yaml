@@ -1,0 +1,26 @@
+title: "Shock-chlorinating a private well after a flood"
+summary: Flood water, a lost power supply or a positive bacteria test mean the well needs a one-time heavy dose of chlorine and a retest.
+keywords: [well water, shock chlorination, flooded well, coliform, bleach well]
+procedure: |
+  1. Do not drink from a flooded well until it has been disinfected and tested. Use stored, bottled or boiled water meanwhile.
+  2. Turn off power to the pump. Remove the well cap or vent plug and clear debris from around the casing. If the pump or wiring was under water, have an electrician check it first.
+  3. Mix plain unscented bleach with water in a clean bucket. The amount depends on the casing diameter and water depth: a common rule is about 1 litre (1 quart) of 5 to 9 percent bleach per 100 US gallons of water in the well, and your state or county health department publishes exact tables.
+  4. Pour the mix into the well, then run a garden hose from an outside tap back into the casing until the water smells strongly of chlorine, washing down the inside of the casing.
+  5. Open every tap in the house until chlorine is smelled at each, then close them. Replace the cap and let the system stand **12 to 24 hours**. Do not drink, bathe in or give animals this water.
+  6. Flush through an outside hose away from the septic system, lawn and streams until the chlorine smell is gone, then flush the indoor taps.
+  7. Have the water tested for bacteria one to two weeks later and again a month on. Keep treating or using an alternative supply until two clean tests.
+  > Chlorine does not fix chemical contamination (fuel, pesticides, nitrate). A well that was submerged by flood water carrying fuel needs professional assessment.
+sources:
+  - kind: pdf
+    document: epa-emergency-disinfection-drinking-water
+    pages: "1-2"
+    heading: "Emergency Disinfection of Drinking Water (EPA)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Well
+    sections: [Contamination]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Water chlorination
+    sections: [Biochemistry, Drawbacks]
+related: [boil-bleach-filter, waterborne-illness]

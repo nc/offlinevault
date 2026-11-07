@@ -1,0 +1,22 @@
+title: "Shock: recognising it and keeping someone alive"
+summary: Shock is the body failing to deliver enough blood; it follows bleeding, burns, infection and allergy, and it is treated by fixing the cause and keeping the person warm and lying down.
+keywords: [circulatory shock, hypovolemic, pale clammy skin, rapid pulse, lay flat]
+procedure: |
+  ### Signs
+  - Pale, cold, clammy or grey skin; sweating; a weak fast pulse; fast shallow breathing; thirst; nausea; restlessness, confusion or drowsiness; blotchy or blue lips.
+  ### What to do
+  1. Treat the cause you can treat: stop bleeding, cool burns, give an adrenaline auto-injector for a known severe allergy.
+  2. Lay the person flat on their back. Raise the legs about 30 cm unless there is an unsplinted leg fracture, a head, spine, chest or abdominal injury, or it makes breathing harder.
+  3. Loosen tight clothing at the neck, chest and waist. Keep them **warm** with blankets above and below, but do not overheat.
+  4. Nothing to eat or drink; moisten the lips if they are thirsty. If they vomit or become unresponsive but are breathing, roll them onto their side.
+  5. Reassure them, keep checking breathing and pulse every few minutes, and get them to medical care as a priority. Shock gets worse, not better, without treatment.
+sources:
+  - kind: pdf
+    document: army-fm-4-25-11-first-aid
+    pages: "49-53"
+    heading: "Check for shock and administer first aid measures (FM 4-25.11, chapter 2 section III)"
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Shock (circulatory)
+    sections: [Signs and symptoms, Cause, Management]
+related: [bleeding-control, burns, cpr-and-choking]

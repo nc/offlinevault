@@ -1,0 +1,33 @@
+title: "Batteries for backup power: lead-acid versus LiFePO4"
+summary: Lead-acid is cheap, heavy, and dies if left flat or cycled deep; lithium iron phosphate costs more up front, lasts thousands of cycles and needs its own charger and a protection board.
+keywords: [LiFePO4, lithium iron phosphate, lead-acid battery, deep cycle battery, AGM, battery bank, depth of discharge, BMS]
+procedure: |
+  ### Lead-acid
+  - Use a **deep-cycle** battery (marine, golf cart, solar, "leisure"), not a car starting battery. Starting batteries have thin plates for a short burst of current and are wrecked by a few deep discharges.
+  - Plan on using only about **half** the rated capacity; deeper discharges cut the life sharply, and even well treated a lead-acid bank manages a few hundred deep cycles.
+  - Keep it charged. A lead-acid battery left discharged sulphates and loses capacity, and a flat battery's electrolyte can **freeze** in winter. Charge fully after every use; a full charge takes 6 to 12 hours.
+  - **Flooded** batteries need their water topped up (distilled water only) and vent hydrogen while charging: keep them upright in a ventilated space away from sparks, and keep acid off skin. **AGM and gel** (sealed, "VRLA") batteries can go in any position and need no watering, at a higher price.
+  - Pros: cheap, available everywhere, tolerant of rough charging. Cons: heavy, short life, slow to charge.
+  ### Lithium iron phosphate (LiFePO4)
+  - Four cells of 3.2 V make a **12.8 V** "drop-in" block that fits where a 12 V lead-acid battery went and can use nearly all of its capacity. Expect **thousands of cycles** rather than hundreds, at a fraction of the weight.
+  - It is the safest common lithium chemistry: stable when hot and far less prone to fire than other lithium types. It can still burn if overcharged, crushed or badly overheated, so buy from a reputable maker.
+  - A built-in **battery management system (BMS)** is essential: it keeps every cell between about 2.5 and 3.65 V and balances them. Never charge one above its limit or run it flat; either ruins it.
+  - Use a charger or controller with a **LiFePO4 profile**: no equalisation, no trickle or float charge, no lead-acid temperature compensation.
+  - Its voltage barely changes between about 20 and 80 percent charge, so voltage is a poor fuel gauge; use the BMS readout or a shunt meter.
+  ### Choosing
+  - Occasional backup, tight budget, a cold shed: lead-acid, kept on a float charger.
+  - Daily cycling (solar, a van, a cabin), weight matters, long horizon: LiFePO4 costs more today and less per cycle.
+  - Either way, fuse every battery lead, keep terminals clean and covered, and never leave a battery flat.
+sources:
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Lead-acid battery
+    sections: [Construction, Cycles, Sulfation and desulfation, Safety]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Lithium iron phosphate battery
+    sections: [Specifications, Comparison with other battery types]
+  - kind: mediawiki
+    site: en.wikipedia.org
+    title: Deep-cycle battery
+related: [small-solar-system, generator-safety, low-tech-lighting]
