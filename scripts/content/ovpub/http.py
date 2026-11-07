@@ -6,7 +6,7 @@ from typing import Protocol
 
 import requests
 
-USER_AGENT = "OfflineVaultPublisher/1 (+https://offlinevault.dev; namit.chadha@gmail.com)"
+USER_AGENT = "OfflineVaultPublisher/1 (+https://offlinevault.dev/support)"
 
 
 class Http(Protocol):
